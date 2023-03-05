@@ -6,6 +6,7 @@
 	version = 1
 	translator = Serhii 'LampaMan' Lampitskiy, valentk
 [/Info]
+
 [Translations]
 
 	////0. ORIGINAL [#FF7030A0]: US Army recruits who four days ago were waiting to ship out overseas from local military bases...
@@ -39,7 +40,7 @@
 	6df53ffe-6600-4fc5-87cb-3262c6fe44c7 = <клік> <бззт> <фззт>
 
 	////10. ORIGINAL [#FF00B050]: <cough> I know what people will think.
-	b3af859d-e0d4-4ede-a185-597b785489b4 = *кашель* Я знаю, что подумают люди.
+	b3af859d-e0d4-4ede-a185-597b785489b4 = *кашель* Я знаю, про що люди подумають.
 
 	////11. ORIGINAL [#FF00B050]: <cough> For me it's over. Whatever else happens to you...
 	d37f1120-58df-4e90-87a7-213c1279927d = *кашель* Для мене це кінець. Що б сталось з тобою...
