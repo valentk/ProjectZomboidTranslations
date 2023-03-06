@@ -8494,7 +8494,7 @@
 
 	////2828. ORIGINAL: ... turned into a night of violence.
 	53a34f03-45f3-4d3c-8bcb-1855dfca7d18 = ... що зробила цю ніч жорстокою.
-
+	ТУДУ
 	////2829. ORIGINAL: We'll hear from Washington and LA as soon as we can, but first...
 	bdca7d71-667a-4ea1-b340-47d969795ff9 = Мы скоро снова вернёмся к репортажам из Вашингтона и Лос-Анджелеса, но перед тем, как мы это сделаем...
 
