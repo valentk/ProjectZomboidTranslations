@@ -10,10 +10,10 @@
 [Translations]
 
 	////0. ORIGINAL: This is Jackie Jaye reporting for LBMW...
-	576674c7-6cbf-4ec5-a3e9-7d8269fc44b8 = З вами Джекі Джей, транслюю для 'LBMW'... 
+	576674c7-6cbf-4ec5-a3e9-7d8269fc44b8 = З вами Джекі Джей, транслюю для 'LBMW'...
 
 	////1. ORIGINAL: ... here at the military blockade to the north of the Exclusion Zone.
-	44d6bbb2-1d90-4e39-a19c-5e8e5f63d2c6 = ... прямо з військового блокпосту на північ від Зони Відчуження. 
+	44d6bbb2-1d90-4e39-a19c-5e8e5f63d2c6 = ... прямо з військового блокпосту на північ від Зони Відчуження.
 
 	////2. ORIGINAL: It's a scene of drama, anger and confusion here.
 	cb8d710e-0fc8-4349-a1e6-006483fd65ae = Дуже жахлива картина навколо, багато злості та збентеження.
@@ -22,7 +22,7 @@
 	a4fde7a4-9bb2-467f-8467-85d12475560a = Поруч з нами люди намагаються пролізти через барикади.
 
 	////4. ORIGINAL: And standing in their way are guys in camo.
-	b7530e27-031e-457c-ab83-0f9ed3878463 = Навіть коли на їх шляху стоять люди одягнені в камуфляж. 
+	b7530e27-031e-457c-ab83-0f9ed3878463 = Навіть коли на їх шляху стоять люди одягнені в камуфляж.
 
 	////5. ORIGINAL: US Army recruits who four days ago were waiting to ship out overseas from local military bases..
 	e50ed454-bc93-42b1-ae0e-4c2f1ff557cf = Військові армії США, які 4 дні тому очікували відправки за межу...
@@ -34,28 +34,28 @@
 	7c74acbe-95e1-495c-afc9-e13ff0866c59 = Досі немає новин про самопочуття тих, хто зараз в Зоні!
 
 	////8. ORIGINAL: We know there's something like an influenza virus in there...
-	d8b25dfb-142c-4403-be92-bd78cc865ec1 = Все що ми знаємо це те, що швидкість розповсюдження вірусу схожа на Грип... 
+	d8b25dfb-142c-4403-be92-bd78cc865ec1 = Все що ми знаємо це те, що швидкість розповсюдження вірусу схожа на Грип...
 
 	////9. ORIGINAL: ... but it's localized.
-	c443917d-7e77-4d86-9e6b-fbe95c79cb98 = ... тільки в цей час все відбувається локально. 
+	c443917d-7e77-4d86-9e6b-fbe95c79cb98 = ... тільки в цей час все відбувається локально.
 
 	////10. ORIGINAL: There's just a handful of reports of strange behaviors.
-	17177d56-19ef-44f6-8fa2-36be6bb0ec0d = До нас надходять часткові данні про дивну поведінку. 
+	17177d56-19ef-44f6-8fa2-36be6bb0ec0d = До нас надходять часткові данні про дивну поведінку.
 
 	////11. ORIGINAL: Panic, confusion...
-	60e7c2f7-38a9-4d95-9430-7cddfbf437e5 = Паніка, розгубленість... 
+	60e7c2f7-38a9-4d95-9430-7cddfbf437e5 = Паніка, розгубленість...
 
 	////12. ORIGINAL: I've been told that military scientists ARE present within the zone.
-	545e2718-5057-4aa9-b0a4-0be9c094f0ee = Мені особисто повідомили, що військові вчені ВЖЕ керують в середині Зони. 
+	545e2718-5057-4aa9-b0a4-0be9c094f0ee = Мені особисто повідомили, що військові вчені ВЖЕ керують в середині Зони.
 
 	////13. ORIGINAL: We should hear concrete details tomorrow.
-	3b7637a2-7878-4419-a52f-e8df56611773 = Точні деталі будуть надані до завтра. 
+	3b7637a2-7878-4419-a52f-e8df56611773 = Точні деталі будуть надані до завтра.
 
 	////14. ORIGINAL: If anything else comes out of the Exclusion Zone...
-	bbf9b9bf-dbe9-4359-8860-53dc9b18c98c = Якщо з'явиться хоч якась інформація з Зони Відчуження... 
+	bbf9b9bf-dbe9-4359-8860-53dc9b18c98c = Якщо з'явиться хоч якась інформація з Зони Відчуження...
 
 	////15. ORIGINAL: ... you'll be the first to know.
-	bc3bc8ea-4b7a-44f9-97d5-a4299f057cd3 = ... Ви перші хто дізнається про це. 
+	bc3bc8ea-4b7a-44f9-97d5-a4299f057cd3 = ... Ви перші хто дізнається про це.
 
 	////16. ORIGINAL: Keep safe Kentucky.
 	550510ab-0997-445d-9c4a-6f9acf9a8b3b = Будь в безпеці, Кентукі.
@@ -64,139 +64,139 @@
 	87c8bcc3-3b7c-4d99-81c8-fe46f36d526e = З вами Джекі Джей.
 
 	////18. ORIGINAL: I'm here at the checkpoints to the north of the Knox exclusion zone.
-	322dc178-82ef-493b-8f7a-894df3ed852e = Зараз на зв'язку з північного КПП Зони Відчуження Нокс. 
+	322dc178-82ef-493b-8f7a-894df3ed852e = Зараз на зв'язку з північного КПП Зони Відчуження Нокс.
 
 	////19. ORIGINAL: I'm here with Denise, who has a story to tell.
 	d4c855e9-12c7-4a89-ada8-c225ba4e360c = Поруч Деніс, вона хоче поділитися історією зі всіма вами.
 
 	////20. ORIGINAL: Denise, you were one of the last out of the Zone. Am I right?
-	8a921753-4eaa-45c6-9fc7-c85d147c8a8b = Деніс, ти була однією з останніх кого випустили з Зони. Це так? 
+	8a921753-4eaa-45c6-9fc7-c85d147c8a8b = Деніс, ти була однією з останніх кого випустили з Зони. Це так?
 
 	////21. ORIGINAL: I was. My Mom's still in there.
 	c9e0f0ce-1e45-4e54-b3a3-87bc4a23f7bc = Це дійсно так. Моя мати ще досі там.
 
 	////22. ORIGINAL: Have you heard from her?
-	01629d24-aed0-4e1e-99ff-a25aa27052fe = Від неї є якісь вісточки? 
+	01629d24-aed0-4e1e-99ff-a25aa27052fe = Від неї є якісь вісточки?
 
 	////23. ORIGINAL: Nothin'. Phones are out.
-	f7c026e2-b18c-4d7f-8277-050f3d20bf68 = Немає нічого. Телефонний зв'язок вимкнено. 
+	f7c026e2-b18c-4d7f-8277-050f3d20bf68 = Немає нічого. Телефонний зв'язок вимкнено.
 
 	////24. ORIGINAL: These guys... all standing in-between us.
 	96d80efe-f798-4901-9ebc-25080578ded4 = Ці люди... вони не дають нам проїхати.
 
 	////25. ORIGINAL: The Army, yes. And how did you get out?
-	70f388ca-efa9-440b-931e-9d0b56c02f46 = Ти кажеш про армію, правда. Як ти звідти вибралась? 
+	70f388ca-efa9-440b-931e-9d0b56c02f46 = Ти кажеш про армію, правда. Як ти звідти вибралась?
 
 	////26. ORIGINAL: Well we heard the helicopters all night through.
 	a99c5149-bde4-4a60-a3b9-abfa97684589 = Ми чули гелікоптери усю ніч.
 
 	////27. ORIGINAL: Mom was ill. High temperature, real sleepy.
-	805e9ad5-298d-416f-a04f-0f2c15b9f704 = Мати трохи занедужала. Висока температура, сонливість. 
+	805e9ad5-298d-416f-a04f-0f2c15b9f704 = Мати трохи занедужала. Висока температура, сонливість.
 
 	////28. ORIGINAL: Nothing serious I thought.
-	1c17c50e-d69d-48ef-9cf9-8b32e3b5bb27 = Тоді я не думала про це як про щось серйозне. 
+	1c17c50e-d69d-48ef-9cf9-8b32e3b5bb27 = Тоді я не думала про це як про щось серйозне.
 
 	////29. ORIGINAL: I was going to work at Gas to Go early, like every morning.
-	d28d6492-236f-430a-9084-3028332a4bec = Я, як звичайно, збиралась на роботу в 'Gas to Go'. 
+	d28d6492-236f-430a-9084-3028332a4bec = Я, як звичайно, збиралась на роботу в 'Gas to Go'.
 
 	////30. ORIGINAL: I saw these guys in plastic suits.
-	b301d0b1-fa87-4899-933a-230a40634cfb = Тоді я і побачила хлопців в пакетних костюмах. 
+	b301d0b1-fa87-4899-933a-230a40634cfb = Тоді я і побачила хлопців в пакетних костюмах.
 
 	////31. ORIGINAL: Y'know... bright yellow?
-	746d8625-b390-45df-bbdc-9eba105bf8d6 = Ну, ви знаєте... в світло-жовтих? 
+	746d8625-b390-45df-bbdc-9eba105bf8d6 = Ну, ви знаєте... в світло-жовтих?
 
 	////32. ORIGINAL: Hazard suits Denise?
-	aa04c625-a5b1-4de8-ae8f-3df03e606408 = Та-ак, напевно ти кажеш про одяг хімзахисту. 
+	aa04c625-a5b1-4de8-ae8f-3df03e606408 = Та-ак, напевно ти кажеш про одяг хімзахисту.
 
 	////33. ORIGINAL: I guess. Anyway I saw them down the road.
-	f9f387f4-51ce-4dde-a597-56023c2becfe = Напевно. Коротше, я помітила їх нижче по дорозі. 
+	f9f387f4-51ce-4dde-a597-56023c2becfe = Напевно. Коротше, я помітила їх нижче по дорозі.
 
 	////34. ORIGINAL: Thought it was weird, but everything's weird at 4AM right?
-	1cc3e820-fa5f-4eb3-b252-16bc40cef828 = Подумала, що щось не так, та що може бути нормально о 4 ранку, так? 
+	1cc3e820-fa5f-4eb3-b252-16bc40cef828 = Подумала, що щось не так, та що може бути нормально о 4 ранку, так?
 
 	////35. ORIGINAL: Then I drive through, get taken aside...
-	7574ce0b-17a4-48f7-8ace-0c47cb38a5fb = Я проїхала повз них і вони відвели мене в сторону... 
+	7574ce0b-17a4-48f7-8ace-0c47cb38a5fb = Я проїхала повз них і вони відвели мене в сторону...
 
 	////36. ORIGINAL: They shine a light into my eyes. Take a blood sample...
-	746c1d08-d204-4fc1-89d4-e23a9d4ec162 = Посвітили ліхтариком у очі та взяли кров на аналіз... 
+	746c1d08-d204-4fc1-89d4-e23a9d4ec162 = Посвітили ліхтариком у очі та взяли кров на аналіз...
 
 	////37. ORIGINAL: Keep me locked tight until like... ten minutes ago?
-	a9435e87-3d5e-4a25-ba96-5487b28a0aa8 = Затримали мене і випустили тільки... 10 хвилин тому? 
+	a9435e87-3d5e-4a25-ba96-5487b28a0aa8 = Затримали мене і випустили тільки... 10 хвилин тому?
 
 	////38. ORIGINAL: Then they say I'm clear and kick me out.
-	94e20d7e-a073-4d4a-8cc3-54d7ab0d9c7a = А потім сказали, що я 'чиста' і відвели на зовні. 
+	94e20d7e-a073-4d4a-8cc3-54d7ab0d9c7a = А потім сказали, що я 'чиста' і відвели на зовні.
 
 	////39. ORIGINAL: Then I meet you.
 	5c013232-603a-4f38-a774-795eff8c4989 = Ну а потім я зустріла вас..
 
 	////40. ORIGINAL: What's going on Jackie?
-	1b1dccf0-f0ab-45f6-9ce5-c910b9a97261 = Що ж насправді там твориться, Джекі? 
+	1b1dccf0-f0ab-45f6-9ce5-c910b9a97261 = Що ж насправді там твориться, Джекі?
 
 	////41. ORIGINAL: We don't know just yet Denise.
-	3abff103-77ff-4e58-8dac-07f41bd64d5c = Нам поки не відомо, Деніс. 
+	3abff103-77ff-4e58-8dac-07f41bd64d5c = Нам поки не відомо, Деніс.
 
 	////42. ORIGINAL: From what I've been told your Mom will be fine.
 	dad1efe1-ba60-417e-8e3d-88286945417d = Наскільки я розумію з твоєю мамою все буде нормально.
 
 	////43. ORIGINAL: You know that?
-	5ef17536-1286-450b-be93-80b41ad7cf6a = Це правда? 
+	5ef17536-1286-450b-be93-80b41ad7cf6a = Це правда?
 
 	////44. ORIGINAL: I don't know that, I've been told that.
-	10c8fbff-20bc-4d89-870e-51fed2c5c6f9 = Я в цьому не впевнений, але саме так мені передали. 
+	10c8fbff-20bc-4d89-870e-51fed2c5c6f9 = Я в цьому не впевнений, але саме так мені передали.
 
 	////45. ORIGINAL: Keep close Denise, you'll know what I know.
-	e851af03-01cc-4aa9-aa1c-5ac0da3666ce = Лишайся з нами, Деніс, так ти дізнаєшся все, що я знаю. 
+	e851af03-01cc-4aa9-aa1c-5ac0da3666ce = Лишайся з нами, Деніс, так ти дізнаєшся все, що я знаю.
 
 	////46. ORIGINAL: Just like the guys listening will.
-	2883b958-e65b-4f5f-9747-bb4493868805 = Так само як і ті хто зараз нас слухає. 
+	2883b958-e65b-4f5f-9747-bb4493868805 = Так само як і ті хто зараз нас слухає.
 
 	////47. ORIGINAL: This is Frank Hemingway, taking over coverage of the Knox Event from Jackie.
 	7a40f145-4598-4396-baa5-3f789a8ac573 = З вами Френк Хемінгуей, перебираю відповідальність за освітлення Події Нокс, у Джекі.
 
 	////48. ORIGINAL: It's the end of the second day of the Knox exclusion.
-	6eea019c-bfef-4e37-84b2-74e7cc0835af = Скоро буде кінець другого дня Відчуження Нокс. 
+	6eea019c-bfef-4e37-84b2-74e7cc0835af = Скоро буде кінець другого дня Відчуження Нокс.
 
 	////49. ORIGINAL: Still no word on the contagion.
-	22ef3586-729e-44c2-997d-cd70e8de2c7b = Все ще немає новин про хворих. 
+	22ef3586-729e-44c2-997d-cd70e8de2c7b = Все ще немає новин про хворих.
 
 	////50. ORIGINAL: So what do we know?
 	5ef69ba0-97a5-4fbc-bc57-205a2c879928 = То що ж нам відомо?
 
 	////51. ORIGINAL: Influenza symptoms brought the towns of West Point and Muldraugh to a standstill.
-	0c9696d0-cc02-415d-a8d3-918b554cdf1e = Симптоми грипу заставили міста Малдро та Вест-Пойнт замовкнути. 
+	0c9696d0-cc02-415d-a8d3-918b554cdf1e = Симптоми грипу заставили міста Малдро та Вест-Пойнт замовкнути.
 
 	////52. ORIGINAL: Then overnight... the blockades appeared.
-	cdba3a7e-6b15-411a-bf24-b0bca7162e39 =  Потім через ніч... були збудовані барикади. 
+	cdba3a7e-6b15-411a-bf24-b0bca7162e39 =  Потім через ніч... були збудовані барикади.
 
 	////53. ORIGINAL: Military sources suggest the area is watertight...
-	adf90c6c-49cb-4517-baf1-57be6bddbb24 = Військові спеціалісти стверджують, що в середину та назовні території неможливо проникнути... 
+	adf90c6c-49cb-4517-baf1-57be6bddbb24 = Військові спеціалісти стверджують, що в середину та назовні території неможливо проникнути...
 
 	////54. ORIGINAL: ... there's even boats patrolling the Ohio river.
 	2e7834ec-4eff-4b71-9aad-3b8acf2539c6 = ... в них є катера, що патрулюють ріку Огайо.
 
 	////55. ORIGINAL: If the checkpoints aren't gone tomorrow, however... the boundary will be tested.
-	bc3eaf5d-8160-4288-9216-e406904cfc85 = Якщо до завтра не розберуть КПП... то ми дізнаємось на скільки міцні оборонні споруди. 
+	bc3eaf5d-8160-4288-9216-e406904cfc85 = Якщо до завтра не розберуть КПП... то ми дізнаємось на скільки міцні оборонні споруди.
 
 	////56. ORIGINAL: We've got concerned locals, evacuated families and, yup...
-	322406e4-cc71-4dbf-afa9-ee02937e4f85 = Приходить більше схвильованих громадян, часом цілими сім'ями і так... 
+	322406e4-cc71-4dbf-afa9-ee02937e4f85 = Приходить більше схвильованих громадян, часом цілими сім'ями і так...
 
 	////57. ORIGINAL: ... more news teams turning up every hour.
 	ce3a28c6-1928-4e80-9de1-5779090b8bae = ... з кожною годиною прижають все більше репортерів.
 
 	////58. ORIGINAL: Everyone wants to get in just as, we assume, the residents want to get out.
-	eac76b0f-d596-411b-a84b-735f59d1dc65 = Репортери хочуть потрапити в середину, настільки сильно, наскільки цивільні хочуть вибратись назовні. 
+	eac76b0f-d596-411b-a84b-735f59d1dc65 = Репортери хочуть потрапити в середину, настільки сильно, наскільки цивільні хочуть вибратись назовні.
 
 	////59. ORIGINAL: We're promised answers tomorrow from one... General John McGrew.
-	60f0cb9b-e7ab-4846-8db8-816c1c37b3ad = Нам пообіцяли завтра надати відповідей, назначений їх надати... Генерал Джон МакГрю. 
+	60f0cb9b-e7ab-4846-8db8-816c1c37b3ad = Нам пообіцяли завтра надати відповідей, назначений їх надати... Генерал Джон МакГрю.
 
 	////60. ORIGINAL: We can't wait to hear them General.
-	60e10242-c8b8-41d1-8661-f55ac6ced7b7 = Чекаємо і не дочекаємось, почути їх від Генерала. 
+	60e10242-c8b8-41d1-8661-f55ac6ced7b7 = Чекаємо і не дочекаємось, почути їх від Генерала.
 
 	////61. ORIGINAL: Better make them good...
 	7d4ead1e-c9df-44de-9cde-869c2192d9a1 = Надіюємось на краще...
 
 	////62. ORIGINAL: Frank Hemingway. LBMW.
-	61e52aca-8694-4377-bbb0-8b17d942a286 = Френк Хемінгуей, 'LBMW'. 
+	61e52aca-8694-4377-bbb0-8b17d942a286 = Френк Хемінгуей, 'LBMW'.
 
 	////63. ORIGINAL: Good morning.
 	7ff1f8d1-c866-445a-a00f-fedd460b010a = Доброго ранку.
@@ -205,28 +205,28 @@
 	9b95f31e-a4af-4619-9ee8-97f23b9328c5 = Ви слухаєте 'LBMW'.
 
 	////65. ORIGINAL: It's day three of the Knox evacuation
-	7627222d-39a5-42bc-9d4d-f3a32a538f27 = Вже настав третій день евакуації Нокс. 
+	7627222d-39a5-42bc-9d4d-f3a32a538f27 = Вже настав третій день евакуації Нокс.
 
 	////66. ORIGINAL: Still NO official statement on the contagion that has gripped Kentucky.
-	aacb2fcf-5b5f-4c4c-a2a3-468098fc3889 = Все ще НІЯКИХ заяв про хворобу, що охопила Кентукі. 
+	aacb2fcf-5b5f-4c4c-a2a3-468098fc3889 = Все ще НІЯКИХ заяв про хворобу, що охопила Кентукі.
 
 	////67. ORIGINAL: The Exclusion Zone remains in place.
-	bcc6a6ab-db3b-4ac3-9f56-1b59c8e0a8e7 = Зона Відчуження ще не зникла. 
+	bcc6a6ab-db3b-4ac3-9f56-1b59c8e0a8e7 = Зона Відчуження ще не зникла.
 
 	////68. ORIGINAL: Military personnel from local bases have a HUGE area closed off.
-	ef737db4-8961-48a4-8471-91210473948b = Військовий персонал з локальних баз, очепили ВЕЛИКУ територію.  
+	ef737db4-8961-48a4-8471-91210473948b = Військовий персонал з локальних баз, очепили ВЕЛИКУ територію.
 
 	////69. ORIGINAL: Their primary deployment: south of Louisville.
-	b1ca550d-6c90-4d1d-a146-6d93600a36ee = Головний штаб військових: південь Луісвіла. 
+	b1ca550d-6c90-4d1d-a146-6d93600a36ee = Головний штаб військових: південь Луісвіла.
 
 	////70. ORIGINAL: The Exclusion Zone stretches out below the curve of the Ohio river...
-	d0979fcd-7a3c-4b39-b741-717dfd3fcb1f = Зона Відчуження знаходиться на півдні від повороту ріки Огайо... 
+	d0979fcd-7a3c-4b39-b741-717dfd3fcb1f = Зона Відчуження знаходиться на півдні від повороту ріки Огайо...
 
 	////71. ORIGINAL: ...and contains the small towns of Muldraugh and West Point.
 	f11b8d7a-0948-4a12-91f8-637fa2591f67 = ... та містить в собі невеликі міста Малдро та Вест-Пойнт.
 
 	////72. ORIGINAL: We have been told: there will be answers.
-	b4a7511e-cc21-4e8c-84c3-0216d8406563 = Нам сказали: чекайте відповідей. 
+	b4a7511e-cc21-4e8c-84c3-0216d8406563 = Нам сказали: чекайте відповідей.
 
 	////73. ORIGINAL: LBMW understands a press conference will be held this afternoon...
 	d9819e94-9a02-47c8-b9ff-5fc9a97caaac = 'LBMW' розуміє що конференція відбудеться сьогодні по полудню...
@@ -235,10 +235,10 @@
 	f5b06095-59b5-4694-b64c-fa9323f79fe9 = ... на тему хаосу, що розповсюджується крайні 4 дні.
 
 	////75. ORIGINAL: Will the communications black-out be explained?
-	8a916bfb-ecb3-4455-86ba-c2349532b977 = Чи пояснять, нарешті, в чому причина відключення комунікацій? 
+	8a916bfb-ecb3-4455-86ba-c2349532b977 = Чи пояснять, нарешті, в чому причина відключення комунікацій?
 
 	////76. ORIGINAL: Until then, the only advice for those nearby remains: stay indoors.
-	efeec9a4-18d7-4d63-812c-14ab32f92852 = Єдина порада тим хто в Зоні: лишатись у себе вдома. 
+	efeec9a4-18d7-4d63-812c-14ab32f92852 = Єдина порада тим хто в Зоні: лишатись у себе вдома.
 
 	////77. ORIGINAL: This is Frank Hemingway for LBMW.
 	566db375-aecc-4c54-88b2-814ac5fb0f49 = З вами Френк Хемінгуей, на 'LBMW'.
@@ -292,58 +292,58 @@
 	280a954b-dfa5-49cc-b294-6ce6b574c2ca = Ви слухвєте 'LBMW'. З вами Джекі Джей.
 
 	////94. ORIGINAL: The exclusion zone to the south of Louisville remains in place today.
-	a0bad126-44f2-42d9-9a26-7658eca0d15d = Зона Відчуження знаходиться на півдні від Луісвілю продовжує своє існування. 
+	a0bad126-44f2-42d9-9a26-7658eca0d15d = Зона Відчуження знаходиться на півдні від Луісвілю продовжує своє існування.
 
 	////95. ORIGINAL: No vehicles, no phone calls, no cameras...
-	365250fc-f9af-4718-aaa0-93d2d3100d46 = Не дозволяються любі машини, телефоні дзвінки та записи на камеру... 
+	365250fc-f9af-4718-aaa0-93d2d3100d46 = Не дозволяються любі машини, телефоні дзвінки та записи на камеру...
 
 	////96. ORIGINAL: ... just the rapid deployment of military personnel and vehicles.
-	10949f25-f712-40fd-9aa8-aaf0d36af793 = ... навколо масове розгортання військових сил та їх засобів пересування. 
+	10949f25-f712-40fd-9aa8-aaf0d36af793 = ... навколо масове розгортання військових сил та їх засобів пересування.
 
 	////97. ORIGINAL: LBMW is in a temporary camp on the exclusion border.
-	80064149-7198-47da-9c44-8f52170964f4 = LBMW знаходиться в тимчасовому таборі на межі Зони Відчуження. 
+	80064149-7198-47da-9c44-8f52170964f4 = LBMW знаходиться в тимчасовому таборі на межі Зони Відчуження.
 
 	////98. ORIGINAL: Panic throughout the nation is endemic.
 	3d2b4949-ec8f-4143-bbcb-9a846241e422 = Паніка розповсюджується з великою швидкістю.
 
 	////99. ORIGINAL: What next for Kentucky in this sad story?
-	52faf12e-7f7e-40d5-b43b-56c86326e23d = Що чекає Кентукі в цій жахливій історії? 
+	52faf12e-7f7e-40d5-b43b-56c86326e23d = Що чекає Кентукі в цій жахливій історії?
 
 	////100. ORIGINAL: Good evening. This is LBMW.
-	f32fb478-2f75-4556-8f66-9efd9d48882c = Доброго вечору. Транслює 'LBMW'.  
+	f32fb478-2f75-4556-8f66-9efd9d48882c = Доброго вечору. Транслює 'LBMW'.
 
 	////101. ORIGINAL: I'm Frank Hemingway.
 	8438d923-3d21-44b2-a549-8674ba714bad = Я Френк Хемінгуей.
 
 	////102. ORIGINAL: After repeated demands General John McGrew today explained the Exclusion Zone.
-	7ddd7e1c-ea6c-4acd-b89f-658cd03bed33 = Після великої кількості прохань, сьогодні Генерал Джон МакГрю причини створення Зони Відчуження. 
+	7ddd7e1c-ea6c-4acd-b89f-658cd03bed33 = Після великої кількості прохань, сьогодні Генерал Джон МакГрю причини створення Зони Відчуження.
 
 	////103. ORIGINAL: But are his answers enough for Kentucky?
-	62aeb4bc-751d-4c51-9eec-c499f6d1a516 = Та чи вистачає його відповідей для Кентукі? 
+	62aeb4bc-751d-4c51-9eec-c499f6d1a516 = Та чи вистачає його відповідей для Кентукі?
 
 	////104. ORIGINAL: General McGrew went on to state that the no-fly zone...
-	e65c7b4c-ca43-497c-ac59-de3b60709153 = Генерал МакГрю пояснив, що безполітна зона... 
+	e65c7b4c-ca43-497c-ac59-de3b60709153 = Генерал МакГрю пояснив, що безполітна зона...
 
 	////105. ORIGINAL: ... would remain in place for the immediate future.
-	e5f7e871-4852-44fe-ab6f-5bf31e04e197 = ... продовжить існувати в найближчому майбутньому. 
+	e5f7e871-4852-44fe-ab6f-5bf31e04e197 = ... продовжить існувати в найближчому майбутньому.
 
 	////106. ORIGINAL: His comments have done little to allay public fear.
-	0a5df8d9-474e-4606-bf90-a2e540ccae7a = Його виступ мало чого зробив для зменшення паніки. 
+	0a5df8d9-474e-4606-bf90-a2e540ccae7a = Його виступ мало чого зробив для зменшення паніки.
 
 	////107. ORIGINAL: Why are we in the dark?
-	bbaace95-51a6-4313-8c5b-0ce49bc89c44 = Чому від нас приховують інформацію? 
+	bbaace95-51a6-4313-8c5b-0ce49bc89c44 = Чому від нас приховують інформацію?
 
 	////108. ORIGINAL: Why can't they talk to us?
-	ab375233-3434-4f3b-8eba-b21f3bb407eb = Чому вони не можуть говорити з нами? 
+	ab375233-3434-4f3b-8eba-b21f3bb407eb = Чому вони не можуть говорити з нами?
 
 	////109. ORIGINAL: And why won't they let US talk to them?
-	f768c8b8-6cca-4f70-951c-64379cbbc85e = Та чому не дають НАМ поспілкуватись з ними? 
+	f768c8b8-6cca-4f70-951c-64379cbbc85e = Та чому не дають НАМ поспілкуватись з ними?
 
 	////110. ORIGINAL: Ah, wait we've just got this in.
-	e3f0c2a9-68de-418b-8f74-2e6fb98afa68 = Постривайте, тільки-но передали інформацію... 
+	e3f0c2a9-68de-418b-8f74-2e6fb98afa68 = Постривайте, тільки-но передали інформацію...
 
 	////111. ORIGINAL: It's a statement from the President distributed to all media.
-	028bee7b-0c38-4163-bd05-424cd8d359ae = ...Це відповідь президента, транслюється всіма ЗМІ. 
+	028bee7b-0c38-4163-bd05-424cd8d359ae = ...Це відповідь президента, транслюється всіма ЗМІ.
 
 	////112. ORIGINAL: This is a distressing time.
 	4296776d-6ee6-411c-b8f2-b887514a1a12 = В це важкий час.
@@ -364,7 +364,7 @@
 	690daf87-627f-4e99-85f1-9ae02c0362ed = Але я анітрохи не сумніваюся в тому, що наші кращі фахівці...
 
 	////118. ORIGINAL: ... to get to the root of the panic and confusion within the Exclusion Zone.
-	303e9c48-eb61-4f5e-bea6-42ebfbf8df0e =  ... з Центру контролю і Профілактики Захворювань знайдуть корінь цієї проблеми.
+	303e9c48-eb61-4f5e-bea6-42ebfbf8df0e =  ... з Центру Контролю і профілактики Захворювань знайдуть корінь цієї проблеми.
 
 	////119. ORIGINAL: I have faith in our Servicemen and Women to fulfill their duties...
 	43cfd043-73ff-48d1-b713-fbba9a5ea483 = Я анітрохи не сумніваюся в наших Військових, у тому, що вони виконують свої завдання...
@@ -382,286 +382,286 @@
 	220498db-8d7c-49df-8557-f69e3cf403a9 = Дякую.
 
 	////124. ORIGINAL: Saying it like I see it.
-	0c939dc4-2286-4649-9aa1-7acb1c895691 = Заявляємо так як ми це бачимо. 
+	0c939dc4-2286-4649-9aa1-7acb1c895691 = Заявляємо так як ми це бачимо.
 
 	////125. ORIGINAL: This is Frank Hemingway, LBMW.
 	c3e67440-db99-4740-ae8f-0bf217a0ff25 = З вами Френк Хемінгуей, транслюю на 'LBMW'.
 
 	////126. ORIGINAL: I'm in the media camp on the Knox Exclusion Zone boundary.
-	5612a73c-bf82-466f-859b-b8096433d1fb = Я в таборі ЗМІ, на межі Зони Відчуження, поблизу Форту Нокс. 
+	5612a73c-bf82-466f-859b-b8096433d1fb = Я в таборі ЗМІ, на межі Зони Відчуження, поблизу Форту Нокс.
 
 	////127. ORIGINAL: Last night, the President gave full support to agencies fighting the Knox Event.
-	3add099a-199c-42e6-b2ff-eb56f5f1f888 = В цю ніч Президент надав повну підтримку агентствам, що борються з Подією Нокс. 
+	3add099a-199c-42e6-b2ff-eb56f5f1f888 = В цю ніч Президент надав повну підтримку агентствам, що борються з Подією Нокс.
 
 	////128. ORIGINAL: Now back to the Exclusion Zone Boundary, where I am this morning.
-	8ecf0af1-3f13-4ed8-8421-5735c1a1ebaa = А тепер вертаємось до межі Зони Відчуження, де я знаходжусь цього ранку. 
+	8ecf0af1-3f13-4ed8-8421-5735c1a1ebaa = А тепер вертаємось до межі Зони Відчуження, де я знаходжусь цього ранку.
 
 	////129. ORIGINAL: In my hand? An exclusive statement from General John McGrew.
-	c517943d-c1ee-465e-99f4-0355df13c4ee = Що в мене в руках? Ексклюзивна заява від Генерала Джона МакГрю. 
+	c517943d-c1ee-465e-99f4-0355df13c4ee = Що в мене в руках? Ексклюзивна заява від Генерала Джона МакГрю.
 
 	////130. ORIGINAL: Here he apologises for...
-	8a582fad-8c48-4c2d-bd52-a815bd2168df = У ньому він вибачається за... 
+	8a582fad-8c48-4c2d-bd52-a815bd2168df = У ньому він вибачається за...
 
 	////131. ORIGINAL: a 'lack of clarity'...
-	70458f2f-5ad3-456f-86b9-9023f484ef00 = 'малу ясність'... 
+	70458f2f-5ad3-456f-86b9-9023f484ef00 = 'малу ясність'...
 
 	////132. ORIGINAL: ... in what many are calling 'The Knox Event'.
-	b8ac3d7b-b052-42b9-affc-05a0af63b4a9 = Втому, що більшість називає 'Подією Нокс'. 
+	b8ac3d7b-b052-42b9-affc-05a0af63b4a9 = Втому, що більшість називає 'Подією Нокс'.
 
 	////133. ORIGINAL: In the EXCLUSIVE statement to LBMW he again confirmed...
-	8e84cfae-8a31-4cf3-817b-782501f23552 = У своїй ЕКСКЛЮЗИВНІЙ заяві 'LBMW', він знову підтвердив... 
+	8e84cfae-8a31-4cf3-817b-782501f23552 = У своїй ЕКСКЛЮЗИВНІЙ заяві 'LBMW', він знову підтвердив...
 
 	////134. ORIGINAL: ... that the outbreak is contained...
-	d71743e0-1cca-41e7-81ac-982d15e88313 = ... що хворі ізольовані... 
+	d71743e0-1cca-41e7-81ac-982d15e88313 = ... що хворі ізольовані...
 
 	////135. ORIGINAL: ...and that he is unaware of fatalities within the exclusion zone.
-	f76932ab-dff7-44c9-ab0e-a516f1c92c22 = ... та йому не відомо про смертельні випадки в середині Зони Відчуження. 
+	f76932ab-dff7-44c9-ab0e-a516f1c92c22 = ... та йому не відомо про смертельні випадки в середині Зони Відчуження.
 
 	////136. ORIGINAL: When I asked whether the miliary sensitivity of the region...
-	645bdef2-eca1-45d5-b1a8-6c8928ddd30f = Коли я запитав, чи має військова присутність в регіоні... 
+	645bdef2-eca1-45d5-b1a8-6c8928ddd30f = Коли я запитав, чи має військова присутність в регіоні...
 
 	////137. ORIGINAL: ... had an impact on the way the Event is being handled...
-	88339464-23cc-4c18-a235-7b82c65f817a = ...належний вплив на то, як люди справляються з Подією...  
+	88339464-23cc-4c18-a235-7b82c65f817a = ...належний вплив на то, як люди справляються з Подією...
 
 	////138. ORIGINAL: ... I was met only with silence.
-	31f0b476-d6eb-4cec-b9ea-727be8a3ecf1 = ... у відповідь почув лише мовчання. 
+	31f0b476-d6eb-4cec-b9ea-727be8a3ecf1 = ... у відповідь почув лише мовчання.
 
 	////139. ORIGINAL: Saying it, like I see it.
-	44946032-de60-44b2-856a-7a6cff85049a = Передаємо те що бачимо. 
+	44946032-de60-44b2-856a-7a6cff85049a = Передаємо те що бачимо.
 
 	////140. ORIGINAL: Hi. Jackie Jaye for LBMW.
-	7ea33495-fa23-4d5b-b491-a3abb912c4f7 = Привіт. Джекі Джей, транслює з LBMW. 
+	7ea33495-fa23-4d5b-b491-a3abb912c4f7 = Привіт. Джекі Джей, транслює з LBMW.
 
 	////141. ORIGINAL: What caused the Event? Rumor is rife.
-	53500e0d-7653-48af-86a5-2c6defb8ba90 = З чого почалась Подія? Зараз вирує багато чуток. 
+	53500e0d-7653-48af-86a5-2c6defb8ba90 = З чого почалась Подія? Зараз вирує багато чуток.
 
 	////142. ORIGINAL: A strange cloud hangs over Kentucky.
-	7d626e8d-ed2c-4032-a58a-91c87bfb9f70 = Дивна хмара літає над Кентукі. 
+	7d626e8d-ed2c-4032-a58a-91c87bfb9f70 = Дивна хмара літає над Кентукі.
 
 	////143. ORIGINAL: I'm in one of the camps that has grown on the Event border.
-	e01d06ee-41bd-4325-a5ef-4db18d9a6948 = Я в одному з таборів, що встиг вирости на межі Зони. 
+	e01d06ee-41bd-4325-a5ef-4db18d9a6948 = Я в одному з таборів, що встиг вирости на межі Зони.
 
 	////144. ORIGINAL: Displaced families, people with families inside the Event...
-	d701449c-961e-476c-8954-e75cb8d088de = Переміщені сім'ї, люди з сім'ями всередині Зони Події... 
+	d701449c-961e-476c-8954-e75cb8d088de = Переміщені сім'ї, люди з сім'ями всередині Зони Події...
 
 	////145. ORIGINAL: They're all here. And, guess what? They're angry.
-	e8ac73dc-5abe-48f4-83f2-b80cab072aba = Вони всі тут. Відгадайте що? Вони казяться. 
+	e8ac73dc-5abe-48f4-83f2-b80cab072aba = Вони всі тут. Відгадайте що? Вони казяться.
 
 	////146. ORIGINAL: They say we shouldn't be worried...
-	e5f66148-1765-43de-aaa3-5cf065f9ef3f = Вони кажуть, що нам не треба хвилюватись... 
+	e5f66148-1765-43de-aaa3-5cf065f9ef3f = Вони кажуть, що нам не треба хвилюватись...
 
 	////147. ORIGINAL: ... but they won't even say what in HELL this is?
-	130686fa-3616-4ac9-a59b-95b6a9163ef1 = ... але при цьому, не надають жодної інфекції, про ПЕКЛО яку тут відбувається? 
+	130686fa-3616-4ac9-a59b-95b6a9163ef1 = ... але при цьому, не надають жодної інфекції, про ПЕКЛО яку тут відбувається?
 
 	////148. ORIGINAL: He says there are no casualties?
-	eaada990-55c8-4981-b487-9291cb811441 = Він каже, що немає випадковостей? 
+	eaada990-55c8-4981-b487-9291cb811441 = Він каже, що немає випадковостей?
 
 	////149. ORIGINAL: There's a lot of bad stuff leading up to a casualty, right?
-	fdb946ae-796b-4958-b0e9-8b2df833bbf1 = Існує багато поганих речей, які ведуть до випадковостей, так? 
+	fdb946ae-796b-4958-b0e9-8b2df833bbf1 = Існує багато поганих речей, які ведуть до випадковостей, так?
 
 	////150. ORIGINAL: What happened to my wife, General?
-	937592a6-28aa-44ef-ac11-d142756ae9e5 = Що сталось з моєю дружиною, Генерал? 
+	937592a6-28aa-44ef-ac11-d142756ae9e5 = Що сталось з моєю дружиною, Генерал?
 
 	////151. ORIGINAL: Why can't we speak?
 	847e00ce-5d89-4017-b74d-716df0d87014 = Чому нам не дають розмовляти?
 
 	////152. ORIGINAL: Do you know what caused this sir?
-	a3f4c5c2-6c1e-4403-9311-a252f6d02a94 = Ви знаєте, що це спричинило? 
+	a3f4c5c2-6c1e-4403-9311-a252f6d02a94 = Ви знаєте, що це спричинило?
 
 	////153. ORIGINAL: Hell if I know.
-	d6798136-09ca-4be5-aa8f-99c5a7f03d1a = Якби я тільки знав. 
+	d6798136-09ca-4be5-aa8f-99c5a7f03d1a = Якби я тільки знав.
 
 	////154. ORIGINAL: Some are saying it was the smell.
-	3228c791-6225-4627-a0ed-445af98c7320 = Багато хто говорить, що це був запах. 
+	3228c791-6225-4627-a0ed-445af98c7320 = Багато хто говорить, що це був запах.
 
 	////155. ORIGINAL: Awful bad smell here, for weeks.
-	2040166c-f3d9-46b7-8aae-bfe02d26c5bb = Дивний сморід, що тримався тут тижнями. 
+	2040166c-f3d9-46b7-8aae-bfe02d26c5bb = Дивний сморід, що тримався тут тижнями.
 
 	////156. ORIGINAL: And what do you think has happened to your Mommy, sweetheart?
-	561fa02f-6f48-4696-9fdd-0cea023a293d = Як ти думаєш, що сталось з твоєю мамою, мила? 
+	561fa02f-6f48-4696-9fdd-0cea023a293d = Як ти думаєш, що сталось з твоєю мамою, мила?
 
 	////157. ORIGINAL: I don't know.
 	931c1bb9-dfea-4d07-8abe-d62d4373cd5d = Я не знаю.
 
 	////158. ORIGINAL: Neither do I honey.
-	9b01718c-0977-44fe-97e4-9894f99ddaab = Я теж не знаю, крихітка. 
+	9b01718c-0977-44fe-97e4-9894f99ddaab = Я теж не знаю, крихітка.
 
 	////159. ORIGINAL: It'll be okay.
 	a9f753f2-d8b1-4006-a8ca-65fa615ff72d = Все буде добре.
 
 	////160. ORIGINAL: This is Jackie Jaye. Keep safe guys.
-	c0e919be-c180-4e09-877f-4c97eb7a0fe4 = З вами Джекі Джей. Будьте на сторожі. 
+	c0e919be-c180-4e09-877f-4c97eb7a0fe4 = З вами Джекі Джей. Будьте на сторожі.
 
 	////161. ORIGINAL: This is Jackie Jaye, here today with Professor John Ramirez - a military scientist
-	c0a828d5-691f-47f9-9e03-2e6fa475e31a = З вами Джекі Джей, сьогодні на зв'язку з професором військових вчень - Джоном Рамірезом. 
+	c0a828d5-691f-47f9-9e03-2e6fa475e31a = З вами Джекі Джей, сьогодні на зв'язку з професором військових вчень - Джоном Рамірезом.
 
 	////162. ORIGINAL: Professor Ramirez, we've been told that you can provide some answers.
-	4d8f50dd-a723-4cac-8149-e3e3c831cb0b = Професоре, нас інформували, що ви зможете роз'яснити ситуацію для нас. 
+	4d8f50dd-a723-4cac-8149-e3e3c831cb0b = Професоре, нас інформували, що ви зможете роз'яснити ситуацію для нас.
 
 	////163. ORIGINAL: How are they doing in there?
-	273df837-01dd-4c48-bfe0-f5445aee73e4 = Як вони себе там почувають? 
+	273df837-01dd-4c48-bfe0-f5445aee73e4 = Як вони себе там почувають?
 
 	////164. ORIGINAL: Not good Jackie.
-	c2067159-db7b-4225-a229-27603671c4e9 = Не дуже, Джекі. 
+	c2067159-db7b-4225-a229-27603671c4e9 = Не дуже, Джекі.
 
 	////165. ORIGINAL: They're all on two feet, but they're in a bad way.
-	b46389b2-c688-4a8d-aae3-21deff253cae = Пересувайтесь пішки. 
+	b46389b2-c688-4a8d-aae3-21deff253cae = Пересувайтесь пішки.
 
 	////166. ORIGINAL: What are the symptoms? Is this life-threatening?
-	4a60607c-8970-423c-b821-7245d721c99a = Які симптоми? Це може вбити? 
+	4a60607c-8970-423c-b821-7245d721c99a = Які симптоми? Це може вбити?
 
 	////167. ORIGINAL: We've taken samples.
-	49d75c54-62eb-4f74-ae9d-97fc5348c6fb = Ми взяли у хворих аналізи. 
+	49d75c54-62eb-4f74-ae9d-97fc5348c6fb = Ми взяли у хворих аналізи.
 
 	////168. ORIGINAL: There's a team looking into that right now.
-	e320a9c8-ac18-4c7b-b22d-7010da6f8917 = Робота над цим доручена окремій команді прямо зараз. 
+	e320a9c8-ac18-4c7b-b22d-7010da6f8917 = Робота над цим доручена окремій команді прямо зараз.
 
 	////169. ORIGINAL: There's no reason to spread fear or alarm.
-	865772b3-4238-4c1d-894f-fa7200deaeb5 = Немає причин розповсюджувати страх чи паніку. 
+	865772b3-4238-4c1d-894f-fa7200deaeb5 = Немає причин розповсюджувати страх чи паніку.
 
 	////170. ORIGINAL: We have top men looking into what this is...
-	e6df79c0-f8da-4e23-ba4c-9acc825db21a = Ми залучили кращих спеціалістів для розуміння цього недуга... 
+	e6df79c0-f8da-4e23-ba4c-9acc825db21a = Ми залучили кращих спеціалістів для розуміння цього недуга...
 
 	////171. ORIGINAL: ...and just where it came from.
-	edd8315b-73b1-4b80-befd-960a048f9ed4 = ... та звідки вона до нас прийшла. 
+	edd8315b-73b1-4b80-befd-960a048f9ed4 = ... та звідки вона до нас прийшла.
 
 	////172. ORIGINAL: And the symptoms?
-	453d1fb8-e0d4-410d-897b-998f50b74be3 = А симптоми? 
+	453d1fb8-e0d4-410d-897b-998f50b74be3 = А симптоми?
 
 	////173. ORIGINAL: Like we said: flu-like at first, then - panic and confusion.
 	e38d60d8-88a6-4e77-a4e9-aaaeec421241 = Як ми вже казали раніше: спочатку схоже на звичайний грип, а потім...
 
 	////174. ORIGINAL: We think the spread has slowed now.
-	8562c856-7aa7-4853-8a1b-59adb2d410e1 = ...- паніка та розгубленість. Ми вважаємо, що розповсюдження сповільнилось. 
+	8562c856-7aa7-4853-8a1b-59adb2d410e1 = ...- паніка та розгубленість. Ми вважаємо, що розповсюдження сповільнилось.
 
 	////175. ORIGINAL: But we don't deal in absolutes.
-	4e264273-371d-40bd-9c66-d893c5fbd13e = Але завжди може щось піти не так. 
+	4e264273-371d-40bd-9c66-d893c5fbd13e = Але завжди може щось піти не так.
 
 	////176. ORIGINAL: This remains a volatile situation, with a contagious illness at its heart.
-	d84fdccb-ed55-4289-aaa0-fbf21ead5b2b = Ситуація продовжує бути непостійною, причиною ще досі вважається хвороба. 
+	d84fdccb-ed55-4289-aaa0-fbf21ead5b2b = Ситуація продовжує бути непостійною, причиною ще досі вважається хвороба.
 
 	////177. ORIGINAL: The lockdown is required by international law...
-	96786dff-0539-4b9e-afc5-127cdd159fca = Міжнародні закони зобов'язують утримувати в ізоляції місце розпалювання. 
+	96786dff-0539-4b9e-afc5-127cdd159fca = Міжнародні закони зобов'язують утримувати в ізоляції місце розпалювання.
 
 	////178. ORIGINAL: ... and common sense...
-	4aa5f58d-f000-42ba-8c43-5c5b9aa2b217 = ...як і здоровий глузд... 
+	4aa5f58d-f000-42ba-8c43-5c5b9aa2b217 = ...як і здоровий глузд...
 
 	////179. ORIGINAL: ... until we know for sure we are safe.
-	3fae8e9c-2d12-40ad-8572-e87e3a58f22b = ...до того часу поки не буде впевненості, що загроза зникла. 
+	3fae8e9c-2d12-40ad-8572-e87e3a58f22b = ...до того часу поки не буде впевненості, що загроза зникла.
 
 	////180. ORIGINAL: I'm sure y'all can understand why.
 	d1f957a4-bf15-4252-8c53-6eddee8b8725 = Я впевнений що ви зможете зрозуміти причини.
 
 	////181. ORIGINAL: And the reports of violence?
-	bc102443-31bd-4476-a055-ba5ae375d93a = Як прокоментуєте звіти про насилля? 
+	bc102443-31bd-4476-a055-ba5ae375d93a = Як прокоментуєте звіти про насилля?
 
 	////182. ORIGINAL: At this point in time we have no reason to believe folks won't recover.
 	47e458d7-73f0-40ff-b13c-7c1069bdf8bf = Зараз немає причин думати, що хворі не одужають.
 
 	////183. ORIGINAL: Thank you for your time.
-	d66f9a20-997a-4652-90cf-1796ecea7a9e = Дякую за приділений час. 
+	d66f9a20-997a-4652-90cf-1796ecea7a9e = Дякую за приділений час.
 
 	////184. ORIGINAL: I'm Jackie Jaye. Keep safe Kentucky.
-	4f1ba862-2224-4cbe-a64e-aff0e81e68bc = З вами Джекі Джей. Люди в зоні, будьте обережні. 
+	4f1ba862-2224-4cbe-a64e-aff0e81e68bc = З вами Джекі Джей. Люди в зоні, будьте обережні.
 
 	////185. ORIGINAL: Good evening. I'm Frank Hemingway.
-	92dcd964-dba3-4f9c-beab-9086d0275054 = Доброго вечору. З вами Френк Хемінгуей. 
+	92dcd964-dba3-4f9c-beab-9086d0275054 = Доброго вечору. З вами Френк Хемінгуей.
 
 	////186. ORIGINAL: This is LBMW.
-	9dca17e8-01b1-4d31-b327-7c2102588327 = Транслюю з радіостанції 'LBMW'. 
+	9dca17e8-01b1-4d31-b327-7c2102588327 = Транслюю з радіостанції 'LBMW'.
 
 	////187. ORIGINAL: Public anger reaches boiling point...
-	cd05c61d-e14d-4b53-9315-21dfcef68090 = Публічні невдоволення стають більш масовими... 
+	cd05c61d-e14d-4b53-9315-21dfcef68090 = Публічні невдоволення стають більш масовими...
 
 	////188. ORIGINAL: ... and Knox Telecommunications accept responsibility for ongoing communication outages...
-	a7a13d1c-6e22-4b61-9b22-cb9bbd33ee1b = ...і Телекомунікації Нокс беруть на себе всю відповідальність за вимкнення трансляцій... 
+	a7a13d1c-6e22-4b61-9b22-cb9bbd33ee1b = ...і Телекомунікації Нокс беруть на себе всю відповідальність за вимкнення трансляцій...
 
 	////189. ORIGINAL: ... that were in place days BEFORE the Knox Event began.
 	e0731c9a-3769-4365-9357-61dedf9c4d11 = ...які почались РАНІШЕ початку Події Нокс.
 
 	////190. ORIGINAL: Meanwhile, fresh details of the Knox Infection emerge.
-	0fde3c24-d723-4280-aaa2-047f2a0195f9 = До того ж, з'явились нова інформація про заразу, що зараз в Зоні Відчуження. 
+	0fde3c24-d723-4280-aaa2-047f2a0195f9 = До того ж, з'явились нова інформація про заразу, що зараз в Зоні Відчуження.
 
 	////191. ORIGINAL: Flu-like - then panic and confusion.
-	67356bbf-0874-4c71-81d8-7ede2387d406 = Перші симптоми - як у грипу, потім паніка та розгубленість. 
+	67356bbf-0874-4c71-81d8-7ede2387d406 = Перші симптоми - як у грипу, потім паніка та розгубленість.
 
 	////192. ORIGINAL: A contagion that spread throughout entire communities.
-	973812c2-d0d7-499c-9b08-1e336db493ff = Це симптоми хвороби, що косить групами. 
+	973812c2-d0d7-499c-9b08-1e336db493ff = Це симптоми хвороби, що косить групами.
 
 	////193. ORIGINAL: A contagion that, scientists claim, might soon have run its course.
 	d049a5d6-d50b-42e6-a421-23b5d4860218 = Хвороба, що за словами вчених може закінчитись.
 
 	////194. ORIGINAL: So, if it's all over: why the black-out?
-	9753a697-b276-417b-9fa9-3b0704591b0c = Якщо хвороба йде на спад, тоді чому зв'язок ще досі не працює? 
+	9753a697-b276-417b-9fa9-3b0704591b0c = Якщо хвороба йде на спад, тоді чому зв'язок ще досі не працює?
 
 	////195. ORIGINAL: What aren't we being told?
-	5fa705bd-14ea-4fde-a492-023f786e1eea = Нам чогось не дозволяють. 
+	5fa705bd-14ea-4fde-a492-023f786e1eea = Нам чогось не дозволяють.
 
 	////196. ORIGINAL: Today a public demonstration in Washington DC exploded into angry scenes.
-	ed55f0ac-b364-4fa5-b489-ad218fd59af8 = Публічний виступ в Вашингтоні, що був раніше сьогодні... 
+	ed55f0ac-b364-4fa5-b489-ad218fd59af8 = Публічний виступ в Вашингтоні, що був раніше сьогодні...
 
 	////197. ORIGINAL: All we need, the people say, are answers.
-	7c72c3db-9e8b-4117-a4fe-c2d36aa7c2c2 = ...вибухав від злості. Все що потрібно людям - це відповіді. 
+	7c72c3db-9e8b-4117-a4fe-c2d36aa7c2c2 = ...вибухав від злості. Все що потрібно людям - це відповіді.
 
 	////198. ORIGINAL: LBMW ask the questions..
-	fb720674-250f-41ca-b269-e5e69da97c0c = 'LBMW' задає питання... 
+	fb720674-250f-41ca-b269-e5e69da97c0c = 'LBMW' задає питання...
 
 	////199. ORIGINAL: But sometimes the silence is even more damning...
-	48af083f-b72d-4a25-a0fe-d9ecc6c0bde6 = Але інколи тиша, що йде у відповідь... 
+	48af083f-b72d-4a25-a0fe-d9ecc6c0bde6 = Але інколи тиша, що йде у відповідь...
 
 	////200. ORIGINAL: ...than the answers that aren't there.
-	9c21aa74-d71c-4586-8e8b-817270550136 = ...лякає більше не доопрацювання цих відповідей. 
+	9c21aa74-d71c-4586-8e8b-817270550136 = ...лякає більше не доопрацювання цих відповідей.
 
 	////201. ORIGINAL: Frank Hemingway.  LBMW.
 	48c8c29f-7e2a-4461-8026-6961e0b1aec3 = Фрэнк Хемінгуей, 'LBMW'.
 
 	////202. ORIGINAL: This is Frank Hemingway, signing off for the night.
-	710a20de-b15a-4e27-a938-e2277c427c7e = З вами був Френк Хемінгуей, закінчую транслювати на цю ніч. 
+	710a20de-b15a-4e27-a938-e2277c427c7e = З вами був Френк Хемінгуей, закінчую транслювати на цю ніч.
 
 	////203. ORIGINAL: Growing unrest has been reported throughout the nation.
-	6c009f96-08ea-4139-bbd4-0b7b2e2cf12a = Паніці, про яку чула вся країна, кінця краю не видно. 
+	6c009f96-08ea-4139-bbd4-0b7b2e2cf12a = Паніці, про яку чула вся країна, кінця краю не видно.
 
 	////204. ORIGINAL: Placards in Washington. Firebombs in Detroit.
-	a6892caf-2a63-4e75-acd7-6f0c8513ea26 = Плакати у Вашингтоні. Коктейлі Молотова в Детройті. 
+	a6892caf-2a63-4e75-acd7-6f0c8513ea26 = Плакати у Вашингтоні. Коктейлі Молотова в Детройті.
 
 	////205. ORIGINAL: A Greene's Grocery Store in downtown LA: set ablaze.
-	f851133b-393c-45f1-903f-594f9940824a = Продуктовий магазин Greene's в центрі Лос-Анжелес був спалений. 
+	f851133b-393c-45f1-903f-594f9940824a = Продуктовий магазин Greene's в центрі Лос-Анжелес був спалений.
 
 	////206. ORIGINAL: Isolated incidents with one voice:
-	dbc8b85c-265e-4f81-a7d2-300b1853d9fc = Ізольовані випадки свідчать про одне: 
+	dbc8b85c-265e-4f81-a7d2-300b1853d9fc = Ізольовані випадки свідчать про одне:
 
 	////207. ORIGINAL: We don't feel safe.'
-	9fe638a4-fc1c-4796-9cec-9a248d8fe53e = 'Ми не відчуваємо себе в безпеці'. 
+	9fe638a4-fc1c-4796-9cec-9a248d8fe53e = 'Ми не відчуваємо себе в безпеці'.
 
 	////208. ORIGINAL: and 'What aren't we being told?'
-	119ca91b-89a5-42ec-be56-a34ce4990c7b = ...і 'Чого ви нам не домовляєте?' 
+	119ca91b-89a5-42ec-be56-a34ce4990c7b = ...і 'Чого ви нам не домовляєте?'
 
 	////209. ORIGINAL: Meanwhile, camps on the edge of the Event boundary continue to grow.
-	f61c4477-365e-4f16-8a96-4d1559ed8b10 = Окрім цього, з'являються ще більше таборів на межі Зони. 
+	f61c4477-365e-4f16-8a96-4d1559ed8b10 = Окрім цього, з'являються ще більше таборів на межі Зони.
 
 	////210. ORIGINAL: Onlookers, well-wishers, worried families...
-	04b08d08-ab1c-4938-88ed-66977d376919 = Спостерігачі, доброзичливі люди, схвильовані сім'ї... 
+	04b08d08-ab1c-4938-88ed-66977d376919 = Спостерігачі, доброзичливі люди, схвильовані сім'ї...
 
 	////211. ORIGINAL: ... staring through the wire and arguing with military personnel.
-	8b95b931-4d52-4b0e-989a-48bd8ffa4bf2 = ...всі вони дивляться через огорожу, спорять з військовими. 
+	8b95b931-4d52-4b0e-989a-48bd8ffa4bf2 = ...всі вони дивляться через огорожу, спорять з військовими.
 
 	////212. ORIGINAL: As anger continues to grow.
-	6005c673-6527-425a-b78d-de8dc8db3c64 = Суспільна озлобленість продовжує рости. 
+	6005c673-6527-425a-b78d-de8dc8db3c64 = Суспільна озлобленість продовжує рости.
 
 	////213. ORIGINAL: We're five days into the Event exclusion. This is LBMW.
-	752964df-ade2-4249-ab0d-2532efb28409 = Початок п'ятого дня Події Нокс. Ви слухаєте 'LBMW'. 
+	752964df-ade2-4249-ab0d-2532efb28409 = Початок п'ятого дня Події Нокс. Ви слухаєте 'LBMW'.
 
 	////214. ORIGINAL: This is Jackie Jaye on the Event boundary, with your breaking news.
-	3c837f51-0a5c-4065-855e-9472446bf5e1 = З вами Джекі Джей на межі Події, з важливими деталями. 
+	3c837f51-0a5c-4065-855e-9472446bf5e1 = З вами Джекі Джей на межі Події, з важливими деталями.
 
 	////215. ORIGINAL: Last night anger at the handling of the Knox Event boiled over.
-	a6161be8-3396-4270-afd5-6265ce95b6d3 = Останню ніч накоплена злість, що засіла в людях, дала про себе знати. 
+	a6161be8-3396-4270-afd5-6265ce95b6d3 = Останню ніч накоплена злість, що засіла в людях, дала про себе знати.
 
 	////216. ORIGINAL: As public outcry and disorder spills onto the streets of our cities.
-	16e932fa-52ed-43e8-be8e-bc972ac85911 = Публічне невдоволення та протести перейшли на вулиці наших міст. 
+	16e932fa-52ed-43e8-be8e-bc972ac85911 = Публічне невдоволення та протести перейшли на вулиці наших міст.
 
 	////217. ORIGINAL: The President has released a statement asking for calm.
-	0ba92996-a2ab-48e7-9264-ae54eaf2b760 = Президент закликає зберігати спокій. 
+	0ba92996-a2ab-48e7-9264-ae54eaf2b760 = Президент закликає зберігати спокій.
 
 	////218. ORIGINAL: I understand the frustration. I can hear you: loud and clear.
 	25071aff-ef5f-48ad-aa20-cdc845c6adae = Я розумію ваше невдоволення. Я прекрасно і чітко чую вас.
@@ -712,46 +712,46 @@
 	c2d3184e-be50-489b-978f-e4048721367a = ...коли я матиму її в своїх руках.
 
 	////234. ORIGINAL: Meanwhile, closer to home.
-	7a8af28f-be41-4aaa-9145-8cf1d0fb0094 = Тим часом, транслюємо з рідних місць. 
+	7a8af28f-be41-4aaa-9145-8cf1d0fb0094 = Тим часом, транслюємо з рідних місць.
 
 	////235. ORIGINAL: General John McGrew has issued a warning to folks camped out on the Event line.
-	719ad0bf-dcfc-404d-9a4d-5c71fc630778 = Генерал Джон МакГрю попередив людей, що оселилися на межі Події. 
+	719ad0bf-dcfc-404d-9a4d-5c71fc630778 = Генерал Джон МакГрю попередив людей, що оселилися на межі Події.
 
 	////236. ORIGINAL: His message: if worried relatives and displaced families do not move on...
-	53933aa2-d150-4e5d-9b52-0b5563aeadff = Наступна цитата: якщо розділені сім'ї та схвильовані родичі не розійдуться... 
+	53933aa2-d150-4e5d-9b52-0b5563aeadff = Наступна цитата: якщо розділені сім'ї та схвильовані родичі не розійдуться...
 
 	////237. ORIGINAL: ... they will be dispersed.
-	86215554-dfb5-4338-a236-c06923c6e703 = ... будемо змушені їх розстріляти. 
+	86215554-dfb5-4338-a236-c06923c6e703 = ... будемо змушені їх розстріляти.
 
 	////238. ORIGINAL: Meanwhile, gunshots from inside the Zone have been heard.
-	3b21e2d0-02f0-4e1c-a812-320811844901 = Тим часом, було чути стрілянину в середині Зони. 
+	3b21e2d0-02f0-4e1c-a812-320811844901 = Тим часом, було чути стрілянину в середині Зони.
 
 	////239. ORIGINAL: The military refused to comment.
-	8c96c38f-d13a-4004-956f-91391a889d0a = Військові утримались від коментарів. 
+	8c96c38f-d13a-4004-956f-91391a889d0a = Військові утримались від коментарів.
 
 	////240. ORIGINAL: This is Jackie Jaye. Keep safe Kentucky.
-	2e8473aa-e846-43e2-b7d4-f88fd4d476fb = З вами Джекі Джей. Громадяни Кентукі, будьте на сторожі. 
+	2e8473aa-e846-43e2-b7d4-f88fd4d476fb = З вами Джекі Джей. Громадяни Кентукі, будьте на сторожі.
 
 	////241. ORIGINAL: Breaking news.
 	2146a338-6733-46be-a2bd-5c50449e813d = Термінові новини.
 
 	////242. ORIGINAL: Commercial flights out of the US have been grounded by the World Health Organisation.
-	b3b664e0-6f5b-491d-8853-6e7fd8a194f9 = Комерційні вильоти з США були призупинені Всесвітньою Організацією Охорони Здоров'я. 
+	b3b664e0-6f5b-491d-8853-6e7fd8a194f9 = Комерційні вильоти з США були призупинені Всесвітньою Організацією Охорони Здоров'я.
 
 	////243. ORIGINAL: Any flight scheduled to take off after six tonight is cancelled.
-	6abe4027-7766-4caa-8ec0-3ce48c281db9 = Сьогодні будь-які вильоти після 18:00, будуть відмінені. 
+	6abe4027-7766-4caa-8ec0-3ce48c281db9 = Сьогодні будь-які вильоти після 18:00, будуть відмінені.
 
 	////244. ORIGINAL: In a statement the World Health Organisation highlights...
-	fb094ff3-fd90-49b6-ae11-32668a57d874 = В своїй заяві ВООЗ відмітила... 
+	fb094ff3-fd90-49b6-ae11-32668a57d874 = В своїй заяві ВООЗ відмітила...
 
 	////245. ORIGINAL: ... an 'ongoing concern over the still unidentified Kentucky outbreak'...
-	d450fb7e-a330-4158-b94a-e920501f1fca = ...'збільшення занепокоєння про невизначені спалахи хвороби в Кентукі'... 
+	d450fb7e-a330-4158-b94a-e920501f1fca = ...'збільшення занепокоєння про невизначені спалахи хвороби в Кентукі'...
 
 	////246. ORIGINAL: ... as it seeks to prevent  the malady spreading internationally.
-	1d53166f-c09a-45a8-8503-4710ba9a1749 = ...в спробах припинити розповсюдження хвороби в інші країни. 
+	1d53166f-c09a-45a8-8503-4710ba9a1749 = ...в спробах припинити розповсюдження хвороби в інші країни.
 
 	////247. ORIGINAL: The President has reacted with anger.
-	0ef51166-3a83-4d00-be4e-0330cd2ee361 = Президент відреагував з невдоволенням. 
+	0ef51166-3a83-4d00-be4e-0330cd2ee361 = Президент відреагував з невдоволенням.
 
 	////248. ORIGINAL: This move is as unwelcome...
 	79dd62ce-3411-48d6-bf08-3e37b3b7501a = Ця дія настільки безвідповідальна...
@@ -790,25 +790,25 @@
 	6da28a3a-1473-4628-95c8-8e3a079ef4f0 = На сьогодні все.
 
 	////260. ORIGINAL: From six tonight EST the ONLY craft with permission to take off...
-	4bb3cc38-ce6a-4c47-957a-33f39ca93ad7 = Від сьогодні, з 18:00 за східним часом, ЄДИНИЙ дозвіл на політ... 
+	4bb3cc38-ce6a-4c47-957a-33f39ca93ad7 = Від сьогодні, з 18:00 за східним часом, ЄДИНИЙ дозвіл на політ...
 
 	////261. ORIGINAL: ...will carry medicines or military personnel.
-	b5ed42ad-4a93-4716-9c5c-3d7b8d767b68 = ...буде видано літакам, що перевозять ліки та військових. 
+	b5ed42ad-4a93-4716-9c5c-3d7b8d767b68 = ...буде видано літакам, що перевозять ліки та військових.
 
 	////262. ORIGINAL: Meanwhile in unsavory scenes...
-	ed3560a4-794e-4763-b5af-5ed886298f43 = Тим часом, панічні закупи харчів... 
+	ed3560a4-794e-4763-b5af-5ed886298f43 = Тим часом, панічні закупи харчів...
 
 	////263. ORIGINAL: ...panic-buying has turned to looting in many states.
 	ba9b1359-58b5-4301-af69-6839dffb460f = ...перетворились в пограбування в більшості штатів.
 
 	////264. ORIGINAL: America sits on a knife-edge.
-	28ffa063-de11-4860-a506-ef4c4fbf647c = Америка ходить по лезу. 
+	28ffa063-de11-4860-a506-ef4c4fbf647c = Америка ходить по лезу.
 
 	////265. ORIGINAL: Jackie Jaye.
-	d8cc5fbe-f305-4eb0-92b6-a7819f166dc1 = Джекі Джей. 
+	d8cc5fbe-f305-4eb0-92b6-a7819f166dc1 = Джекі Джей.
 
 	////266. ORIGINAL: This is Frank Hemingway...
-	2d1448cd-9ef3-496b-bdec-5be1a5810f0d = З вами Френк Хемінгуей... 
+	2d1448cd-9ef3-496b-bdec-5be1a5810f0d = З вами Френк Хемінгуей...
 
 	////267. ORIGINAL: ... and I'm Jackie Jaye.
 	9f4d3a40-20f3-4afd-be0f-07adda55dbaf = ...Та Джекі Джей.
@@ -820,37 +820,37 @@
 	cde6c2b5-14d8-4e08-8aa0-7432cad905bf = Миротворчі сили розстеляються по всій країні.
 
 	////270. ORIGINAL: Throughout it all: that same message:
-	a85116a3-939b-49b1-875a-ed760c38b574 = Всі вони повторюють одне й те ж саме: 
+	a85116a3-939b-49b1-875a-ed760c38b574 = Всі вони повторюють одне й те ж саме:
 
 	////271. ORIGINAL: Stay indoors where possible. Do not panic.
-	a5bc1ed0-406a-4112-9865-669202e8c406 = Лишайтесь в приміщеннях. Не панікуйте. 
+	a5bc1ed0-406a-4112-9865-669202e8c406 = Лишайтесь в приміщеннях. Не панікуйте.
 
 	////272. ORIGINAL: This all in response to the unprecedented move made by the WHO...
-	ca3fb02f-6abd-4b44-9618-4200d5fb59ee = Все це відповідь на несподівану дію ВООЗ... 
+	ca3fb02f-6abd-4b44-9618-4200d5fb59ee = Все це відповідь на несподівану дію ВООЗ...
 
 	////273. ORIGINAL: ...who have cancelled all flights to and from mainland America.
-	ed80c57c-f03e-48d1-be08-22fe6a8ebaeb = ...якою заборонили всі польоти з та в Америку. 
+	ed80c57c-f03e-48d1-be08-22fe6a8ebaeb = ...якою заборонили всі польоти з та в Америку.
 
 	////274. ORIGINAL: All eyes are on developments in a sleepy corner of Kentucky...
-	1e6eb544-642d-4c67-8de9-07889f05b380 = Вся увага прикута до колись млосного кутку Кентукі... 
+	1e6eb544-642d-4c67-8de9-07889f05b380 = Вся увага прикута до колись млосного кутку Кентукі...
 
 	////275. ORIGINAL: ...now a no-go zone ring-fenced by the US Army
-	9b0160d5-58be-49a8-a57a-325ed97c8b70 = ...зараз перетворений в безполітну зону, оточену армією США. 
+	9b0160d5-58be-49a8-a57a-325ed97c8b70 = ...зараз перетворений в безполітну зону, оточену армією США.
 
 	////276. ORIGINAL: Once we'd report from Muldraugh and West Point about county fairs and sick pets...
-	8ba0e339-7940-4e6b-84ae-584e2ccb76af = Колись ми спокійно сповіщали вас про домашніх улюбленців з Малдро чи Вест-Пойнт... 
+	8ba0e339-7940-4e6b-84ae-584e2ccb76af = Колись ми спокійно сповіщали вас про домашніх улюбленців з Малдро чи Вест-Пойнт...
 
 	////277. ORIGINAL: ... now times have changed significantly.
-	de37e743-8960-4fc5-bbb1-8dd1702eb191 = ...Але вже інші часи. 
+	de37e743-8960-4fc5-bbb1-8dd1702eb191 = ...Але вже інші часи.
 
 	////278. ORIGINAL: Pictures released to LBMW, however, show crowded streets...
-	3b32002a-8622-41b7-9dbb-f4ff4b797c5b = Фотографії, зроблені для 'LBMW', показують забиті вулиці... 
+	3b32002a-8622-41b7-9dbb-f4ff4b797c5b = Фотографії, зроблені для 'LBMW', показують забиті вулиці...
 
 	////279. ORIGINAL: ...suggesting that, despite it all, some townsfolk are living as normal.
-	2f817b17-db18-45bc-a27a-02b63676236d = ...натякаючи на те, що не дивлячись на проблему, життя бурлить. 
+	2f817b17-db18-45bc-a27a-02b63676236d = ...натякаючи на те, що не дивлячись на проблему, життя бурлить.
 
 	////280. ORIGINAL: Frank Hemingway and Jackie Jaye,  LBMW.
-	a7cbf66b-e9d5-444b-bfeb-8e4f8870c904 = Френк Хемінгуей разом з Джекі Джей, 'LMBW'. 
+	a7cbf66b-e9d5-444b-bfeb-8e4f8870c904 = Френк Хемінгуей разом з Джекі Джей, 'LMBW'.
 
 	////281. ORIGINAL: Stay safe everyone.
 	10ff4139-65db-4ea0-b3a3-7634552a605a = Лишайтесь в безпечних місцях.
@@ -859,13 +859,13 @@
 	258eaa89-ae44-46e3-90f5-f19a9370d04d = Термінові новини на 'LBMW'.
 
 	////283. ORIGINAL: The Knox Exclusion Zone has been widened.
-	891e662e-a81b-4d9d-b185-2b2df42925be = Зону Відчуження Нокс Розширили. 
+	891e662e-a81b-4d9d-b185-2b2df42925be = Зону Відчуження Нокс Розширили.
 
 	////284. ORIGINAL: Early this morning, some camps growing along key access roads were moved back.
-	48648b40-3cf1-41b1-9097-ca460978b89a = Сьогодні з ранку наметове містечко, що виріс на межі зони, був відсунений. 
+	48648b40-3cf1-41b1-9097-ca460978b89a = Сьогодні з ранку наметове містечко, що виріс на межі зони, був відсунений.
 
 	////285. ORIGINAL: A statement from the office of General John McGrew reads as follows:
-	2ace711f-936b-4a07-a84e-31e9074b2ae3 = Заява з офісу від Генерала Джона МакГрю було таким: 
+	2ace711f-936b-4a07-a84e-31e9074b2ae3 = Заява з офісу від Генерала Джона МакГрю було таким:
 
 	////286. ORIGINAL: Civilians were moved peacefully and calmly...'
 	e46f4b87-9aa3-4ce2-8039-395f89f73afe = Громадян супроводили від межи Зони мирно та спокійно.
@@ -874,7 +874,7 @@
 	29474bd9-0ee7-47df-afdd-0e46f208354a = ...інколи навіть у військовій техніці, для їхньої безпеки.
 
 	////288. ORIGINAL: Rumors of conflict on the edge of the abandoned perimeter...
-	02d157ee-8887-4faf-80a2-9cae2d8aaae7 = Чутки про конфлікти на межі покинутого периметру... 
+	02d157ee-8887-4faf-80a2-9cae2d8aaae7 = Чутки про конфлікти на межі покинутого периметру...
 
 	////289. ORIGINAL: ... however, have not gone away.
 	a3c98088-4506-4992-969d-5eb5c6f19c5f = ...не припинились.
@@ -973,13 +973,13 @@
 	e52b6889-7207-4f6f-949a-93187cd47e4c = Знаходячись на межі Зони, де це все відбувається, з персоналом Генерала МакГрю.
 
 	////321. ORIGINAL: While we work on that, the President this morning addressed the nation.
-	9671212c-dba0-43d9-b911-51f59ea7d558 = Поки ми працюємо над цим, цього ранку, Президент звернувся до громадян. 
+	9671212c-dba0-43d9-b911-51f59ea7d558 = Поки ми працюємо над цим, цього ранку, Президент звернувся до громадян.
 
 	////322. ORIGINAL: And for the rumor-mongering that has grown around the so-called 'Knox Event'
 	bb8b927b-addc-47dc-a4fc-c0adc3373678 = Та чутки, які виросли навколо так званої "Події Нокса"
 
 	////323. ORIGINAL: Stay tuned everyone...
-	72240b99-c4c1-4fb5-8023-756425cfe1df = Лишайтесь на зв'язку... 
+	72240b99-c4c1-4fb5-8023-756425cfe1df = Лишайтесь на зв'язку...
 
 	////324. ORIGINAL: ... you need to hear what's coming up next.
 	6f2780bf-522c-48de-b03d-37bfc06049e5 = ...ви маєте знати, що відбудеться далі.
@@ -988,46 +988,46 @@
 	67712fa7-8e6f-4002-bb77-838c797e02d2 = Будьте обережні.
 
 	////326. ORIGINAL: And I'm Frank Hemingway.
-	7d47477f-2204-4d6f-82f0-1c532dc94188 = З вами я, Френк Хемінгуей. 
+	7d47477f-2204-4d6f-82f0-1c532dc94188 = З вами я, Френк Хемінгуей.
 
 	////327. ORIGINAL: This news report will contain information many listeners will find shocking.
-	4ac27912-8c07-4034-832c-586c75977889 = Сьогоднішня новина має інформацію, яка багато кого шокує. 
+	4ac27912-8c07-4034-832c-586c75977889 = Сьогоднішня новина має інформацію, яка багато кого шокує.
 
 	////328. ORIGINAL: We have verified survivor accounts and shocking images from inside the Exclusion Zone.
-	9860b0b0-4fa3-41a0-a2c5-1db8302871a7 = Ми отримали деяку інформацію про вцілілих та шокуючі фотографії з середини Зони Відчуження. 
+	9860b0b0-4fa3-41a0-a2c5-1db8302871a7 = Ми отримали деяку інформацію про вцілілих та шокуючі фотографії з середини Зони Відчуження.
 
 	////329. ORIGINAL: There IS violence...
-	00bde738-b5e8-4dba-9d10-2702aa2e5550 = Насилля там ПРИСУТНЄ... 
+	00bde738-b5e8-4dba-9d10-2702aa2e5550 = Насилля там ПРИСУТНЄ...
 
 	////330. ORIGINAL: ...terrible violence in there.
-	51d34a92-09a8-4cdc-afe6-5e0d25e23ad4 = ...жахаюча жорстокість. 
+	51d34a92-09a8-4cdc-afe6-5e0d25e23ad4 = ...жахаюча жорстокість.
 
 	////331. ORIGINAL: In one image, circulated between civilians on the border-line...
-	9f386ef8-2899-442f-aa39-34d852e8ddf2 = На одній з фотографій, що швидко розповсюдились між громадян на межі Зони... 
+	9f386ef8-2899-442f-aa39-34d852e8ddf2 = На одній з фотографій, що швидко розповсюдились між громадян на межі Зони...
 
 	////332. ORIGINAL: ... a man appears with...
-	4ae3dee6-ae48-4206-9c35-7c8acd3d7b32 = ...зображено чоловіка... 
+	4ae3dee6-ae48-4206-9c35-7c8acd3d7b32 = ...зображено чоловіка...
 
 	////333. ORIGINAL: ... with his arm unattached...
-	88ea8d51-7941-4ebd-bdd2-5d208e6389b9 = ...з від рубленою кінцівкою... 
+	88ea8d51-7941-4ebd-bdd2-5d208e6389b9 = ...з від рубленою кінцівкою...
 
 	////334. ORIGINAL: ... and apparently unconcerned at his severe injury.
-	8923cfa7-9492-45b1-afb6-d2c0d155ce03 = ...та за всіма ознаками, не звертаючи на це увагу. 
+	8923cfa7-9492-45b1-afb6-d2c0d155ce03 = ...та за всіма ознаками, не звертаючи на це увагу.
 
 	////335. ORIGINAL: This morning's statement by the President...
-	3c299d81-e566-49f1-8aaf-db20c1cf1978 = Повідомлення, від Президента, яке було з ранку... 
+	3c299d81-e566-49f1-8aaf-db20c1cf1978 = Повідомлення, від Президента, яке було з ранку...
 
 	////336. ORIGINAL: ... suggested that there was a receding chance of recovery.
-	0f184913-e960-4e66-9c5b-8cc0ebc3efae = ...натякало на те, що шанс одужання після Інфекції швидко впав. 
+	0f184913-e960-4e66-9c5b-8cc0ebc3efae = ...натякало на те, що шанс одужання після Інфекції швидко впав.
 
 	////337. ORIGINAL: But still a chance.
 	8a98a2e9-1cff-4885-ab3f-8a5c508dd58b = Але надія ще лишалась.
 
 	////338. ORIGINAL: This new evidence would suggest this is...
-	f0d088c7-9254-4eed-993c-726da71310be = Нові докази, що втрапили до нас... 
+	f0d088c7-9254-4eed-993c-726da71310be = Нові докази, що втрапили до нас...
 
 	////339. ORIGINAL: ... an exaggeration.
-	1d7790bb-4e3a-40c9-8e0f-d8a5ba280557 = ...говорить про те, що ці заяви були перебільшенням. 
+	1d7790bb-4e3a-40c9-8e0f-d8a5ba280557 = ...говорить про те, що ці заяви були перебільшенням.
 
 	////340. ORIGINAL: We have pressed officials for an official response.
 	8957b4c8-d0f2-4e57-afbe-899dea783795 = Ми натисли на офіційних представників, щоб вони зробили офіційну заяву.
@@ -1036,16 +1036,16 @@
 	166a6f2c-679c-4356-8765-3f6b32b1e60c = Джекі Джей та Френк Хемінгуей, тримаємо вас у курсі.
 
 	////342. ORIGINAL: I'm Jackie Jaye and if you can hear me you're <bzzt>
-	cb0585b2-c9bb-416b-a2c0-a1b6a66e302a = З вами Джекі Джей та якщо ви мене чуєте, ви м<бззт> 
+	cb0585b2-c9bb-416b-a2c0-a1b6a66e302a = З вами Джекі Джей та якщо ви мене чуєте, ви м<бззт>
 
 	////343. ORIGINAL: <fzzt>
 	7558faba-50c8-4126-8313-ab48222d374a = <фззт>
 
 	////344. ORIGINAL: <bzzt> impacting on all communications <fzzt>
-	e1ba861f-7a89-454c-b1b7-75ef90505289 = <бззт> впливаючу на зв'язок з суспі<фззт> 
+	e1ba861f-7a89-454c-b1b7-75ef90505289 = <бззт> впливаючу на зв'язок з суспі<фззт>
 
 	////345. ORIGINAL: <bzzt> some flights <bzzt>
-	590a1c74-e511-4694-8903-3f95cabacd97 = <бззт> деякі вильоти <фззт> 
+	590a1c74-e511-4694-8903-3f95cabacd97 = <бззт> деякі вильоти <фззт>
 
 	////346. ORIGINAL: <bzzt>
 	ef73c65f-531d-4809-a85c-19b1a0c5a006 = <бззт>
@@ -1057,22 +1057,22 @@
 	f72b74c0-a671-4a1e-844d-3b02acd3bce9 = Один з очевидців, прямо з зони.
 
 	////349. ORIGINAL: LBMW staff don't want to pour gas on the flames but... this is important.
-	c4192aba-4150-45d7-9a65-c72c88a558cf = Робітники станції 'LBMW' не мають бажання підливати масло у вогонь... Але це не важливо. 
+	c4192aba-4150-45d7-9a65-c72c88a558cf = Робітники станції 'LBMW' не мають бажання підливати масло у вогонь... Але це не важливо.
 
 	////350. ORIGINAL: Where've you been Joe?
-	491d6df8-87c8-4856-bdb5-556803c39b6f = Звідки ти, Джо? 
+	491d6df8-87c8-4856-bdb5-556803c39b6f = Звідки ти, Джо?
 
 	////351. ORIGINAL: The military base.
-	a30cf415-c7b2-4974-8aa9-79f4a869c09f = На військовій базі. 
+	a30cf415-c7b2-4974-8aa9-79f4a869c09f = На військовій базі.
 
 	////352. ORIGINAL: Inside Knox.
 	033fa1d0-4f85-4ce4-b987-bbab0a94b1f4 = В середині Форту Нокс.
 
 	////353. ORIGINAL: Who, who kept you there?
-	65ecdd96-a19e-4e30-85e4-f9d00f287094 = Хто тебе там тримав? 
+	65ecdd96-a19e-4e30-85e4-f9d00f287094 = Хто тебе там тримав?
 
 	////354. ORIGINAL: The Army. McGrew's men.
-	3aa2b2c7-56e5-4b4c-b9fe-51a3928b4918 = Армія, як не дивно. Люди МакГрю. 
+	3aa2b2c7-56e5-4b4c-b9fe-51a3928b4918 = Армія, як не дивно. Люди МакГрю.
 
 	////355. ORIGINAL: They said it was a quarantine. Then one day we woke up
 	ea61b98c-047b-4a3e-8f59-22be2be1aff5 = Нам сказали, що це був карантин. А потім ми прокинулись.
@@ -1084,31 +1084,31 @@
 	3364d9ea-5afe-4f3b-b40f-fd1c39aa1e02 = В головному гуртожитку, в холі...
 
 	////358. ORIGINAL: Blood.
-	d962ddfe-1ab2-4aef-a3a7-eb89df3dacb1 = ...кров. 
+	d962ddfe-1ab2-4aef-a3a7-eb89df3dacb1 = ...кров.
 
 	////359. ORIGINAL: Blood and... changed people.
 	cc0b162f-3701-4e42-8b63-8bef78f9d303 = Кров та.. люди. Змінені люди.
 
 	////360. ORIGINAL: What don't they want us to know, Joe?
-	a5994260-7bad-4933-9e80-d7078f2df59a = Що вони не договорюють, Джо? 
+	a5994260-7bad-4933-9e80-d7078f2df59a = Що вони не договорюють, Джо?
 
 	////361. ORIGINAL: What you already do know.
-	6b82540c-6229-4296-a996-2f77de88ec36 = Все, про що ви вже знаєте. 
+	6b82540c-6229-4296-a996-2f77de88ec36 = Все, про що ви вже знаєте.
 
 	////362. ORIGINAL: Like in the photos.
-	291f7634-17dc-4034-b811-6b4e7ac2276e = Прямо як на фотографіях. 
+	291f7634-17dc-4034-b811-6b4e7ac2276e = Прямо як на фотографіях.
 
 	////363. ORIGINAL: The first sickness.
-	442dbcd9-56b3-4be0-8045-5af4eb515e57 = Перше зараження. 
+	442dbcd9-56b3-4be0-8045-5af4eb515e57 = Перше зараження.
 
 	////364. ORIGINAL: It killed.
-	ec903f60-6360-4c1f-9c80-67683604dda9 = Воно було фатальним. 
+	ec903f60-6360-4c1f-9c80-67683604dda9 = Воно було фатальним.
 
 	////365. ORIGINAL: But it didn't kill enough.
-	a64f1781-880f-463e-ae4c-64d6aecd6ed8 = Але воно не вбивало. 
+	a64f1781-880f-463e-ae4c-64d6aecd6ed8 = Але воно не вбивало.
 
 	////366. ORIGINAL: What you're saying can't be real.
-	c1008405-7fec-4fd1-a9ce-1b37f4c37c46 = Про що ти говориш - не може бути реальним. 
+	c1008405-7fec-4fd1-a9ce-1b37f4c37c46 = Про що ти говориш - не може бути реальним.
 
 	////367. ORIGINAL: They got sick, they went crazy, they died.
 	90ed9ed3-33e5-4fc3-a444-1598748676d1 = Вони захворіли, вони розгубили клепку, вони померли.
@@ -1117,13 +1117,13 @@
 	697636de-0b22-40f8-9454-c48b532bf96f = Потім вони намагались залізти в моє сране горло.
 
 	////369. ORIGINAL: Sorry for the language.
-	770f0931-a3d4-4bf6-92d3-be9c5f4f3472 = Вибачте за вислів. 
+	770f0931-a3d4-4bf6-92d3-be9c5f4f3472 = Вибачте за вислів.
 
 	////370. ORIGINAL: That's okay Joe
 	9ba02d74-c5d2-464b-85e1-cbfd655ee6e8 = Все нормально, Джо.
 
 	////371. ORIGINAL: Joe, is it contained. Are you safe here with us?
-	cda121e8-032b-423e-bfd0-062ddde143f0 = Джо, інфекція ізольована? Ти в безпеці тут з нами? 
+	cda121e8-032b-423e-bfd0-062ddde143f0 = Джо, інфекція ізольована? Ти в безпеці тут з нами?
 
 	////372. ORIGINAL: That much is true.
 	7dc007ef-bfad-4cbc-bf96-cd24b798faea = Це схоже на правду.
@@ -1132,7 +1132,7 @@
 	0628b761-2e5e-4355-979c-8de1eca91dd1 = Ті люди, що змінились... вони не можуть вилізти за межу оточення.
 
 	////374. ORIGINAL: Whatever they are...
-	13aee3a7-ed04-44ca-8011-e231fe8dc4c3 = Ким би вони не були... 
+	13aee3a7-ed04-44ca-8011-e231fe8dc4c3 = Ким би вони не були...
 
 	////375. ORIGINAL: Is everyone infected?
 	c18f39fc-1862-4d7d-97db-6208e4198dba = Вони всі інфіковані?
@@ -1141,16 +1141,16 @@
 	aa0605cb-2c4b-4e79-9bcf-e0315187179c = Я підозрюю, що так. Як на мене - всі інфіковані цим.
 
 	////377. ORIGINAL: We were lucky.
-	ca1a0930-c2a6-4db3-a390-33a10713f405 = Нам повезло. 
+	ca1a0930-c2a6-4db3-a390-33a10713f405 = Нам повезло.
 
 	////378. ORIGINAL: This might be LBMW's last broadcast from the Knox Event Journalist camp.
-	26ce422f-41fd-41f9-934a-4ee4414b5964 = Це може бути останньою трансляцією 'LBMW' з табору журналістів на межі Події Нокс. 
+	26ce422f-41fd-41f9-934a-4ee4414b5964 = Це може бути останньою трансляцією 'LBMW' з табору журналістів на межі Події Нокс.
 
 	////379. ORIGINAL: We can confirm the infection is now spread through fluid exchange.
-	4b3908ac-2804-400b-926d-d885c8ccc685 = Ми підтверджуємо, що інфекція передається через прямий контакт. 
+	4b3908ac-2804-400b-926d-d885c8ccc685 = Ми підтверджуємо, що інфекція передається через прямий контакт.
 
 	////380. ORIGINAL: Namely... bites from carriers.
-	4aede1e5-98cc-4455-96ce-af9974f4c8a0 = Якщо конкретніше - через укус від інфікованих. 
+	4aede1e5-98cc-4455-96ce-af9974f4c8a0 = Якщо конкретніше - через укус від інфікованих.
 
 	////381. ORIGINAL: The infected are shadows of human beings - savages.
 	e7a54f65-98c9-43ae-a347-e4ff1226514e = Інфіковані є лише оболонкою свого минулого життя.
@@ -1162,7 +1162,7 @@
 	d7126655-600a-4aab-ac32-4220e05f28be = Й вони... вони мертві!
 
 	////384. ORIGINAL: They move, but they're dead.
-	23d7b8f8-9e05-46ae-a37d-0e2d3a7f8dee = Вони рухаються, але вони мертві! 
+	23d7b8f8-9e05-46ae-a37d-0e2d3a7f8dee = Вони рухаються, але вони мертві!
 
 	////385. ORIGINAL: We have been... encouraged to keep this truth from our listeners.
 	825e58d2-38c7-4e19-8835-47b0c2048fb0 = Нас... попросили утримувати цю правду від слухачів.
@@ -1186,7 +1186,7 @@
 	acb9a704-610f-497c-9b7f-cdfccdf09604 = Це Генерал МакГрю.
 
 	////392. ORIGINAL: I have requested that this broadcast play on all media embedded with my troops.
-	cc2aef39-61c5-4279-80f6-f50bcefebe8c = Я створив запит, на розповсюдження цього повідомлення по всім ЗМІ, доступні моїм людям. 
+	cc2aef39-61c5-4279-80f6-f50bcefebe8c = Я створив запит, на розповсюдження цього повідомлення по всім ЗМІ, доступні моїм людям.
 
 	////393. ORIGINAL: And I have received permission.
 	e163ac54-255b-4bec-8285-39467ca19a6b = І я отримав дозвіл.
@@ -1240,22 +1240,22 @@
 	2ba876f2-4ebc-4a6d-b9a2-959624669f5f = Ми в безпеці.
 
 	////410. ORIGINAL: I have requested that this broadcast play on all media  embedded with my troops.
-	8174ed7c-c980-41ab-bf26-7ed3b740b1cc = Я створив запит, на розповсюдження цього повідомлення по всім ЗМІ, доступні моїм людям. 
+	8174ed7c-c980-41ab-bf26-7ed3b740b1cc = Я створив запит, на розповсюдження цього повідомлення по всім ЗМІ, доступні моїм людям.
 
 	////411. ORIGINAL: There's violence in the border camp.
-	840ca614-19e9-430d-9993-80a722b5ff42 = Саме зараз я спостерігаю насилля на межі табору. 
+	840ca614-19e9-430d-9993-80a722b5ff42 = Саме зараз я спостерігаю насилля на межі табору.
 
 	////412. ORIGINAL: We have unverified reports of injured civilians.
-	860d770d-f19e-4aa4-8a69-888afbb18a67 = До нас дійшли чутки про поранених цивільних. 
+	860d770d-f19e-4aa4-8a69-888afbb18a67 = До нас дійшли чутки про поранених цивільних.
 
 	////413. ORIGINAL: Potentially deceased civilians.
-	0c0f11d0-3bf5-4aaf-8dcc-93654831c8e8 = Можливо навіть мертвих цивільних. 
+	0c0f11d0-3bf5-4aaf-8dcc-93654831c8e8 = Можливо навіть мертвих цивільних.
 
 	////414. ORIGINAL: This morning we woke up to loud gunfire and now armed military personnel are...
-	2c98b587-49c1-4d3c-aed7-0f5b64054bf8 = Цим ранком нас розбудили гучні постріли й тепер озброєні військові... 
+	2c98b587-49c1-4d3c-aed7-0f5b64054bf8 = Цим ранком нас розбудили гучні постріли й тепер озброєні військові...
 
 	////415. ORIGINAL: ... pushing back the crowds. Frank. Frank. Can you hear me?
-	5b1f9611-1e46-41c7-a19d-0a60ac547401 = ...відсовують купи схвильованих людей назад. Френк. Френк, ти мене чуєш? 
+	5b1f9611-1e46-41c7-a19d-0a60ac547401 = ...відсовують купи схвильованих людей назад. Френк. Френк, ти мене чуєш?
 
 	////416. ORIGINAL: I can hear you Jackie. I can confirm two people are dead.
 	7170250e-6570-4ed2-8b8c-603e1c8224d9 = Я тебе чую, Джекі. Я підтверджую присутність двох мертвих людей.
@@ -1267,7 +1267,7 @@
 	ef38b59c-d54b-453e-996f-ff6e86ae205a = ІНФЕКЦІЯ ІЗОЛЬОВАНА
 
 	////419. ORIGINAL: Jackie! We're being moved back! Can you hear me?
-	3a5594ca-7177-4217-aefd-ec5a6a4b03f1 = Джекі! Нас відштовхують назад. Ти чуєш мене? 
+	3a5594ca-7177-4217-aefd-ec5a6a4b03f1 = Джекі! Нас відштовхують назад. Ти чуєш мене?
 
 	////420. ORIGINAL: MA'AM! STAND DOWN! MA'AM! MOVE BACK!
 	ae1c33e7-bd2e-4418-a69c-84e3b60cba6f = МЕМ, ШВИДКО ВІДІЙДІТЬ НАЗАД!
@@ -1282,10 +1282,10 @@
 	167470ae-0c7f-40f5-8609-ca739576621e = ВЕСЬ ЧАС БУЛА ІЗОЛЬОВАНА.
 
 	////424. ORIGINAL: This morning violence erupted in the primary Exclusion border camp.
-	c01634df-3847-4ecb-a28a-4206c9b01214 = Жорстокість полонила табір, на краю Зони Відчуження минулого ранку. 
+	c01634df-3847-4ecb-a28a-4206c9b01214 = Жорстокість полонила табір, на краю Зони Відчуження минулого ранку.
 
 	////425. ORIGINAL: A morning of violence has raged after the shooting of two unarmed individuals
-	95497c93-6af4-4dd5-b497-3dfdeb7e5c9f = Після розправи військових над двома беззахисними жителями, насилля перейшло... 
+	95497c93-6af4-4dd5-b497-3dfdeb7e5c9f = Після розправи військових над двома беззахисними жителями, насилля перейшло...
 
 	////426. ORIGINAL: Angry protesters were pushed back by troops.
 	725cd57e-be33-4bb7-85c9-3a3d1d822e23 = ...в чисту ненависть. Військові були змушені силою відводити людей подалі.
@@ -1297,19 +1297,19 @@
 	42e31fcf-8b54-4c61-8037-95b8016becfe = Чекайте, я бачу Генерала Джона МакГрю.
 
 	////429. ORIGINAL: General! Is there blood on your hands?
-	ec9efc0f-d1f5-4a73-b302-c7cadecb2179 = Генерале! Ця кров - твоїх рук справа? 
+	ec9efc0f-d1f5-4a73-b302-c7cadecb2179 = Генерале! Ця кров - твоїх рук справа?
 
 	////430. ORIGINAL: Who is this? Are you broadcasting?
-	75705d28-6996-43ae-94d9-5b91469e708c = Хто ви такі? Ви транслюєте? 
+	75705d28-6996-43ae-94d9-5b91469e708c = Хто ви такі? Ви транслюєте?
 
 	////431. ORIGINAL: Do you know what in hell we're dealing with?
-	f3ed2456-62b0-4b1e-be19-803b253852df = Ви знаєте, з чим ми маємо тут справу? 
+	f3ed2456-62b0-4b1e-be19-803b253852df = Ви знаєте, з чим ми маємо тут справу?
 
 	////432. ORIGINAL: Shut her down!
-	27a966f0-16d1-481c-bda1-e89e04b0b701 = Стуліть їй рота! 
+	27a966f0-16d1-481c-bda1-e89e04b0b701 = Стуліть їй рота!
 
 	////433. ORIGINAL: Shut this all.... <bzzt> <fzzt>
-	0771e273-c818-4525-b83a-bce89fbdd6ba = Замкніть їх всіх... <бззт> <фззт> 
+	0771e273-c818-4525-b83a-bce89fbdd6ba = Замкніть їх всіх... <бззт> <фззт>
 
 	////434. ORIGINAL: I've been... separated from my colleague Frank Hemingway.
 	92770c0d-0f5d-4e77-999b-555ffa3136d9 = Я... загубила зв'язок з колегою Френком Хемінгуеєм.
@@ -1327,10 +1327,10 @@
 	30996797-9d0b-4c24-989c-0f95647c9a9f = Їх тут сотні!
 
 	////439. ORIGINAL: They're everywhere! They came from every side!
-	4d30388c-9ca8-4b44-80b6-db42ff9f4068 =  Вони всюди! Вони лізуть з усіх щілин! 
+	4d30388c-9ca8-4b44-80b6-db42ff9f4068 =  Вони всюди! Вони лізуть з усіх щілин!
 
 	////440. ORIGINAL: Frank! What are they? What do they look like?
-	76576946-f56f-4911-b302-a2cbbd9bea3b = Френк! Як вони виглядають? Хто вони? 
+	76576946-f56f-4911-b302-a2cbbd9bea3b = Френк! Як вони виглядають? Хто вони?
 
 	////441. ORIGINAL: Argh! ARGH! FUCK! GET OFF ME!
 	88ff315d-50ae-4dda-8ca8-42233fe803a5 = Аргх! АХХ! К*РВА! ЗЛІЗЬ З МЕНЕ!
@@ -1339,13 +1339,13 @@
 	47555790-5883-4fcc-9a58-860cb0d56632 = ХТО НЕБУТЬ!
 
 	////443. ORIGINAL: Jesus Christ.
-	fdbd3c6d-0ee9-4b4c-97e7-5005187ad293 = О Боже. 
+	fdbd3c6d-0ee9-4b4c-97e7-5005187ad293 = О Боже.
 
 	////444. ORIGINAL: It's been the night from hell at the Louisville border camp.
 	43541f6d-b4cf-492e-81d6-7a118002f6a1 = Я знову транслюю, після збіса поганої ночі з  табору на межі Луісвіля.
 
 	////445. ORIGINAL: Violence between the military and civilian groups broke out and...
-	e5cea902-7d56-4b67-9db8-4300dba6fe95 = Відбулась сутичка між цивільними та військовими... 
+	e5cea902-7d56-4b67-9db8-4300dba6fe95 = Відбулась сутичка між цивільними та військовими...
 
 	////446. ORIGINAL: ... it attracted them.
 	e549785e-cd39-425b-9c72-ef6bd30fea09 = ...звук стрілянини зацікавив Їх.
@@ -1363,7 +1363,7 @@
 	e4e76552-dd88-4461-880f-a7c22653dc4b = Напряму через барикади.
 
 	////451. ORIGINAL: They attacked. It was dark.
-	06e48cc5-9e77-4b70-8f71-64246c46f78c = Вони атакували. Там було темно. 
+	06e48cc5-9e77-4b70-8f71-64246c46f78c = Вони атакували. Там було темно.
 
 	////452. ORIGINAL: Some they killed.
 	6c667777-83df-4509-bb0e-d136b1a034c0 = Багатьох вони просто вбили.
@@ -1426,10 +1426,10 @@
 	9bf36d7a-67d1-4ab7-99ca-41969d7f98f6 = Щось ще вийшло разом з інфекцією.
 
 	////472. ORIGINAL: People here are getting ill.
-	7e635ed6-baf5-448d-84b3-731f54b014a3 = Люди навколо починають захворювати. 
+	7e635ed6-baf5-448d-84b3-731f54b014a3 = Люди навколо починають захворювати.
 
 	////473. ORIGINAL: Ill without fluid contact.
-	5d8c525c-57c6-4b04-9ad6-d3136a04b091 = Хворіти без контакту з інфікованими. 
+	5d8c525c-57c6-4b04-9ad6-d3136a04b091 = Хворіти без контакту з інфікованими.
 
 	////474. ORIGINAL: I think they're dying. It happens so quick.
 	c043051f-5525-4072-8bdc-16b6dd67d00e = Мені здається, що вони помирають. Це трапилось так швидко.
@@ -1438,7 +1438,7 @@
 	1ff9caba-45ed-4833-85d3-608d0a88fd62 = Все стане лише гірше.
 
 	////476. ORIGINAL: Stay away from other people.
-	101836a1-2874-4d25-b246-336cbacb6743 = Тримайтесь подалі від інших людей. 
+	101836a1-2874-4d25-b246-336cbacb6743 = Тримайтесь подалі від інших людей.
 
 	////477. ORIGINAL: Keep indoors if you can't get away.
 	65cd768c-5785-405e-b8e8-b09be2177aca = Лишайтесь в приміщеннях, якщо ви не можете втекти.
@@ -1468,10 +1468,10 @@
 	070b26d1-12c6-4cf8-9b1a-e4acbd54b5b7 = Не всі піддаються інфекції.
 
 	////486. ORIGINAL: That's what people have said.
-	ce03ce4e-e740-4d28-a410-01316f02a626 = Принаймні, так говорять люди. 
+	ce03ce4e-e740-4d28-a410-01316f02a626 = Принаймні, так говорять люди.
 
 	////487. ORIGINAL: Maybe that's me too.
-	54358198-3f6e-4ff3-be10-5963b92e8fe0 = Можливо я одна з них. 
+	54358198-3f6e-4ff3-be10-5963b92e8fe0 = Можливо я одна з них.
 
 	////488. ORIGINAL: I'm going to stay here, with the broadcast equipment.
 	febb6fbf-c802-4c64-8b82-3df87c059bd9 = Я залишусь тут з усією цією апаратурою. Триматиму вас в курсі.
@@ -1480,13 +1480,13 @@
 	af2eb77e-56bf-4a9b-8ae0-b37c041f650f = Військові мають скоро повернутись.
 
 	////490. ORIGINAL: I need to keep you informed.
-	2c1dce85-7bbe-4e9c-87fb-195835711f06 = Я маю тримати вас в курсі. 
+	2c1dce85-7bbe-4e9c-87fb-195835711f06 = Я маю тримати вас в курсі.
 
 	////491. ORIGINAL: That's my job.
-	76942fab-293e-4188-a809-590339db9545 = Це моя робота. 
+	76942fab-293e-4188-a809-590339db9545 = Це моя робота.
 
 	////492. ORIGINAL: Was my job at least.
-	88eb2db1-d287-49f6-a611-7b8acc7faef8 = Принаймні, була. 
+	88eb2db1-d287-49f6-a611-7b8acc7faef8 = Принаймні, була.
 
 	////493. ORIGINAL: This is Jackie, on the LBMW frequency.
 	31ab691f-3849-46ca-b470-a130097bf7a4 = З вами знову Джекі, на хвилі 'LBMW'.
@@ -1543,22 +1543,22 @@
 	4cf88166-81ee-443d-8fe2-c60d43b672cc = Але щось дібралось й до мене.
 
 	////511. ORIGINAL: I've seen it happen.
-	e95e002d-baa5-46ed-a932-4ab2a1b19f72 = Я особисто бачила, як це відбувається. 
+	e95e002d-baa5-46ed-a932-4ab2a1b19f72 = Я особисто бачила, як це відбувається.
 
 	////512. ORIGINAL: I'll be gone in day.
 	1a80076a-b406-405b-8e3e-4ff7ac597974 = Через день, мене вже не буде.
 
 	////513. ORIGINAL: The lights go out.
-	b97c037e-6451-4958-9673-89e40677466c = Світло згасне. 
+	b97c037e-6451-4958-9673-89e40677466c = Світло згасне.
 
 	////514. ORIGINAL: But something stays on.
-	3687ea39-bdf9-4821-8fd9-033c315c15d5 = Але щось буде керувати мною. 
+	3687ea39-bdf9-4821-8fd9-033c315c15d5 = Але щось буде керувати мною.
 
 	////515. ORIGINAL: Not much, hopefully.
 	52db23e9-cac8-4ea1-b8a1-65e46ca3d6f3 = Надіюсь, що не занадто сильно.
 
 	////516. ORIGINAL: If I was braver I'd...
-	7af4a444-2116-4501-9889-a71a37823ef9 = Якби я  була більш хороброю, я б... 
+	7af4a444-2116-4501-9889-a71a37823ef9 = Якби я  була більш хороброю, я б...
 
 	////517. ORIGINAL: God knows what I'd do.
 	630f398d-022c-4511-a9a5-1b7f8d702bd6 = Бог зна, що я б робила.
@@ -1585,19 +1585,19 @@
 	631750a8-8e3a-47e7-b6bb-f0018075e2e1 = Вони говорять про Сомалі, Африку.
 
 	////525. ORIGINAL: They're saying... Norfolk, England.
-	8db26c91-2aac-40a8-847c-a789af840f73 = Норфолк, Англія. 
+	8db26c91-2aac-40a8-847c-a789af840f73 = Норфолк, Англія.
 
 	////526. ORIGINAL: I know it isn't possible.
 	310ebd0d-95d7-43cf-b50a-b54271aaca75 = Я знаю, що в це важко повірити .
 
 	////527. ORIGINAL: But it's true.
-	2de52fbb-e3a6-45cc-8668-c6a0907e9246 = Але це правда. 
+	2de52fbb-e3a6-45cc-8668-c6a0907e9246 = Але це правда.
 
 	////528. ORIGINAL: Go listen to them now.
 	da3ed0f7-836b-42c8-9b6d-1738f48f2170 = Йдіть, слухайте тепер їх.
 
 	////529. ORIGINAL: Go listen to someone else.
-	f17ffe72-08ba-454a-b59b-05c95dd6ddf2 = Слухайте когось іншого. 
+	f17ffe72-08ba-454a-b59b-05c95dd6ddf2 = Слухайте когось іншого.
 
 	////530. ORIGINAL: This place is a goddam wasteland.
 	7a6ac76f-8cc0-4cf3-a2bd-8475cc93588c = Це місце перетворилось в бісову пустку.
@@ -1606,7 +1606,7 @@
 	d773f352-3c27-4459-975a-a61802008c9e = Прийом? Апо?
 
 	////532. ORIGINAL: Is it working? Can you hear it in there?
-	6d3b2581-0412-40ac-b8c1-3e04d6024f9d = Ця штука працює? Ви чуєте мене? 
+	6d3b2581-0412-40ac-b8c1-3e04d6024f9d = Ця штука працює? Ви чуєте мене?
 
 	////533. ORIGINAL: Okay cool.
 	94ad3083-f41a-464c-9afb-bfce4abdef87 = Добре.
@@ -1687,31 +1687,31 @@
 	f3fbe147-8284-40f6-81d0-dbba9ea7912f = Хтось просто дивився на нас. Хтось дряпав двері.
 
 	////559. ORIGINAL: All of them hungry.
-	1b5db856-4267-4ca9-9c0b-9c51eb953de4 = Всі вони. звісно, голодні. 
+	1b5db856-4267-4ca9-9c0b-9c51eb953de4 = Всі вони. звісно, голодні.
 
 	////560. ORIGINAL: Still not used to seeing them up close.
-	866c9a4a-54ee-4586-940e-d347c1006c62 = Я ще не звик бачити їх так близько. 
+	866c9a4a-54ee-4586-940e-d347c1006c62 = Я ще не звик бачити їх так близько.
 
 	////561. ORIGINAL: They look so... so dead.
-	ce5eb750-6086-42ae-abc5-69f3f1037619 = Вони виглядають такими... мертвими. 
+	ce5eb750-6086-42ae-abc5-69f3f1037619 = Вони виглядають такими... мертвими.
 
 	////562. ORIGINAL: No other word for it.
-	4f517d6c-b91d-4ee5-859a-5757a0d89ae3 = Не знаю, як ще це змалювати. 
+	4f517d6c-b91d-4ee5-859a-5757a0d89ae3 = Не знаю, як ще це змалювати.
 
 	////563. ORIGINAL: Faces are blanks, 'cept for the hunger.
 	dbfee44a-eb98-4554-99a9-124a34754ab2 = Обличчя спустошене. Не видно нічого, окрім голоду.
 
 	////564. ORIGINAL: I don't think they're gonna go away.
-	f0976683-c540-4025-9686-c9bf90f5fe58 = Не думаю, що вони кудись зникнуть. 
+	f0976683-c540-4025-9686-c9bf90f5fe58 = Не думаю, що вони кудись зникнуть.
 
 	////565. ORIGINAL: Okay again, this is what's being handed around.
-	474469e0-8e32-4ee9-bef9-240c8c70e925 = Знову я. Добре, ось що продовжують роздавати людям. 
+	474469e0-8e32-4ee9-bef9-240c8c70e925 = Знову я. Добре, ось що продовжують роздавати людям.
 
 	////566. ORIGINAL: This is addressed to those unaffected by the second wave of the Knox Infection.'
-	4feea482-8a0a-4d8d-aba2-d3b4c6a3368e = 'Це стосується всіх, кого пропустила друга хвиля епідемії Нокс.' 
+	4feea482-8a0a-4d8d-aba2-d3b4c6a3368e = 'Це стосується всіх, кого пропустила друга хвиля епідемії Нокс.'
 
 	////567. ORIGINAL: You might know who you are by now..'
-	5ad65a54-bd79-4986-b17a-cef4f8e04147 = 'Ви знаєте хто ви.' 
+	5ad65a54-bd79-4986-b17a-cef4f8e04147 = 'Ви знаєте хто ви.'
 
 	////568. ORIGINAL: The disease will not spread to you as it has to others...'
 	0c1fbae7-ca62-464a-a7e1-eb900f57bc62 = 'Інфекція не розповсюджується на вас так само, як на інших.'
@@ -1720,28 +1720,28 @@
 	8d42995f-e71e-48fa-8f79-cc9e3036b83f = '... тільки через прямий контакт, я маю на увазі...'
 
 	////570. ORIGINAL: ... it surely will.'
-	bb028c17-c5bf-4477-b85d-8c2dba3050ef = '...укуси. Через них ви точно інфікуєтесь.' 
+	bb028c17-c5bf-4477-b85d-8c2dba3050ef = '...укуси. Через них ви точно інфікуєтесь.'
 
 	////571. ORIGINAL: These are dark days, but as a nation we can and will prevail.'
 	2d983bff-597a-4fd6-be30-e094b9882a5b = 'Настали темні часи, але як нація, ми зможемо, ми це ПЕРЕЖИВЕМО.'
 
 	////572. ORIGINAL: You have not been forgotten.'
-	c253a343-4323-457d-97bd-cdcd48ab45c7 = 'Про вас ніхто не забув.' 
+	c253a343-4323-457d-97bd-cdcd48ab45c7 = 'Про вас ніхто не забув.'
 
 	////573. ORIGINAL: We will come for you.'
-	6531bfba-42ed-4eee-98b9-a6bfd7eca2dc = 'Ми прийдемо за вами.' 
+	6531bfba-42ed-4eee-98b9-a6bfd7eca2dc = 'Ми прийдемо за вами.'
 
 	////574. ORIGINAL: We're going to keep reporting from here as long as we can.
-	bea87333-c63c-403e-9a0f-8925bb3adb09 = Ми продовжимо транслювати звідси, так довго наскільки зможемо. 
+	bea87333-c63c-403e-9a0f-8925bb3adb09 = Ми продовжимо транслювати звідси, так довго наскільки зможемо.
 
 	////575. ORIGINAL: If you can hear us, if anyone can, then we'll use this frequency.
-	fdc4e090-b444-40cc-ae05-4bcc2566508b = Якщо ви нас чуєте, якщо хтось нас чує, ми продовжимо використовувати цю хвилю. 
+	fdc4e090-b444-40cc-ae05-4bcc2566508b = Якщо ви нас чуєте, якщо хтось нас чує, ми продовжимо використовувати цю хвилю.
 
 	////576. ORIGINAL: Whatever helps us to help you.
 	23efb07a-456c-4de2-ac41-ecf9f18b22db = Ми докладемо усіх зусиль, щоб вам допомогти.
 
 	////577. ORIGINAL: We've got enough people around us to hold out.
-	53cf2642-7ad2-42c9-b1ff-9189fbf121fd = В нас достатньо людей, щоб це пережити. 
+	53cf2642-7ad2-42c9-b1ff-9189fbf121fd = В нас достатньо людей, щоб це пережити.
 
 	////578. ORIGINAL: This is Jonas,
 	f3866131-96a7-4500-a82c-8875509c5253 = На зв'язку знову Джонас,
@@ -1750,7 +1750,7 @@
 	bb641309-1023-4c27-8c2b-fe058b5e20c6 = ДЖОНАС! ВОНИ ВСЕРЕДИНІ. ВОНИ ВЖЕ ТУТ, ТІКАЙ!
 
 	////580. ORIGINAL: Shit! Wha-
-	c8f2c4f2-7907-413f-aa35-a7f08d1781c2 = Дідько! Що за...                                                      
+	c8f2c4f2-7907-413f-aa35-a7f08d1781c2 = Дідько! Що за...
 
 	////581. ORIGINAL: This wavelength has been chosen for Emergency Broadcast.
 	02a1e14a-a619-489e-adcb-1abd3f3c86b4 = Ця хвиля була вибрана для Аварійного Сповіщення.
@@ -1825,10 +1825,10 @@
 	3a4d2caf-f839-4b86-9211-fcc4ae8b2bb4 = Мережа радіомовлення 'NNR': що хвилює вас, хвилює всю Америку.
 
 	////605. ORIGINAL: The President today met officials from the CDC...
-	6eb76e31-1162-47f0-9a71-07ce5ad4b2a8 = Сьогодні президент зустрівся з офіційними представниками з МОЗ.
+	6eb76e31-1162-47f0-9a71-07ce5ad4b2a8 = Сьогодні президент зустрівся з офіційними представниками з ЦКЗ.
 
 	////606. ORIGINAL: ... the Center for Disease Control...
-	4afef15f-c5ee-4388-9720-e63c5460cf02 = ...Розшифровується як Міністерство Охорони Здоров'я...
+	4afef15f-c5ee-4388-9720-e63c5460cf02 = ...Центр Контролю і профілактики Захворювань...
 
 	////607. ORIGINAL: ... on the ongoing Kentucky outbreak situation.
 	efa2577f-c289-42ea-8e1f-8ee19ad6e8ce = ...проводячи розмову про розповсюдження інфекції в Кентукі.
@@ -1972,7 +1972,7 @@
 	3cdf5a76-2a54-4eb8-bd3f-cee5e99bf87f = До нас приєднується Доктор Джеф Голбрейт цим ранком...
 
 	////654. ORIGINAL: ... former Chief Scientist at the Center for Disease Control.
-	77dde49f-159b-4a34-9ca7-cfacb177446a = ...колишній голова наукового відділу Міністерства Охорони Здоров'я.
+	77dde49f-159b-4a34-9ca7-cfacb177446a = ...колишній голова наукового відділу Центру Контролю і профілактики Захворювань.
 
 	////655. ORIGINAL: What are your thoughts on the Knox situation, Jeff?
 	7c50f1bd-80b5-4fc8-998d-aa7a560dc0d7 = Що ви думаєте о ситуації Нокс, Джеф?
@@ -1999,7 +1999,7 @@
 	68b78050-f3a8-4f52-969a-a79f982cd737 = Ну, по-перше - це дуже заразна хвороба, це вже точно.
 
 	////663. ORIGINAL: A fever, followed by other - perhaps lasting - bodily impediments.
-	77d28651-c953-41b5-b9dd-0bd9405d99ec = Лихоманка, після якої йде фізична шкода, скоріш за все довгострокова.
+	77d28651-c953-41b5-b9dd-0bd9405d99ec = Гарячка, після якої йде фізична шкода, скоріш за все довгострокова.
 
 	////664. ORIGINAL: They're saying it's contained, so I can only imagine...
 	c70ce321-c955-475c-9779-651756916be5 = Вони кажуть, що все стримано, тому можна припустити...
@@ -2065,7 +2065,7 @@
 	6df58fa7-e141-47c6-92a2-4b72ca6d7541 = ...облив ці претензії холодною водою.
 
 	////685. ORIGINAL: Formerly the Chief Scientist at the Center for Disease Control...
-	4fcae6b8-edce-44de-b33e-08920bb94344 = Колишній голова наукового відділу Міністерства Охорони Здоров'я...
+	4fcae6b8-edce-44de-b33e-08920bb94344 = Колишній голова наукового відділу Центру Контролю і профілактики Захворювань...
 
 	////686. ORIGINAL: ...earlier this morning on NNR he claimed he felt 'outrage'.
 	3d16caa3-1566-47cf-b227-60c065340808 = ...раніше зранку на 'NNR' заявляв, що розцінює це як 'наругу'.
@@ -2350,7 +2350,7 @@
 	8528ce4f-d3d8-44bc-ad21-88b9874a2c7d = Вони прийшли коли була темрява. Кинули мене й мого малого в вантажівку!
 
 	////780. ORIGINAL: Said it's for our safety! I said 'safety from what?'
-	dbaff4c8-af17-446c-b7ba-197d0881a332 = Сказали, що це для нашої ж безпеки! Я їх запитав: 'Безпека від чого?'. 
+	dbaff4c8-af17-446c-b7ba-197d0881a332 = Сказали, що це для нашої ж безпеки! Я їх запитав: 'Безпека від чого?'.
 
 	////781. ORIGINAL: I heard rumors y'all wouldn't believe.
 	3923dbc0-738c-442c-8917-6c8ba8812363 = До мене дійшли чутки, в які ніхто не вірить.
@@ -2851,7 +2851,7 @@
 	291383a7-6903-450f-b6e4-7b3f7669096a = Біля мене люди, що НЕ МАЛИ контакту з інфікованими.
 
 	////947. ORIGINAL: They're running fevers. They're incapacitated.
-	a56ffe24-b6c9-426b-b648-62321e734688 = Їх лихоманить. Вони нічого не можуть робити.
+	a56ffe24-b6c9-426b-b648-62321e734688 = В них гарячка. Вони нічого не можуть робити.
 
 	////948. ORIGINAL: Without urgent medical attention many will soon die.
 	a4ea288f-c7b2-4c15-8579-b4ed7daaa562 = Без негайної медичної допомоги вони швидше за все помруть.
@@ -3109,7 +3109,7 @@
 	3de91db0-f51d-4922-ac39-f477db705d1b = Здається це не закінчиться.
 
 	////1033. ORIGINAL: This is...
-	44fceb95-9e47-45ce-93e5-313ae7ad98d4 = Це... 
+	44fceb95-9e47-45ce-93e5-313ae7ad98d4 = Це...
 
 	////1034. ORIGINAL: Earlier today we received the following recording.
 	c28c6347-0e6c-4edf-a2ba-0a96cccbd15e = Раніше, сьогодні ми отримали наступні записи.
@@ -3388,7 +3388,7 @@
 	c389d5b7-46ae-4691-aa8b-70139ffa9b13 = Я повертався - заборонено.
 
 	////1126. ORIGINAL: Thanking God I had my wife and dog with me, I guess.
-	fdacdad2-e61a-4419-9c80-50eb4b1a9193 = Дякувати Богу, зі мною була дружина і собака. 
+	fdacdad2-e61a-4419-9c80-50eb4b1a9193 = Дякувати Богу, зі мною була дружина і собака.
 
 	////1127. ORIGINAL: Else I wouldn't be seeing them for a week.
 	2bbbee69-9fef-4f15-8226-703b68193ff2 = Бо в іншому випадку я б бачив їх тижнями.
@@ -3673,7 +3673,7 @@
 	cec31e8b-598c-4856-b156-1ff7f25687a3 = Так, звичайно...
 
 	////1221. ORIGINAL: This is judgment. This is God.
-	c1116257-d5bf-419f-883d-4bc72dabb21b = Це Покарання. Це Бог. 
+	c1116257-d5bf-419f-883d-4bc72dabb21b = Це Покарання. Це Бог.
 
 	////1222. ORIGINAL: That's certainly a point of...
 	63542956-891c-43be-8d94-0de41e338f6d = Це звичайно цікавий погл...
@@ -3748,7 +3748,7 @@
 	ae8b721e-43cb-4971-a7bf-854deef884fc = Якого біса вони нам говорять що робити?
 
 	////1246. ORIGINAL: They're scared of catching a cold, so what?
-	d6d254e3-829e-4c74-844e-52a08195746e = Вони бояться застудитись, той що? 
+	d6d254e3-829e-4c74-844e-52a08195746e = Вони бояться застудитись, той що?
 
 	////1247. ORIGINAL: America can't do business?
 	32eae4fa-c1b4-4315-8384-621b3629ff88 = Америка не може більше займатись бізнесом?
@@ -3799,7 +3799,7 @@
 	1006ec95-5a3b-41f6-8770-455d407c5d08 = Звідки ви телефонуєте?
 
 	////1263. ORIGINAL: I'm North of the river.
-	4e05234c-a27d-4129-b838-b05519b45c24 = Я на півночі річки. 
+	4e05234c-a27d-4129-b838-b05519b45c24 = Я на півночі річки.
 
 	////1264. ORIGINAL: I heard they were on the bridges?
 	bc476b0a-ef36-4a35-a6c0-253988953360 = Я чула що вони вже на мостах, це правда?
@@ -3934,7 +3934,7 @@
 	0297df95-23b4-4eac-a8a8-776e390c2f52 = Дякую вам, Клер!
 
 	////1308. ORIGINAL: Any other thoughts on the Knox Event curfew?
-	c95cb59a-73a6-4053-8f5f-d3ced1f0462c = Якщо є якісь інші думки щодо комендантської години. 
+	c95cb59a-73a6-4053-8f5f-d3ced1f0462c = Якщо є якісь інші думки щодо комендантської години.
 
 	////1309. ORIGINAL: We want to hear them...
 	d1fe66d0-5471-455a-be1a-6ffa741c248b = То ми хочемо їх почути.
@@ -4024,7 +4024,7 @@
 	ddac9986-8f20-481a-a908-fe0b719c01e0 = Я навіть не знаю чи вони відчувають хоть щось.
 
 	////1338. ORIGINAL: You think it's contained?
-	0b6b15df-911f-4c11-b027-e48ae030a33f = Ви думаєте це стримано? 
+	0b6b15df-911f-4c11-b027-e48ae030a33f = Ви думаєте це стримано?
 
 	////1339. ORIGINAL: You're the caller. You tell me.
 	ffbb58b6-aa27-4976-a704-8939c4792020 = Ви телефонуєте - ви нам розкажіть.
@@ -4099,7 +4099,7 @@
 	c91b4b77-7176-4a78-9d67-feb8b1facf6b = Вже набридли люди що крадуть час.
 
 	////1363. ORIGINAL: We've got a live one folks.
-	3b770e8b-6d9e-4357-a076-4d77f5c9a562 = Ми маємо дзввінок наживо. 
+	3b770e8b-6d9e-4357-a076-4d77f5c9a562 = Ми маємо дзввінок наживо.
 
 	////1364. ORIGINAL: Charles, I'm just going to hand over to you.
 	e1b6d4c0-1f31-4595-8104-ad4ec76f1d77 = Чарльз, я передаю слово Вам.
@@ -4222,7 +4222,7 @@
 	af66ec3d-3346-4b14-8461-1432744c35c8 = Гаразд, нам потрібні ваші телефонні розмови цієї ночі.
 
 	////1404. ORIGINAL: It's crazy out there.
-	6185a2b2-694e-48d4-bf3a-d068bdfe999a = Тут просто жахіття. 
+	6185a2b2-694e-48d4-bf3a-d068bdfe999a = Тут просто жахіття.
 
 	////1405. ORIGINAL: The President doing nothing has led to...
 	118dac48-99b7-4dad-b153-970ae258cec7 = ніяких дій від Президента привели до...
@@ -4276,7 +4276,7 @@
 	737e2002-b0ee-4a57-a193-16c5925a8f5b = Не коли вони... до вас дістались.
 
 	////1422. ORIGINAL: One day? Two days?
-	fb463f06-3190-4a99-b0c9-021c0e4aa42e = День? Два? 
+	fb463f06-3190-4a99-b0c9-021c0e4aa42e = День? Два?
 
 	////1423. ORIGINAL: Two days before the military rolled out: what were you doin'?
 	131aeebb-d334-4268-9e20-0b04b6c230f2 = За два дні до того як військові дістались, що вони робили?
@@ -4345,7 +4345,7 @@
 	d11ea604-8822-426e-b226-4f32d6693436 = Спочатку були постріли, потім була ця...
 
 	////1445. ORIGINAL: ... this huge wave of infected people.
-	3bd476f9-7170-4783-83d5-01d109a1d22e = ... ця велика хвиля заражених людей. 
+	3bd476f9-7170-4783-83d5-01d109a1d22e = ... ця велика хвиля заражених людей.
 
 	////1446. ORIGINAL: They just appeared.
 	a3659a28-7dc9-4d27-bbb1-f25076e20d20 = Вони просто появились.
@@ -4429,7 +4429,7 @@
 	9f5da4aa-6a8d-4711-9a1b-2c51057e7986 = Ти дивишся новини, Карла?
 
 	////1473. ORIGINAL: I don't need to see the news, it's outside my front room.
-	1fd0ac44-c64d-43a9-8dd9-c01c6012f6ba = Мені не потрібні новини, все відбувається одразу за вікном. 
+	1fd0ac44-c64d-43a9-8dd9-c01c6012f6ba = Мені не потрібні новини, все відбувається одразу за вікном.
 
 	////1474. ORIGINAL: Cars, people... everyone moving North.
 	8f2e72c1-95b7-4f33-a7a6-58d8e13bc790 = Авто, люди... всі рухаються на північ.
@@ -4459,7 +4459,7 @@
 	35833264-35ca-47fa-bb15-ba7821a1001d = В нас вдосталь їжі.
 
 	////1483. ORIGINAL: We...
-	33d8fd2e-6be3-47a5-b898-5b614ecd219b = Ми... 
+	33d8fd2e-6be3-47a5-b898-5b614ecd219b = Ми...
 
 	////1484. ORIGINAL: <bang> <bang>
 	da4b73c5-6641-428f-83b1-cb13559a74b3 = <бах> <бах>
@@ -4636,7 +4636,7 @@
 	910a4962-c341-4839-92f6-f35b7afa3f29 = Навів свій автомат на мене, потім...
 
 	////1542. ORIGINAL: ... then he blew his own damn head off.
-	582da8bb-a563-400e-96fd-d40c91418024 = ... потім просрілив собі голову. 
+	582da8bb-a563-400e-96fd-d40c91418024 = ... потім просрілив собі голову.
 
 	////1543. ORIGINAL: <sob> <sob>
 	dc90f933-e64a-49c3-8123-db09b8ab5855 = <ридання>
@@ -4654,13 +4654,13 @@
 	ad744ac6-51b8-4002-b8cd-67ffccf6450e = Це не можливо.
 
 	////1548. ORIGINAL: You're calling me a liar? It's happening.
-	df7ff37f-400d-4d79-9620-7bdd15579be5 = Ви говорите, що я брехун? Це відбувається. 
+	df7ff37f-400d-4d79-9620-7bdd15579be5 = Ви говорите, що я брехун? Це відбувається.
 
 	////1549. ORIGINAL: I just saw twenty people in an Old Folk's Home die in an hour.
 	8ed3362b-a52d-4b4f-a163-127d95d64657 = Я щойно бачив як двадцять людей в будиинку пристарілих померли за годину.
 
 	////1550. ORIGINAL: They're still there. In their chairs.
-	aaa9eec1-d528-45c3-a981-46c4d3c4becc = Вони все ще там. В своїх кріслах. 
+	aaa9eec1-d528-45c3-a981-46c4d3c4becc = Вони все ще там. В своїх кріслах.
 
 	////1551. ORIGINAL: Only... some are crawling on the floor.
 	7428308a-3c7a-4e8f-af32-05b03fc29652 = Тільки... дехто повзає по підлозі.
@@ -4696,7 +4696,7 @@
 	54543934-2ec8-4ced-8053-e6d6a6136036 = Після того як хвиля мертвих відібрала захопила табір на межі...
 
 	////1562. ORIGINAL: Something else came out with them.
-	02c320bb-0493-47c1-9ed6-6408f6f6778e = Щось інше прийшло з ними. 
+	02c320bb-0493-47c1-9ed6-6408f6f6778e = Щось інше прийшло з ними.
 
 	////1563. ORIGINAL: Howard, you okay to talk?
 	69a11986-3888-4230-be18-d05dcc8ca0d4 = Говард, ви можете говорити?
@@ -5278,19 +5278,19 @@
 	b982bd9b-c145-47dd-8988-56da4a7e3a8f = Ви скоро побачитесь, Лізо. Будь сильною.
 
 	////1756. ORIGINAL: [img=music]  If I could say... [img=music]
-	cde3e217-4636-4c90-b8eb-673baa2e7c4e = [img=music] Якби я міг сказати ... [img=music] 
+	cde3e217-4636-4c90-b8eb-673baa2e7c4e = [img=music] Якби я міг сказати ... [img=music]
 
 	////1757. ORIGINAL: [img=music]  Anything that would make you stay. [img=music]
 	25e6e6e3-1463-42c0-bbbe-af351d3fc5cc = [img=music] Будь що щоб тебе залишити [img=music]
 
 	////1758. ORIGINAL: [img=music]  You know I would. You know. [img=music]
-	7f0901bb-4fed-4288-8374-771a736e1fd5 = [img=music] Ти знаєш я б. Ти знаєш. [img=music] 
+	7f0901bb-4fed-4288-8374-771a736e1fd5 = [img=music] Ти знаєш я б. Ти знаєш. [img=music]
 
 	////1759. ORIGINAL: [img=music]  I never wanted to step in your way... [img=music]
 	379dc781-6a7c-47d4-82c3-9709ed1743b3 = [img=music] Я ніколи не хотів стати на твій шлях ...
 
 	////1760. ORIGINAL: [img=music]  And you... you know you love me too, ooh... [img=music]
-	91bb6cc4-50eb-4ab8-a872-692dfb9c1298 = [img=music] А ти ... ти знаєш, ти мене теж любиш, ох ... [img=music] 
+	91bb6cc4-50eb-4ab8-a872-692dfb9c1298 = [img=music] А ти ... ти знаєш, ти мене теж любиш, ох ... [img=music]
 
 	////1761. ORIGINAL: [img=music]  You love me too. [img=music]
 	902c867e-a33a-4692-9c2d-1a68be0e112d = [img=music] Ти також мене любиш. [img=music]
@@ -5305,22 +5305,22 @@
 	22d5cc8d-b723-4b91-ab17-37657384a3cb = [img=music] Роби... [img=music]
 
 	////1765. ORIGINAL: You just know, right where I'll be.
-	d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 = [img=music] Ти просто [img=music] 
+	d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 = [img=music] Ти просто [img=music]
 
 	////1766. ORIGINAL: [img=music]  Just turn around. It's me you'll see. [img=music]
 	8dfc1882-c695-44df-91b2-7eddaddf1bb1 = [img=music] Ти просто знаєш де я буду. [img=music]
 
 	////1767. ORIGINAL: [img=music]  I can't lie. [img=music]
-	64ce4ff8-0728-4884-b091-7e9823320834 = [img=music] Я не можу брехати. [img=music] 
+	64ce4ff8-0728-4884-b091-7e9823320834 = [img=music] Я не можу брехати. [img=music]
 
 	////1768. ORIGINAL: [img=music]  You'll see me cry. [img=music]
-	8d1175f0-2431-4edd-9aaa-2fa4e1d12b2e = [img=music] Ти побачиш, як я плачу. [img=music] 
+	8d1175f0-2431-4edd-9aaa-2fa4e1d12b2e = [img=music] Ти побачиш, як я плачу. [img=music]
 
 	////1769. ORIGINAL: [img=music]  You'll know that a true heart can bleed. [img=music]
-	62afca05-35b8-4243-b686-bf160368826f = [img=music] Ти дізнаєшся, як заливається серце кров'ю. [img=music] 
+	62afca05-35b8-4243-b686-bf160368826f = [img=music] Ти дізнаєшся, як заливається серце кров'ю. [img=music]
 
 	////1770. ORIGINAL: [img=music]  And you... you know you love me too, ooh. [img=music]
-	8aa6b2be-38da-42c3-8a3a-98b83eb50ba9 = [img=music] А ти ... ти знаєш, ти мене теж любиш, ооо ... [img=music] 
+	8aa6b2be-38da-42c3-8a3a-98b83eb50ba9 = [img=music] А ти ... ти знаєш, ти мене теж любиш, ооо ... [img=music]
 
 	////1771. ORIGINAL: Hey you're back with Frankie on Knooox Hiiits...
 	3e0f8f79-2475-4ad6-899d-edacf57149b5 = Агов, ви знову з Френі на 'Knooox Hiiits'!
@@ -5529,7 +5529,7 @@
 	////1839. ORIGINAL: ... that and a side helping of HOLY HELL.
 	3cf58f14-9ea8-45f6-9b92-f84e65b08054 = ...і з домогомого самого ЧОРТА.
 
-	////1840. ORIGINAL: Flights grounded. Folks displaced. 
+	////1840. ORIGINAL: Flights grounded. Folks displaced.
 	e28c61a9-535c-4ebc-b1b9-7ac2cf1e2e0c = Перельоти відмінені. Люди переміщені.
 
 	////1841. ORIGINAL: Who knew this place could change the world?
@@ -5692,7 +5692,7 @@
 	c0b2effe-8516-4a1e-a145-9fafe20ff7fd = Для мене це важко люди, і знаю для вас теж.
 
 	////1894. ORIGINAL: I'm not saying let's pretend it's all normal.
-	377eec5c-07bf-4f6a-910e-9d63a5e5e583 = Я не кажу вам прикидатись нормальними. 
+	377eec5c-07bf-4f6a-910e-9d63a5e5e583 = Я не кажу вам прикидатись нормальними.
 
 	////1895. ORIGINAL: I'm saying... let's have Every Reason do it for us.
 	4fd0fd34-d679-4e3b-b901-c534bb166662 = Я хочу сказати... Давайте знайдемо причини бути нормальними
@@ -5722,7 +5722,7 @@
 	1e87a20c-7b88-486b-8757-ce220cd44e1c = Викусіть!
 
 	////1904. ORIGINAL: I don't know much, but I know it when times are bad.
-	69389fc6-d150-4165-96c0-0323bad45c56 = Я не знаю багато чого, але знаю точно, що в лихі години. 
+	69389fc6-d150-4165-96c0-0323bad45c56 = Я не знаю багато чого, але знаю точно, що в лихі години.
 
 	////1905. ORIGINAL: Y'all are in Billy's thoughts.
 	024bd224-3bbd-4423-a45a-7c57f7348775 = Біллі буде про вас думати.
@@ -6078,7 +6078,7 @@
 	2ab593bb-947b-4345-a576-3cf5e8effffa = Створились чутки про розгубленість цивільних та дивну активність у межах зони.
 
 	////2023. ORIGINAL: There are helicopters overhead, scientists in hazmat suits...
-	680f0582-37ca-4031-9c89-db25834a1526 = Почали літати гвинтокрили, вчені одягнені в хімзахист... 
+	680f0582-37ca-4031-9c89-db25834a1526 = Почали літати гвинтокрили, вчені одягнені в хімзахист...
 
 	////2024. ORIGINAL: This county has been split in two, and folk are scared.
 	89ecd099-a815-4352-bded-8d078cf920e1 = Люди перелякані через поділ регіону на дві частини.
@@ -6129,7 +6129,7 @@
 	26b29db6-ca65-4555-b296-4bfddcd49e7a = Ми знаємо, що люди хворі.
 
 	////2040. ORIGINAL: We know it's widespread.
-	e77616ef-89eb-4f12-a65b-eec0bafcdae7 = Ми знаємо, що хвороба швидко розповсюджується. 
+	e77616ef-89eb-4f12-a65b-eec0bafcdae7 = Ми знаємо, що хвороба швидко розповсюджується.
 
 	////2041. ORIGINAL: We know no-one could get out while the soldiers rolled on in.
 	539f9a2e-9281-4517-8690-360b9bd62fe0 = Ми знаємо, що ніхто не може вибратися, поки військові патрулюють територію.
@@ -6246,7 +6246,7 @@
 	0228da66-f589-4668-85ca-92a9ddb1de86 = Військові заблокували дороги.
 
 	////2079. ORIGINAL: Barriers and fences once intended for use overseas...
-	a1cfc2a5-9840-40e0-a71d-393848505883 = Шлагбауми та огорожі.... 
+	a1cfc2a5-9840-40e0-a71d-393848505883 = Шлагбауми та огорожі....
 
 	////2080. ORIGINAL: ...deployed around a no-go area deep inside Kentucky.
 	4ad035f8-36a7-481d-a5ca-6f3476346506 = ...розгорнуто навколо Зони Відчуження глибоко всередині Кентукі.
@@ -6297,7 +6297,7 @@
 	bfeae6ee-fdd9-4f0c-8eb6-182ae4836a26 = Ми очікуємо звістки від президента після кризових обговорень...
 
 	////2096. ORIGINAL: ...with experts from the Center for Disease Control at the White House.
-	67ad2035-4d56-4eef-aa12-c80b8f1af45d = ... з експертами з МОЗ у Білому Домі.
+	67ad2035-4d56-4eef-aa12-c80b8f1af45d = ... з експертами з ЦКЗ у Білому Домі.
 
 	////2097. ORIGINAL: More developments as they happen...
 	be44fb37-11c4-43f6-bb08-3a927679951a = Ми будемо тримати вас в курсі подій, як тільки вони відбуваються...
@@ -6333,7 +6333,7 @@
 	432ee696-b4b7-4aa2-b4ce-4e29006f6e81 = ... і ті хто евакуювався на північ кажуть: 'Ні'.
 
 	////2108. ORIGINAL: Kirsty Cormick there on the Knox Event boundary.
-	c13549a1-f264-48da-982e-54e5e800fea7 = Христя Кормік, прямо на границі Події Нокс. 
+	c13549a1-f264-48da-982e-54e5e800fea7 = Христя Кормік, прямо на границі Події Нокс.
 
 	////2109. ORIGINAL: We'll be keeping you updated throughout the day...
 	ba0cbdd3-31ba-4140-a624-bc153150d1f3 = Ми будемо тримати руку на пульсі новин...
@@ -6360,7 +6360,7 @@
 	2e652988-253e-487a-b0ae-63c647ff3100 = Мені шкода людей які в середині. Дійсно шкода.
 
 	////2117. ORIGINAL: Running a fever, feeling confused, being trapped...
-	7110295d-dda6-405c-b130-3e098a173344 = ТІкаючих від гарячки, відчуваючих спантеличення, замкнутих...
+	7110295d-dda6-405c-b130-3e098a173344 = Тікаючих від гарячки, відчуваючих спантеличення, замкнутих...
 
 	////2118. ORIGINAL: But this is clearly in the nation's interest.
 	3a32eb81-2a2d-4219-b9f8-81ef34d3e24a = Аде це точно в інтересах нації.
@@ -6588,7 +6588,7 @@
 	7fab8e34-081e-4b9f-a134-e091761b95fd = Ми чули що була бійка, Деніел.
 
 	////2193. ORIGINAL: Yes, there have been strong words - and unwise actions.
-	dca5cb60-eb87-4d29-bf38-75b07108dff6 = Так. Нерозумні дій і неприємні слова. 
+	dca5cb60-eb87-4d29-bf38-75b07108dff6 = Так. Нерозумні дій і неприємні слова.
 
 	////2194. ORIGINAL: Localized fighting, swiftly dealt with by police officers.
 	07f70824-b03a-411f-8433-6bc9a749f9f4 = Проте з бійками швидко справились.
@@ -7104,7 +7104,7 @@
 	325a8dc9-5bd1-4d12-be49-94d47881efbe = Ви все почули правильно. Вона була ВСЕРЕДИНІ.
 
 	////2365. ORIGINAL: We were on the road out when the fever hit.
-	9cb70a98-d378-46dd-bce6-fa4056c668e0 = Ми були на дорозі звідти коли почалась лихоманка.
+	9cb70a98-d378-46dd-bce6-fa4056c668e0 = Ми були на дорозі звідти коли почалась гарячка.
 
 	////2366. ORIGINAL: Soldiers took us into their base.
 	9b9db1ca-0327-446e-b205-31369a3df652 = Солдати нас всіх підібрали і завезли до себе на базу.
@@ -7506,10 +7506,10 @@
 	cd262164-ec24-47cc-b551-24ea473bf9f2 = Він навіть не бачив нікого з них!
 
 	////2499. ORIGINAL: But now he's laid low with fever.
-	f12112e3-8b88-4304-9e0d-671cccb86a3f = Він всерівно зліг з лихоманкою.
+	f12112e3-8b88-4304-9e0d-671cccb86a3f = Він всерівно зліг з гарячкою.
 
 	////2500. ORIGINAL: I know what it is. I saw my wife with the same thing.
-	cf031fa3-5beb-4d44-b35d-b7d7bbd3d135 = Я знаю що це таке. Я бачив такі симптоми у своєї дружини. 
+	cf031fa3-5beb-4d44-b35d-b7d7bbd3d135 = Я знаю що це таке. Я бачив такі симптоми у своєї дружини.
 
 	////2501. ORIGINAL: He's going to change.
 	bba388be-7399-4320-8bd5-e19ec6331c78 = Він змінюється.
@@ -7758,7 +7758,7 @@
 	a373284d-d702-40dc-af31-04bed71cd5e2 = Якщо ви ще живі...
 
 	////2583. ORIGINAL: If the fever didn't get to you.
-	db50ea73-8899-45c5-92d2-722f56620a93 = Хвороба ще не дійшла до вас...
+	db50ea73-8899-45c5-92d2-722f56620a93 = Якщо гарячка ще не дійшла до вас...
 
 	////2584. ORIGINAL: It all rests on you...
 	51f81edf-5d89-46e5-9443-e637f6b99cb0 = Все це залежить від вас...
@@ -7893,7 +7893,7 @@
 	9ea16fd8-8657-47e2-96a5-7d7e1c051dc3 = Все чого я хотів від тоді - спарведливості.
 
 	////2628. ORIGINAL: The Center for Disease Control was unfit for purpose.
-	3e3bcbde-613f-434a-9c0a-51a69c9e528d = Центр Контролю та профілактики Захворювань був не придатним.
+	3e3bcbde-613f-434a-9c0a-51a69c9e528d = Центр Контролю та профілактики Захворювань був не здатним.
 
 	////2629. ORIGINAL: Sure, they beat it. But only after so many needless...
 	01751f5d-15ad-4be9-ae56-2771e30b25e8 = Звичайоно що вони знайшли ліки. Та лише після багатьох уколів...
@@ -8068,7 +8068,7 @@
 
 	////2686. ORIGINAL: I will. Don't you worry.
 	8b68c46d-7a41-4ea4-962e-fa8c63c27666 = Не переживайте. Я доберусь до правди.
-	ТУДУ
+
 	////2687. ORIGINAL: Next up: the President's date with...
 	70a2a0cd-a657-46d4-a491-a7dd44a8e89d = Наступня новина: Президент провів зустріч в...
 
@@ -8494,1020 +8494,1020 @@
 
 	////2828. ORIGINAL: ... turned into a night of violence.
 	53a34f03-45f3-4d3c-8bcb-1855dfca7d18 = ... що зробила цю ніч жорстокою.
-	ТУДУ
+
 	////2829. ORIGINAL: We'll hear from Washington and LA as soon as we can, but first...
-	bdca7d71-667a-4ea1-b340-47d969795ff9 = Мы скоро снова вернёмся к репортажам из Вашингтона и Лос-Анджелеса, но перед тем, как мы это сделаем...
+	bdca7d71-667a-4ea1-b340-47d969795ff9 = Ми повернимось до новин з Вашингтону і Лос Анджелесу як тільки зможемо. Спершу...
 
 	////2830. ORIGINAL: ... this is direct from the White House.
-	87cd3141-f671-4c70-bb6b-5cf2fe5377b1 = ... мы просим обратить внимание на это заявление, прямиком из Белого Дома.
+	87cd3141-f671-4c70-bb6b-5cf2fe5377b1 = ... заява прямо з Білого Дому.
 
 	////2831. ORIGINAL: That was direct from the White House.
-	553ed5eb-2e55-4908-b537-b063ac9f4f74 = Это заявление поступило прямиком из Белого Дома.
+	553ed5eb-2e55-4908-b537-b063ac9f4f74 = Ця Заява поступила прямо з Білого Дому..
 
 	////2832. ORIGINAL: Now we turn to the clean-up operation on the streets of Washington and Los Angeles.
-	3e87cbef-d2d4-43b3-ab48-627ca2ecb1bf = Мы снова возвращаемся в Вашингтон и Лос Анжелес, где правительственные силы задействованы для разгона демонстраций.
+	3e87cbef-d2d4-43b3-ab48-627ca2ecb1bf = Тепер ми повертаємось до зачисток вулись Вашингтону та Лос Анджелеса.
 
 	////2833. ORIGINAL: After a night of tension turned to... a night of terror.
-	583e031f-b292-4664-b4e0-a02a733d1e96 = После ночных беспорядков, переросших в настоящее безумие.
+	583e031f-b292-4664-b4e0-a02a733d1e96 = Після того як ніч напруження переросла в ... ніч терору.
 
 	////2834. ORIGINAL: Buildings set aflame. Fighting in the street.
-	15e7bc62-36f3-4bde-92d1-c016cf765a78 = Горят здания. На улицах боевые действия..
+	15e7bc62-36f3-4bde-92d1-c016cf765a78 = Будинки було підпалено. Бої на вулицях.
 
 	////2835. ORIGINAL: Many arrests.
-	bad8e381-4b9e-4cc4-9c45-fea75162588e = Множество арестов.
+	bad8e381-4b9e-4cc4-9c45-fea75162588e = Багато арештів.
 
 	////2836. ORIGINAL: We'll have all the latest, coming up after this.
-	d9d14a4b-ed10-4a58-9111-8554c8810415 = Вас ждёт новая информация сразу после этой передачи.
+	d9d14a4b-ed10-4a58-9111-8554c8810415 = Найновіша інформація одразу після наступного блоку.
 
 	////2837. ORIGINAL: After 6pm EST tonight: all flights are off.
-	263c9bde-29ea-454d-bb6a-2851397b6e35 = Сегодня, после 6ти часов вечера, все перелёты отменяются.
+	263c9bde-29ea-454d-bb6a-2851397b6e35 = Сьогодні після 6 вечора: Всі бійки зупинились.
 
 	////2838. ORIGINAL: Every air journey, both internal and international, will be grounded.
-	096fc094-5c10-45d5-91e6-730b3d1fe41d = Воздушное сообщение, внутри страны и международные, будет приостановлено.
+	096fc094-5c10-45d5-91e6-730b3d1fe41d = Всі перельоти, як внутрішні так і зовнішні - заборонені.
 
 	////2839. ORIGINAL: This: at the request of the World Health Organisation...
-	fa2b91eb-9d5e-498d-9264-443a7b227132 = По просьбе Всемирной Организации Здравоохранения...
+	fa2b91eb-9d5e-498d-9264-443a7b227132 = За проханням Всесвітньої Організації Охорони Здоров'я...
 
 	////2840. ORIGINAL: ... who in recent days have been demanding clarity over the Knox Event.
-	9b2941ab-f05f-4edf-9673-7c333310a20c = ... которая в последние дни требовала внести ясность вокруг Происшествия Нокс.
+	9b2941ab-f05f-4edf-9673-7c333310a20c = ... що недавно вимагала ясності щодо Події Нокс.
 
 	////2841. ORIGINAL: Airline companies have been universally compliant.
-	424acbca-ae5b-41e1-9700-bf0ca1a882b9 = Все авиакомпании, без промедления, подчинились этому требованию.
+	424acbca-ae5b-41e1-9700-bf0ca1a882b9 = Всі авіакомпанії негайно виконали вимоги.
 
 	////2842. ORIGINAL: Speaking immediately after his press conference on last night's violence...
-	53f05121-5196-41b6-83f8-97292cf618ff = Сразу после конференции, связанной с ночными беспорядками...
+	53f05121-5196-41b6-83f8-97292cf618ff = Одразу після своєї пресконференції щодо нічного насильства...
 
 	////2843. ORIGINAL: ...The President expressed dissatisfaction at the WHO's unprecedented demands.
-	ea4214bf-05a4-4220-9db7-fb4d141f3778 = Президент выразил недовольство по поводу требований, выставленных ВОЗ.
+	ea4214bf-05a4-4220-9db7-fb4d141f3778 = ... Президент висловив невдоволеність безпрецендентною вимогою ВООЗ.
 
 	////2844. ORIGINAL: ... the Knox Event is, to all intents of purpose, contained.
 	80330d72-d4c2-4c0b-a26c-54b338119f86 = ... Подія Нокс, у всіх розуміннях, ізольовано.
 
 	////2845. ORIGINAL: We'll be updating you throughout the day.
-	c8c5134b-77f5-4294-a5ae-f7a6168a9b00 = Мы будем держать вас в курсе событий, в течение дня.
+	c8c5134b-77f5-4294-a5ae-f7a6168a9b00 = Тримаємо руку на пульсі всіх подій цього дня.
 
 	////2846. ORIGINAL: As of 6pm EST all mainland flights have been grounded.
-	e4907869-f718-4cf3-982d-bb3040e81fc3 = По состоянию на 6 вечера, все авиарейсы были отменены.
+	e4907869-f718-4cf3-982d-bb3040e81fc3 = Починаючи з 6 вечора, всі авіа відправлення були відмінені.
 
 	////2847. ORIGINAL: Meanwhile tonight we're seeing military support in our cities...
-	863e3b45-f8a4-40c2-b836-e4061095d33f = Тем не менее, во всех городах, можно наблюдать поддержку со стороны военных...
+	863e3b45-f8a4-40c2-b836-e4061095d33f = Тим часом, цього вечора ми спостерігаємо військову підтримку в містах...
 
 	////2848. ORIGINAL: ... as law enforcement officials seek to avoid a repercussion...
-	2e2cf9bf-d057-4f6e-b4f0-ec43e9583133 = ... тем временем, как сотрудники правоохранительных органов пытаются избежать последствий,...
+	2e2cf9bf-d057-4f6e-b4f0-ec43e9583133 = ... поки правоохоронті прагнуть уникнути наслідків...
 
 	////2849. ORIGINAL: ... of last night's senseless violence.
-	a0908f23-7ad4-4027-8108-3be3408d4ae7 = ... связанных с бессмысленной бойней минувшей ночью.
+	a0908f23-7ad4-4027-8108-3be3408d4ae7 = ... від безглуздого насильства минулої ночі..
 
 	////2850. ORIGINAL: All this after the President sought to calm fears at home and abroad.
-	c5843430-18f2-462f-af64-6b89694653b3 = И всё это после того, как Президент просил людей на родине и за границей о сохранении спокойствия.
+	c5843430-18f2-462f-af64-6b89694653b3 = Все це після того як Президент просив зберігати спокій всіх що вдома та ні.
 
 	////2851. ORIGINAL: And what's happening on the ground in Kentucky, Richard Gershwin?
-	cb5a0902-a9cf-43e2-99c5-35d47cbadba5 = А теперь, пришла пора узнать то, что происходит в Кентукки. Ричард Гершвин, вам слово.
+	cb5a0902-a9cf-43e2-99c5-35d47cbadba5 = То що ж відбувається в Кентукі? Відповість Річард Гершвін.
 
 	////2852. ORIGINAL: I think I'm seeing those procedures in action, Diane.
-	16886b89-b029-4909-8ca6-9049b38225b3 = Мне кажется, ситуация разворачивается прямо сейчас, Диана.
+	16886b89-b029-4909-8ca6-9049b38225b3 = Здається я бачу процедури в дії, Діано.
 
 	////2853. ORIGINAL: The Army are widening the exclusion zone.
-	e111f7f2-5e21-4005-9fe1-55822313aca4 = Армия расширяет территорию Зоны Отчуждения.
+	e111f7f2-5e21-4005-9fe1-55822313aca4 = Армія розширює Зону Відчуження.
 
 	////2854. ORIGINAL: We've been told this is to: 'remove any element of doubt'.
-	a5cd6429-d856-4662-9729-c9175f237540 = Нам сказали, что это делается ради 'отбрасывания сомнений'.
+	a5cd6429-d856-4662-9729-c9175f237540 = Нам сказали, що це для того що б відкинути сумніви.
 
 	////2855. ORIGINAL: ... and to give a 'safe and responsible response' to the Event.
-	ae965b31-6100-4472-b897-28b236771fd1 = ... и начать безопасно и ответственно 'реагировать' на события, связанные с Происшествием.
+	ae965b31-6100-4472-b897-28b236771fd1 = ... і почати безпечну і відповідальну реакцію на Подію
 
 	////2856. ORIGINAL: A lot of people here don't want to move...
-	57752c62-6544-4f8d-845a-d28a7afc2941 = Здесь много людей, которые не желают двигаться с места,...
+	57752c62-6544-4f8d-845a-d28a7afc2941 = Багато людей тут не хочуть переїжджати,...
 
 	////2857. ORIGINAL: ... but they're not the ones with Armored Personnel Carriers.
-	7218444a-40f5-4b4f-8358-ba3186ac7b7a = ... вот только что они собой представляют, без бронетехники на их стороне?
+	7218444a-40f5-4b4f-8358-ba3186ac7b7a = ... та з бронетранспортером не посперичаєшся
 
 	////2858. ORIGINAL: I'll check in when I have more to report Diane.
-	c7d09e1d-59af-44fb-b753-9697629eafcc = Я сообщу, когда у меня появится больше новостей, Диана.
+	c7d09e1d-59af-44fb-b753-9697629eafcc = Я повідомлю коли буду мати більше новин, Діана.
 
 	////2859. ORIGINAL: Thanks Richard. We'll be back right after this.
-	ff678374-eb27-47ff-9b9e-f2c2f575dc47 = Спасибо Ричард. Позднее мы вернёмся к вам.
+	ff678374-eb27-47ff-9b9e-f2c2f575dc47 = Дякую Річарде. Ми повернимось після павзи.
 
 	////2860. ORIGINAL: I'm with Dr Jack Galbraithe, the former Chief Scientist of...
-	21d1ec38-3dab-42c0-8178-26fc4de1f980 = Я с доктором Джеком Голбрэйт, бывшим руководителем..
+	21d1ec38-3dab-42c0-8178-26fc4de1f980 = В нас в гостях Доктор Джек Голбрейт, колишній голова..
 
 	////2861. ORIGINAL: ... The Center for Disease Control.
-	e2ff4762-0662-43b2-b69f-01d61238b16e = ... Центра по Контролю и Профилактике Заболеваний.
+	e2ff4762-0662-43b2-b69f-01d61238b16e = ... наукового відділу з Центру Контролю і профілактики Захворювань.
 
 	////2862. ORIGINAL: Now Dr Galbraithe, you left the CDC in... dramatic fashion.
-	87da8da9-01ee-46f6-abf5-dfa933581f1d = Доктор, ходят слухи, что вы уволились из ЦПКЗ... с громким скандалом.
+	87da8da9-01ee-46f6-abf5-dfa933581f1d = Доскторе Голбрейт, кажуть ви звільнились з ЦКЗ... зі скандалом.
 
 	////2863. ORIGINAL: Does that matter? After years of cuts and funding reductions...
-	42fa9de5-0ab7-4140-a452-6d6613e57bfa = Какое это имеет значение? После нескольких лет сокращения финансирования...
+	42fa9de5-0ab7-4140-a452-6d6613e57bfa = Це не має значення. Після років скорочень витрат...
 
 	////2864. ORIGINAL: ... and with this nightmare scenario in Kentucky...
-	e73dbca5-371d-49ef-8524-ef6ddb1a28f7 = ... включая этот кошмарный сценарий в Кентукки...
+	e73dbca5-371d-49ef-8524-ef6ddb1a28f7 = ... і під час цього жаху в Кентукі..
 
 	////2865. ORIGINAL: ... you're bringing that up now?
-	34beee9e-1c87-435f-be4f-7f7647d49f1d = ... вы действительно хотите поговорить о моём увольнении?
+	34beee9e-1c87-435f-be4f-7f7647d49f1d = ..., ви дійсно хочете поговорити про моє звільнення?
 
 	////2866. ORIGINAL: People might think you have an axe to grind.
-	6c8b1b22-6de4-45d5-9af8-686ebd3aac87 = Люди могут решить, что у вас корыстные цели.
+	6c8b1b22-6de4-45d5-9af8-686ebd3aac87 = Люди можуть подумати що ви хочете їх переконати.
 
 	////2867. ORIGINAL: I was a scapegoat. The Raleigh outbreak was AGAIN...
-	0bdcfaa4-8379-479f-8c3d-2130966916dd = Меня сделали козлом отпущения. Вспышка заболевания в Роли СНОВА...
+	0bdcfaa4-8379-479f-8c3d-2130966916dd = На мене все скинули. Спалах в Ролі був пов'язаний...
 
 	////2868. ORIGINAL: ... due to department after department of the CDC being shuttered.
-	79739c5c-744d-40d5-95ea-8c0710260ef0 = ... была следствием распускания департамента за департаментом в ЦПКЗ.
+	79739c5c-744d-40d5-95ea-8c0710260ef0 = ... зі скороченням відділу за відділом в ЦКЗ.
 
 	////2869. ORIGINAL: Only livestock were affected.
-	ff5f3269-5200-478a-b66a-551bf33b1c19 = Пострадали только животные.
+	ff5f3269-5200-478a-b66a-551bf33b1c19 = Постаждали лише тварини.
 
 	////2870. ORIGINAL: And the Knox Event. Do you trust what we've heard?
-	62513c9c-f505-4226-a8f5-51723f899dcd = По поводу Происшествия Нокс. Доверяете ли вы тому, что говорят об этом?
+	62513c9c-f505-4226-a8f5-51723f899dcd = Тай Подія Нокс. Чи вірите ви тому що чуєте?
 
 	////2871. ORIGINAL: Do you? Does anyone?
-	88f05231-7c3f-4e17-8887-d3b64c251e78 = Вы сами-то доверяете? Кто-нибудь?
+	88f05231-7c3f-4e17-8887-d3b64c251e78 = А ви? Чи хтось взагалі?
 
 	////2872. ORIGINAL: There clearly is, maybe was, a very communicable illness in there.
-	58039aad-5de0-46ff-8b38-3aedc6376098 = Есть все основания полагать, что там появилась очень заразная болезнь.
+	58039aad-5de0-46ff-8b38-3aedc6376098 = Там точно є, можливо була, дуже заразна хвороба.
 
 	////2873. ORIGINAL: I can only assume the spread has slowed, which is why they are confident. But...
-	fe13d21e-9bf2-4f22-8514-ffbe8b9141ed = Я могу только предполагать, что распространение смогли притормозить, в связи с чем они выглядят уверенными. Но...
+	fe13d21e-9bf2-4f22-8514-ffbe8b9141ed = Я можу тільки здогадуватись що поширення сповільнилось, тому що вони впевненіші. Але ...
 
 	////2874. ORIGINAL: We're very clearly being left in the dark.
-	d7c72377-cb85-4f44-a453-97982c4aac27 = Нас явно оставляют в безызвестности.
+	d7c72377-cb85-4f44-a453-97982c4aac27 = Нас точно залишили в незнанні.
 
 	////2875. ORIGINAL: We could buy the silence for a few days. But now?
-	f4474200-02cd-445b-96b9-e179712092d2 = Есть средства подкупить молчания на несколько дней. Но сейчас?
+	f4474200-02cd-445b-96b9-e179712092d2 = Ми можемо купити мовчання на декілька днів. Але зараз?
 
 	////2876. ORIGINAL: They don't want to risk more riots
-	e4b97f82-089f-448d-b0c2-bdd2315e0ac7 = Они не хотят давать повод ещё большим беспорядкам.
+	e4b97f82-089f-448d-b0c2-bdd2315e0ac7 = Вони не хочуть щоб бунти продовжувались.
 
 	////2877. ORIGINAL: But those people are NOT going to get better.
-	c439f9f2-d125-4ff9-8e3e-698fee6f02ff = Но это людям уже НЕ ПОМОЖЕТ.
+	c439f9f2-d125-4ff9-8e3e-698fee6f02ff = Проте цим людям вже краще не стане
 
 	////2878. ORIGINAL: Do you have evidence to substantiate this?
-	6abb55f6-997d-4947-887a-b0cf0f4f6509 = У вас есть факты, которые могут подтвердить это?
+	6abb55f6-997d-4947-887a-b0cf0f4f6509 = В вас є якісь докази цього?
 
 	////2879. ORIGINAL: Do you have evidence to deny it?
-	8efcca2f-4bd8-4f9c-a384-c99b1b75e494 = А у вас есть доказательства, чтобы отрицать это?
+	8efcca2f-4bd8-4f9c-a384-c99b1b75e494 = А ви маєте докази щоб заперечити?
 
 	////2880. ORIGINAL: This situation will blow up in the President's face.
-	aaed0e2a-8ebb-4b64-91bb-7b1c236fa1a8 = Эта ситуация послужит пощёчиной Президенту.
+	aaed0e2a-8ebb-4b64-91bb-7b1c236fa1a8 = Ця ситуація буде важкою для Президента.
 
 	////2881. ORIGINAL: America is not ready.
 	ef2943a6-b145-4167-bce0-9f4f1cf5e95f = Америка не готова.
 
 	////2882. ORIGINAL: Our Disease Control systems have been dismantled...
-	8ba4cea6-0c90-4dbc-85be-b325f295792f = Наши системы Контроля за Заболеваниями были ликвидированы...
+	8ba4cea6-0c90-4dbc-85be-b325f295792f = Наші системи ЦКЗ були розібрані...
 
 	////2883. ORIGINAL: ... in exchange for a few more bucks in the bank.
-	fe021121-bfdf-41db-83f1-53949aee8808 = ... в обмен на несколько лишних баксов на счетах банков.
+	fe021121-bfdf-41db-83f1-53949aee8808 = ... в замін отримали кілька доларів на рахунок.
 
 	////2884. ORIGINAL: Military force cannot contain desperate people...
-	79ff0a43-7eb2-41c9-82f1-8f83228378bc = Военная сила не в состоянии сдерживать отчаявшихся людей...
+	79ff0a43-7eb2-41c9-82f1-8f83228378bc = Військова сила не може стримати людей у відчаї...
 
 	////2885. ORIGINAL: ... in a desperate situation.
-	a0954fa5-7a70-4a92-9480-e150e7902c58 = ... в безвыходной ситуации.
+	a0954fa5-7a70-4a92-9480-e150e7902c58 = ... в безвиході.
 
 	////2886. ORIGINAL: Sobering thoughts.
-	d35f0a46-3a82-491a-8fe9-8c221ed30444 = Отрезвляющие мысли.
+	d35f0a46-3a82-491a-8fe9-8c221ed30444 = Думки що протвережують.
 
 	////2887. ORIGINAL: Thank you Dr. Galbraithe.
-	465cccd1-1398-41f4-ab35-5783c8dfa920 = Спасибо, Доктор Голбрэйт.
+	465cccd1-1398-41f4-ab35-5783c8dfa920 = Дякую Докторе Голбрейт.
 
 	////2888. ORIGINAL: This is Phil Hartup, today coming to you direct from the White House.
-	d57de244-161d-4141-a97b-cb4bcee5d28c = Это Фил Хартап, сегодня ведём трансляцию прямиком из Белого Дома.
+	d57de244-161d-4141-a97b-cb4bcee5d28c = З вами Філ Хартап з прямим включенням з Більго Дому.
 
 	////2889. ORIGINAL: The President has just addressed the nation, and truths have been told.
-	31b2be4b-dfdb-4064-b4f8-8a48c69fe83f = Президент только что, в обращении к нации, сказал правду.
+	31b2be4b-dfdb-4064-b4f8-8a48c69fe83f = Президент щойно звернувся до нації, і сказав правду.
 
 	////2890. ORIGINAL: Yet still: a curfew. Announced for tonight in many major cities.
-	ab837919-a69a-4621-9018-3460fee6a354 = Так же, с сегодняшнего дня, комендантский час объявлен во многих густонаселённых городах.
+	ab837919-a69a-4621-9018-3460fee6a354 = Також, комендантська година була запроваджена в багатьох містах.
 
 	////2891. ORIGINAL: We've been told to direct you to local programming for curfew information.
-	3e698e40-0de6-4ef9-8e84-5cba43b613c7 = Нам сказали направляти вас на місцеві програми сповіщення, для отримання інформації по комендантському положенню.
+	3e698e40-0de6-4ef9-8e84-5cba43b613c7 = Нам сказали направляти вас на місцеві канали, для отримання інформації щодо комендантської години.
 
 	////2892. ORIGINAL: It's gonna be a long night.
-	a9887476-3970-40f2-86fa-4c40fcb73ea3 = Эта ночь будет долгой.
+	a9887476-3970-40f2-86fa-4c40fcb73ea3 = Ця ніч буде довгою.
 
 	////2893. ORIGINAL: You're with WBLN. Developments today from the White House...
-	9679782c-2429-41bf-a8a2-7da584427a5c = С вами 'WBLN'. Проявился прогресс в риторике Белого Дома...
+	9679782c-2429-41bf-a8a2-7da584427a5c = Ви на каналі 'WBLN'. Білий Дім визнає помилки,...
 
 	////2894. ORIGINAL: ... and a 6pm curfew in all major cities ...
-	dbe1dc15-daab-4e0d-b8e0-87f0ff84852a = ... и в заявлениях о комендантском часе с 6 вечера в крупных городах...
+	dbe1dc15-daab-4e0d-b8e0-87f0ff84852a = ... Комендантська година в містах з 6 вечора,...
 
 	////2895. ORIGINAL: ... a mere 24 hours after the widening of the Knox Event Exclusion Zone.
-	1279bddc-77cf-4470-88c9-eb5b4ceadf0c = ... всего через 24 часа после расширения Зоны Отчуждения Происшествия Нокс.
+	1279bddc-77cf-4470-88c9-eb5b4ceadf0c = ... доба після розширення Зони Відчуження Події Нокс
 
 	////2896. ORIGINAL: Phil Hartup is on the ground in Washington.
-	9c041619-2a80-4f66-9207-155304443f30 = Фил Хартап, докладываю прямиком из Вашингтона.
+	9c041619-2a80-4f66-9207-155304443f30 = на зв'язку Філ Хартап з Вашингтону.
 
 	////2897. ORIGINAL: Thank you Diane. Shocking revelations here, as the President...
-	316ec741-edb5-4db9-ab16-d877bb0861ee = Спасибо Диана. Шокирующие откровения о том, как Президент...
+	316ec741-edb5-4db9-ab16-d877bb0861ee = Дякую Діано. Шокуючі заяви від Президента, він...
 
 	////2898. ORIGINAL: ... 'accepts responsibility' for the 'perceived lack of communication'.
-	2232795c-2532-4be4-bbdb-72b19f3d89ae = 'Принял на себя ответственность' за 'нехватку связи с общественностью'.
+	2232795c-2532-4be4-bbdb-72b19f3d89ae = ... 'приймає відповідальність' за 'недостатній рівень відкритості'
 
 	////2899. ORIGINAL: Meanwhile, is hope waning for those left inside the Event Zone?
-	52b72727-6ed1-478e-ba58-e20a2722ed1b = Между тем, есть ли на что надеяться тем, кто остался в Зоне Происшествия?
+	52b72727-6ed1-478e-ba58-e20a2722ed1b = Тим часом, для тих хто знаходиться в Зоні Події зникає надія.
 
 	////2900. ORIGINAL: That was the President, speaking this morning.
-	c236460a-7cd0-4fa9-b3db-4a63ac4d3311 = Это было заявление Президента, выступающего минувшим утром.
+	c236460a-7cd0-4fa9-b3db-4a63ac4d3311 = Це була заява президента від цього ранку.
 
 	////2901. ORIGINAL: Back to you Diane.
-	908e0005-53df-4c42-b960-6e69dadb2d30 = У меня всё, Диана.
+	908e0005-53df-4c42-b960-6e69dadb2d30 = Повертаюсь до вас, Діано.
 
 	////2902. ORIGINAL: Thanks Phil. As these pictures show...
-	38cceace-b864-40ec-8a4e-d676f0865e51 = Спасибо Фил, эти фотографии показывают как...
+	38cceace-b864-40ec-8a4e-d676f0865e51 = Дякую Філ. На фотографіях ми бачимо..
 
 	////2903. ORIGINAL: ... temporary military installations have been set up in central city locations.
-	08c4351b-1edd-4f9c-9e8b-e5a653168729 = ... в центре городов были созданы временные военные блокпосты.
+	08c4351b-1edd-4f9c-9e8b-e5a653168729 = ... що в центрах міст були збудовані тимчасові військові інсталяції.
 
 	////2904. ORIGINAL: Central Park. Downtown LA. Miami Beach. More.
-	d0756d1d-31be-4cd2-8039-05887db01fad = Централ Парк, Даунтаун Лос Анжелеса, Майами Бич, и другие.
+	d0756d1d-31be-4cd2-8039-05887db01fad = Централ парк, Даунтаун Лос Анджелес, Пляж Маямі та інші
 
 	////2905. ORIGINAL: Will this silence the panic on our streets?
-	805c9a1d-fdbd-484a-b731-80d3370a0a0a = Утихомирят ли эти меры панику на наших улицах?
+	805c9a1d-fdbd-484a-b731-80d3370a0a0a = чи стримає це паніку на вулицях?
 
 	////2906. ORIGINAL: Will looters give up and go home?
-	2cc9ead7-cf19-4f31-97f4-b5000a50e27b = Сдадутся ли мародёры, разойдутся ли они по своим домам?
+	2cc9ead7-cf19-4f31-97f4-b5000a50e27b = Чи мародери припинять і підуть додому?
 
 	////2907. ORIGINAL: We'll have updates as they happen.
-	c1bf4014-3e65-430a-a907-ca90c1247bec = Мы будем сообщать о развитии событий.
+	c1bf4014-3e65-430a-a907-ca90c1247bec = Обговорюємо новини як тільки вони відбуваються.
 
 	////2908. ORIGINAL: Breaking news. We have images of some of the victims of the Knox Event.
-	db8cef61-b3a3-43b0-8dce-98c83c401d99 = Срочные новости. У нас в распоряжении фотографии с пострадавшими от Происшествия Нокс.
+	db8cef61-b3a3-43b0-8dce-98c83c401d99 = надзвичайні новини. Ми маємо фотографії жертв Події Нокс.
 
 	////2909. ORIGINAL: They are shocking. If you have children in the room just...
-	193cf3b9-f332-41d3-9fb8-166995001587 = Они действительно шокирующие. Если в комнате с вами есть дети...
+	193cf3b9-f332-41d3-9fb8-166995001587 = Вони дійсно шокують, якщо поруч діти...
 
 	////2910. ORIGINAL: ... just don't let them see.
-	80405712-a993-491f-b85f-f8bdf479fb4c = ... уберите их от экранов телевизоров.
+	80405712-a993-491f-b85f-f8bdf479fb4c = ... заберіть їх від екранів телевізорів.
 
 	////2911. ORIGINAL: Yesterday The President stated that recovery was possible, yet increasingly unlikely.
-	b4360448-8119-4753-899c-ce89de53b947 = Вчера Президент заявил, что есть возможность оправления после болезни, но шансы на это убывают.
+	b4360448-8119-4753-899c-ce89de53b947 = Вчора Президент заявив, що відновлення було можливе, вле все менш ймовірне.
 
 	////2912. ORIGINAL: Today we see this image: a man without an arm.
-	3a69b0f7-5a86-4db1-8062-91c2ed568059 = Сегодня мы видим это фото: человек без руки.
+	3a69b0f7-5a86-4db1-8062-91c2ed568059 = Сьогодні бачимо на фото: Чоловік без руки.
 
 	////2913. ORIGINAL: A man covered in blood.
-	a5c6cfe7-6df8-499a-af07-c87ce9001924 = Мужчина, покрытый кровью.
+	a5c6cfe7-6df8-499a-af07-c87ce9001924 = Чоловік покритий кров'ю.
 
 	////2914. ORIGINAL: A man covered in what analysts claim are bite marks.
-	b1cf08e1-5ccf-47ce-b704-5368d7ee0a76 = Аналитики заявляют что на нём были следы множественных укусов.
+	b1cf08e1-5ccf-47ce-b704-5368d7ee0a76 = Чоловік що вкритий укусами, по підтвердженням аналітиків.
 
 	////2915. ORIGINAL: There has been no official statement.
-	d89c583e-6230-44f7-a217-4c79b1a5307f = Официального заявления всё ещё не последовало.
+	d89c583e-6230-44f7-a217-4c79b1a5307f = Офіційної заяви ще не було.
 
 	////2916. ORIGINAL: Let's go to Richard Gershwin on the Event Boundary.
-	54646b73-bff7-4294-9433-7478137f496d = Вернёмся к Ричарду Гершвину на место событий.
+	54646b73-bff7-4294-9433-7478137f496d = Тому повернемося до Річарда Гершвіна на межі Події
 
 	////2917. ORIGINAL: There's shock here. There are tears.
-	454f8359-999f-45f0-84ed-d37f28f001f3 = Это вогнало людей в шок. До слёз.
+	454f8359-999f-45f0-84ed-d37f28f001f3 = Люди Шоковані. Тут багато сліх.
 
 	////2918. ORIGINAL: There is anger.
-	87677e5b-65b9-4837-931a-89cb933df96e = На лицо гнев, ярость.
+	87677e5b-65b9-4837-931a-89cb933df96e = Тут багато злості.
 
 	////2919. ORIGINAL: Hope has been fading fast for days.
-	311b6dc6-47c3-4844-baa7-2b98b09ae3cd = Надежда стремительно падает с каждым днём.
+	311b6dc6-47c3-4844-baa7-2b98b09ae3cd = Надія швидко втрачається кожного дня.
 
 	////2920. ORIGINAL: The faces of the soldiers on the barricades suggested this all along.
-	769a280c-9cdd-45d2-9d16-8616108ab836 = Лица солдат, стоящих на страже баррикад, задолго до этого предвещали о таком раскладе.
+	769a280c-9cdd-45d2-9d16-8616108ab836 = Лиця солдатів на барикадах вказують на те що це очікувалось.
 
 	////2921. ORIGINAL: But still the people here ask: 'why?'.
-	6f39d0ad-322d-4a43-8fef-59a8d797f6ed = Не смотря на это, все люди спрашивают: 'почему?'.
+	6f39d0ad-322d-4a43-8fef-59a8d797f6ed = Але все ще люди тут мають одне питання: 'Чому?'.
 
 	////2922. ORIGINAL: Why say panic and confusion, when in reality there's so much more?
-	d9ba2ef5-4c6d-4561-bf9d-a2a183bbb1ce = Почему говорят о панике и подавленном состоянии, когда на самом деле всё гораздо серьёзней?
+	d9ba2ef5-4c6d-4561-bf9d-a2a183bbb1ce = Чому говорять паніка і збентеження, коли в реальності все гірше?
 
 	////2923. ORIGINAL: This revelation isn't going to help in stemming the riots Richard.
-	a805b99c-e069-494e-8a1b-cd9c53ed43aa = Это откровение не поможет предотвратить беспорядки, Ричард.
+	a805b99c-e069-494e-8a1b-cd9c53ed43aa = Це не допоможе зупинити наростаючі бунти, Річарде.
 
 	////2924. ORIGINAL: No Diane. It is not.
-	169e8031-486c-47b0-8067-74b2a0fca4bc = Нет, Диана. Не поможет.
+	169e8031-486c-47b0-8067-74b2a0fca4bc = Ні, Діано. Не допоможе.
 
 	////2925. ORIGINAL: People here... they're...
-	566f0909-a8d5-4592-aab5-f6b5f8f49600 = Люди здесь... они...
+	566f0909-a8d5-4592-aab5-f6b5f8f49600 = Люди тут... вони...
 
 	////2926. ORIGINAL: Fuck McGrew! FUCK HIS LIES!
-	312e68fa-4bcb-4612-b0a0-d296f0005b13 = В пизду МакГрю! В ПИЗДУ ЕГО ВРАНЬЁ!
+	312e68fa-4bcb-4612-b0a0-d296f0005b13 = До сраки МакГрю! В СРАКУ ЙОГО БРЕХНЮ!
 
 	////2927. ORIGINAL: Ma'am, we're live on WBLN!
-	8b317847-08d7-48c1-965b-937097bb2dcc = Мэм, вы сейчас в эфире 'WBLN'!
+	8b317847-08d7-48c1-965b-937097bb2dcc = Мем, ви наживо на 'WBLN'!
 
 	////2928. ORIGINAL: FUCK THIS SHIT
-	4fab0a6d-bdc3-4dde-a4ef-ef49d2f6fed4 = ДА ПОШЛО ОНО ВСЁ НАХУЙ!
+	4fab0a6d-bdc3-4dde-a4ef-ef49d2f6fed4 = ДО СРАКИ ЦЕ ВСЕ!
 
 	////2929. ORIGINAL: <bztzt>
-	a15eb724-c873-4d7c-8979-004582c9fd2f = <бжжт>
+	a15eb724-c873-4d7c-8979-004582c9fd2f = <бззт>
 
 	////2930. ORIGINAL: Welcome <bzzt> the Night, with you till <fzzt>
-	4cab09ab-23ce-437c-87ef-e69418f1e491 = Добро пожаловать на Ночную <бжжт>, с вами до <фжжт>
+	4cab09ab-23ce-437c-87ef-e69418f1e491 = Ласкаво просимо <бззт> Бесіду, з вами до <фззт>
 
 	////2931. ORIGINAL: <bzzt> Romain Dron <fzzt>
 	ef84e18a-48f1-4908-b022-95d273de6263 = <бззт> Роман Дрон <фззт>
 
 	////2932. ORIGINAL: After last night's outage it's been a period of revelation.
-	bc1748b4-5d3d-4531-b982-b73ffae9c94d = После вчерашних перебоев в вещании, был момент откровений.
+	bc1748b4-5d3d-4531-b982-b73ffae9c94d = Після вчорашніх перебоїв почався період відкриттів.
 
 	////2933. ORIGINAL: Still: no word from The White House or General John McGrew...
-	4218114a-46c1-4456-8260-d95727c3dc33 = Всё ещё никаких новостей из Белого Дома или от Генерала Джона МакГрю...
+	4218114a-46c1-4456-8260-d95727c3dc33 = Все ще ніяких слів від Білого дому чи від Генерала МакГрю...
 
 	////2934. ORIGINAL: ... as survivors from INSIDE the Exclusion Zone emerge.
-	01b90842-937c-44e0-ad03-31bcd37668d2 = ... тем временем, как выжившие ВНУТРИ Зоны Отчуждения были выпущены.
+	01b90842-937c-44e0-ad03-31bcd37668d2 = ... про появу уцілілих з СЕРЕДИНИ зони відчуження.
 
 	////2935. ORIGINAL: There have been joyful reunions, tempered by shock and dismay.
-	01430d84-22fd-48e9-b287-157579e68482 = Некоторые встречи принесли радость, притуплённую шоком и смятением.
+	01430d84-22fd-48e9-b287-157579e68482 = Деякі зустрічі були радісні але перебиті шоком і страхом.
 
 	////2936. ORIGINAL: Richard Gershwin, just what in God's name is going on?
-	65b70208-fd7e-48b7-8bf4-837fd52682fc = Ричард Гершвин, во имя Бога, что там происходит?
+	65b70208-fd7e-48b7-8bf4-837fd52682fc = Річарде, що там ж там відбувається?
 
 	////2937. ORIGINAL: The picture that's being painted for us isn't pretty, Diane.
-	c5798037-67c2-4758-b919-687d5563af22 = Картина, которая ожидает нас, не самая приятная, Диана.
+	c5798037-67c2-4758-b919-687d5563af22 = Нас очікує не найкраща сцена, Діано.
 
 	////2938. ORIGINAL: These people have been released from a military camp inside the Zone.
-	06b4cdc2-1202-4cbe-a26a-83eeeab9c09b = Этих людей выпустили из военного лагеря, рядом с Зоной.
+	06b4cdc2-1202-4cbe-a26a-83eeeab9c09b = Цих людей випустили з військового табору в середині Зони.
 
 	////2939. ORIGINAL: They were held against their will...
-	0c54c286-3087-4390-8a36-951568961556 = Их там удерживали против их воли...
+	0c54c286-3087-4390-8a36-951568961556 = Їх там тримали проти їх волі...
 
 	////2940. ORIGINAL: ... in some kind of quarantine. An isolation of some sort.
-	e66a62ba-d2ad-487d-886a-236c3c638540 = ... в каком-то карантине. Своего рода изоляция.
+	e66a62ba-d2ad-487d-886a-236c3c638540 = ... в якомусь карантині. Щось накшталт ізоляції.
 
 	////2941. ORIGINAL: And the Knox Event infection itself?
-	1fbd0295-52fe-43c3-8aaf-94a8a22f7a6c = А про саму инфекцию Происшествия Нокс?
+	1fbd0295-52fe-43c3-8aaf-94a8a22f7a6c = А щодо самої інфекції?
 
 	////2942. ORIGINAL: Bad things.
-	3909e823-d990-4e33-a815-c75f6e032a42 = Всё очень плохо.
+	3909e823-d990-4e33-a815-c75f6e032a42 = Все дуже погано.
 
 	////2943. ORIGINAL: The infection rate in the towns of Muldraugh and West Point is total.
-	79c8c2dc-2502-4dfc-9db7-c5309130d879 = Уровень заболеваемости в Малдро и Вест-Пойнте тотальный.
+	79c8c2dc-2502-4dfc-9db7-c5309130d879 = Рівень захворюваностів в Малдро та Вест Поінті є повним.
 
 	////2944. ORIGINAL: Sufferers act like... animals.
-	6bb4e76b-9736-4816-90ba-078bf4817508 = Пострадавшие ведут себя... как звери.
+	6bb4e76b-9736-4816-90ba-078bf4817508 = Заражені ведуть себе... як тварини.
 
 	////2945. ORIGINAL: They bite, they maul...
-	416219ec-b4ab-42a4-a8a3-386937f50e0b = Они кусаются, терзают...
+	416219ec-b4ab-42a4-a8a3-386937f50e0b = Вони кусають, вони лупцюють...
 
 	////2946. ORIGINAL: I'm sorry. I'm sorry. It's just...
-	1ae6eab4-7806-462c-986e-7bbe88515faf = Извините. Я сожалею. Я просто...
+	1ae6eab4-7806-462c-986e-7bbe88515faf = Вибачте. Пробачте. Я просто...
 
 	////2947. ORIGINAL: Take a breath Richard. This is tough.
-	ce190b6a-e6f6-4825-9802-eff3ee1644b5 = Успокойтесь Ричард. Это тяжко.
+	ce190b6a-e6f6-4825-9802-eff3ee1644b5 = Заспокійетсь Річард. Це важко.
 
 	////2948. ORIGINAL: Is the Knox Event still contained?
-	e028f870-b9f8-4a1a-b3c2-4a64dfdd9b3b = Происшествие Нокс, оно всё ещё изолированно?
+	e028f870-b9f8-4a1a-b3c2-4a64dfdd9b3b = Подія Нокс все ще ізольована?
 
 	////2949. ORIGINAL: The Knox Event is contained. Information is not.
-	25ad8411-7594-4f09-adb0-71271f79b866 = Происшествие - да. Информация - нет.
+	25ad8411-7594-4f09-adb0-71271f79b866 = Подія - так. Інформація - ні.
 
 	////2950. ORIGINAL: People are angry here.
-	bf2eb675-f925-4aba-8af7-b3f32d37cec7 = Люди здесь взбешены.
+	bf2eb675-f925-4aba-8af7-b3f32d37cec7 = Люди тут злі.
 
 	////2951. ORIGINAL: Angry as all hell, Diane.
-	d307b478-86f9-4957-9fcf-3a9926c85c97 = Злы, как черти в аду, Диана.
+	d307b478-86f9-4957-9fcf-3a9926c85c97 = Злі як чорти, Діано.
 
 	////2952. ORIGINAL: Thank you Richard, we'll be back with you after this.
-	71b925a8-6184-4582-af7e-9e22dde85813 = Спасибо Ричард, мы вернёмся к вам позже.
+	71b925a8-6184-4582-af7e-9e22dde85813 = Дякую Річард, ми повернемось до вас пізніше.
 
 	////2953. ORIGINAL: This is Richard Gerswhin reporting directly from the Exclusion Zone boundary.
-	994b981a-461b-4da8-a760-a0103ff32bde = Это Ричард Гершвин с отчётом прямо из Зоны Отчуждения.
+	994b981a-461b-4da8-a760-a0103ff32bde = Це Річард Гершвін з репортажем просто з межі Зони Відчуження.
 
 	////2954. ORIGINAL: If you're just joining us...
-	5c36676d-bc8b-4631-adba-9d057e645ffe = Если вы только что подключились к нам...
+	5c36676d-bc8b-4631-adba-9d057e645ffe = Якщо ви тільки до нас приєднались...
 
 	////2955. ORIGINAL: ... survivors have emerged from inside the Exclusion Zone.
-	63dbf740-9915-4aad-9481-b06c1bf613ad = ... выжившие вышли из Зоны Отчуждения.
+	63dbf740-9915-4aad-9481-b06c1bf613ad = ... Вцілілі вийшли з середини Зони Відчуження
 
 	////2956. ORIGINAL: They have been let through, we don't know why, by the Army.
-	ccbf1621-104d-47f0-914f-c47dabaa16ab = Не знаю почему, но Армия пропустила их.
+	ccbf1621-104d-47f0-914f-c47dabaa16ab = Не знаю чому, але їх відпустила Армія.
 
 	////2957. ORIGINAL: They have been held in a local military base in...
-	9821e99c-8c2f-4a0f-92f0-aa77e929713d = Их держали в локальной военной базе...
+	9821e99c-8c2f-4a0f-92f0-aa77e929713d = Їх тримали в місцевій військові базі у...
 
 	////2958. ORIGINAL: ... some sort of quarantine.
-	890f6c86-6723-4e3b-b19b-e59f37705768 = ... в, своего рода, карантине.
+	890f6c86-6723-4e3b-b19b-e59f37705768 = ... певному роді карантині.
 
 	////2959. ORIGINAL: They are scared, hungry and come with shocking revelations.
-	91591fed-3123-4654-8029-297d8d14a290 = Они напуганы, голодны и у них много шокирующих фактов, ставших настоящим откровением.
+	91591fed-3123-4654-8029-297d8d14a290 = вони налякані, голодні і мають шокуючі одкровення.
 
 	////2960. ORIGINAL: First came the fever, then came violence and a hunger for blood.
-	a9b07fea-4c6a-4b05-baee-bd7811fb3807 = Сначала появилась лихорадка, потом последовало насилие, жажда крови.
+	a9b07fea-4c6a-4b05-baee-bd7811fb3807 = Спочатку була гарячка, потім насилля і спрага до крові.
 
 	////2961. ORIGINAL: This community was held, and tested upon.
-	5472625e-24a5-40fb-93e2-1d38c285b698 = Эту группу людей специально проверяли на наличие симптомов.
+	5472625e-24a5-40fb-93e2-1d38c285b698 = Цю групу людей тримали, та проводили тести.
 
 	////2962. ORIGINAL: Not all are with us now.
-	abede077-0176-4a28-872b-69cf73c91707 = Не все они вернулись с этих анализов.
+	abede077-0176-4a28-872b-69cf73c91707 = Не всі зараз з нами.
 
 	////2963. ORIGINAL: Everyone inside the Zone is now infected, it is claimed.
-	af5d1f28-1e16-4baa-b72d-431581715fba = Они утверждают, что все кто остался внутри Зоны, заражены.
+	af5d1f28-1e16-4baa-b72d-431581715fba = Стверджується, що всі що в средині зони заражені.
 
 	////2964. ORIGINAL: Everyone has succumbed.
-	b1c77527-d1bc-4cfb-9b37-8b88ff5bf3a3 = Абсолютно все там подхватили эту болезнь.
+	b1c77527-d1bc-4cfb-9b37-8b88ff5bf3a3 = Всі піддались хворобі.
 
 	////2965. ORIGINAL: Yet the spread of the disease comes only through...
-	4b1dfe64-0133-4881-8e08-bbe7ee6bde01 = Но болезнь распространяется только через...
+	4b1dfe64-0133-4881-8e08-bbe7ee6bde01 = Але хвороба передається тільки через...
 
 	////2966. ORIGINAL: ... attacks from infected individuals.
-	f1e69e51-065a-4a58-bb31-6d4d02072177 = ... прямой контакт, исходящий из нападения на людей заражёнными.
+	f1e69e51-065a-4a58-bb31-6d4d02072177 = ... прямий контакт через напади заражених.
 
 	////2967. ORIGINAL: The initial mass contagion is now over.
-	bd5eb050-3c03-4115-9d48-75a01dfc112c = Первоначальная эпидемия подошла к концу.
+	bd5eb050-3c03-4115-9d48-75a01dfc112c = Початкове масове зараження - закінчилось.
 
 	////2968. ORIGINAL: There is now a renewed anger all along the camps on the boundary.
-	4aab9201-8e4b-404d-9438-64e72f02d2d2 = Снова бушует ярость среди людей в лагере, на границе Отчуждения.
+	4aab9201-8e4b-404d-9438-64e72f02d2d2 = Зараз по всіх таборах на межі поновлюється злість.
 
 	////2969. ORIGINAL: The military have pulled back into their checkpoints.
-	13b3523d-6d7f-43e6-afee-376116a3a23b = Военные отступили к своим постам на КПП.
+	13b3523d-6d7f-43e6-afee-376116a3a23b = Військові відступили до своїх КПП.
 
 	////2970. ORIGINAL: We are expecting a statement at any time now.
-	ff10c1e8-a210-4cb6-a7f2-5d83a55d0cde = Мы ожидаем заявление в любое время.
+	ff10c1e8-a210-4cb6-a7f2-5d83a55d0cde = Ми очікуємо заяву з хвилини на хвилину.
 
 	////2971. ORIGINAL: America sits on a knife edge.
-	e30436a9-5ef6-4f83-9990-954b2eb1cfaf = Америка сидит на острие ножа.
+	e30436a9-5ef6-4f83-9990-954b2eb1cfaf = Америка знаходиться на лезі ножа.
 
 	////2972. ORIGINAL: The one question on everyone's lips:
-	20326bb5-a11c-4d10-acf9-2612b1595a8b = У всех на устах, лишь один вопрос:
+	20326bb5-a11c-4d10-acf9-2612b1595a8b = У всіх зараз одне питання:
 
 	////2973. ORIGINAL: "Why weren't we told?"
-	18fc3b77-7c6e-49b6-a193-4a49a1c1b16d = 'Почему нам ничего не сказали?'
+	18fc3b77-7c6e-49b6-a193-4a49a1c1b16d = 'Чому нам нічого не сказали?'
 
 	////2974. ORIGINAL: This is Richard Gershwin, behind me General John McGrew is...
-	e0f43cae-7d7c-4056-9502-c362143b5d5c = Это Ричард Гершвин, позади меня Генерал Джон МакГрю, мы...
+	e0f43cae-7d7c-4056-9502-c362143b5d5c = Це Річард Гершвін, позаду мене Генерал Джоно МакГрю і...
 
 	////2975. ORIGINAL: Good evening ladies and gentlemen.
-	6ef455d1-4db4-4d45-a952-67fa42a96831 = Добрый вечер, леди и джентльмены.
+	6ef455d1-4db4-4d45-a952-67fa42a96831 = Доброго вечора леді і джентельмени.
 
 	////2976. ORIGINAL: Oh, we're starting.
-	8d1c9045-08ad-4f9c-a795-c5aa40820c3c = О, мы начинаем.
+	8d1c9045-08ad-4f9c-a795-c5aa40820c3c = І ми починаємо.
 
 	////2977. ORIGINAL: Thank you for attending tonight. I only ask for orderly and responsible journalism.
-	5604e9d2-26f2-48c2-90d8-841328c6f149 = Спасибо за участие сегодня. Я лишь прошу об организованной и ответственной журналистике.
+	5604e9d2-26f2-48c2-90d8-841328c6f149 = Дякую за участь цього вечора. Я лише попрошу відповідального журналізму.
 
 	////2978. ORIGINAL: I have requested that this broadcast play on all media channels embedded with my troops.
-	3ca24d1f-240d-49e2-b35e-597dbe6328a8 = Я подал запрос, чтобы это сообщение распространили по всем средствам информации, доступным моим людям.
+	3ca24d1f-240d-49e2-b35e-597dbe6328a8 = Я подав запит щоб це повідомлення показувалось по свім каналам що дивляться мої загони.
 
 	////2979. ORIGINAL: General! General!
-	f9e10857-2306-4a04-b56f-0f747e88e7be = Генерал! Генерал!
+	f9e10857-2306-4a04-b56f-0f747e88e7be = Генерале! Генерале!
 
 	////2980. ORIGINAL: I said no questions Richard! When we have news you'll hear it.
-	58338de1-50ed-4311-b94e-cc511e2a8d56 = Я сказал никаких вопросов, Ричард! Как только у меня появятся новости вы об этом услышите.
+	58338de1-50ed-4311-b94e-cc511e2a8d56 = Я сказав ніяких питань Річард! Коли в нас будуть новини ми повідомимо.
 
 	////2981. ORIGINAL: After shocking recent events we've been asking questions.
-	a073173d-d56b-4ddf-886f-a096dc3219a9 = После недавних шокирующих событий мы задались вопросом.
+	a073173d-d56b-4ddf-886f-a096dc3219a9 = Після недавніх шокуючих подій ми ставили питання.
 
 	////2982. ORIGINAL: "How?", "Why?"
-	ec8b5d09-ec0b-4763-a30c-1c72f7ee6b9d = 'Как?', 'Почему?'
+	ec8b5d09-ec0b-4763-a30c-1c72f7ee6b9d = 'Як?', 'Чому?'
 
 	////2983. ORIGINAL: With me tonight is Professor Peter Endsleigh...
-	e25e6e27-1001-41ad-80c1-e1a468fe55a9 = Сегодня у меня в гостях профессор Питер Энслей...
+	e25e6e27-1001-41ad-80c1-e1a468fe55a9 = Чього вечора у мене в гостях Професор Пітер Ендслеіх...
 
 	////2984. ORIGINAL: ...who believes he has the answers.
-	358907c0-53bf-4111-b38d-2f2826446ce6 = ...который считает, что у него есть ответы.
+	358907c0-53bf-4111-b38d-2f2826446ce6 = ... який вважає що в нього є відповіді
 
 	////2985. ORIGINAL: I've been warning people for years.
-	0e169720-c79b-48c6-8834-f36a652dd500 = Я уже много лет предупреждал людей.
+	0e169720-c79b-48c6-8834-f36a652dd500 = Я вже багато років попереджав людей.
 
 	////2986. ORIGINAL: It's in the meat.
-	6bcc7097-0ad8-4021-b95c-0e5640eee581 = Зараза в мясе.
+	6bcc7097-0ad8-4021-b95c-0e5640eee581 = Воно в м'ясі.
 
 	////2987. ORIGINAL: We've been feeding our cows on their own kind.
-	90a06275-f06f-4384-bb5a-1431206a2899 = Мы скармливали коровам их же самих.
+	90a06275-f06f-4384-bb5a-1431206a2899 = Ми годували коров коровами.
 
 	////2988. ORIGINAL: Misfolded prions. Brain matter fed back into the food chain.
-	776cfc09-6101-4fe4-8192-96be888add67 = Неверно свёртываемые прионы. Частицы мозга смешивается с пищеварительным трактом.
+	776cfc09-6101-4fe4-8192-96be888add67 = Білкові Пріони. Частки мозку потрапили назад в жарчовий ланцюг
 
 	////2989. ORIGINAL: These prions have been building up in countless generations of cattle.
-	af0fc0c2-cb7b-43ed-bd51-290e11bf1a5d = Эти прионы нарастали в нашем скоту в течение многочисленных поколений.
+	af0fc0c2-cb7b-43ed-bd51-290e11bf1a5d = Кількість пріонів збільшувалась в кожному наступно поколінні худоби.
 
 	////2990. ORIGINAL: This is quite clearly a neurological disorder.
-	c615c381-d028-4520-9653-4ec8f73a7b3d = Это, определенно, неврологическое расстройство.
+	c615c381-d028-4520-9653-4ec8f73a7b3d = Добре видно що це неврологічний розлад.
 
 	////2991. ORIGINAL: You think this is linked to the Mad Cow crisis?
-	5c7e245c-1b95-4e60-b0c2-be49eaa0b075 = Вы считаете это как-то связанно с Коровьем Бешенством?
+	5c7e245c-1b95-4e60-b0c2-be49eaa0b075 = Ви думаєте це якось пов'язано з коров'ячим сказом?
 
 	////2992. ORIGINAL: This is the Mad Cow crisis. Or at least the next step.
-	e1fb5f47-ce6c-4bc1-ac0e-0f1be39356b5 = Это и есть Коровье Бешенство. По-крайней мере следующая его стадия.
+	e1fb5f47-ce6c-4bc1-ac0e-0f1be39356b5 = ЭЦе і є коров'ячий сказ. Принаймні його наступна форма.
 
 	////2993. ORIGINAL: We've all been ingesting it for years.
-	fffcbe71-dccf-40a3-a776-e79b3dcfb8d2 = Мы питались этим из года в год.
+	fffcbe71-dccf-40a3-a776-e79b3dcfb8d2 = Ми харчувались цим кожного року.
 
 	////2994. ORIGINAL: Every trip to Spiffos. Every pot roast.
-	f000c8d8-fe06-479a-b0b9-9ad4636d20e3 = Каждый раз когда ходили в 'Spiffo'. С каждой тарелкой.
+	f000c8d8-fe06-479a-b0b9-9ad4636d20e3 = Кожен подіж в 'Spiffo`. Кожне тушковане м'ясо
 
 	////2995. ORIGINAL: It's lain dormant, and now the Knox Event has set it free.
-	8df463f6-6bbf-4e16-b643-f54faa0568a9 = Зараза спала в нас. Но Происшествие Нокс разбудило её.
+	8df463f6-6bbf-4e16-b643-f54faa0568a9 = Хвороба спала в кожному. Але Подія Нокс її пробудила.
 
 	////2996. ORIGINAL: Do you have evidence for this?
-	c05b044c-5821-4410-9d54-5b2712976af5 = У Вас есть доказательства?
+	c05b044c-5821-4410-9d54-5b2712976af5 = В вас є докази?
 
 	////2997. ORIGINAL: I've got this whole book!
-	e49397fd-74fe-43fd-a400-8c78e14d8f35 = Целая книга!
+	e49397fd-74fe-43fd-a400-8c78e14d8f35 = Ціла книга
 
 	////2998. ORIGINAL: Factory farming! That's what's caused this!
-	4a3badd3-adc1-4aa3-887d-647548b1e2bb = Промышленное фермерство! Вот что это спровоцировало!
+	4a3badd3-adc1-4aa3-887d-647548b1e2bb = Фабричне фермерство - ось причина цього всього!
 
 	////2999. ORIGINAL: An endless ambivalence to what our nation eats!
-	313b69b8-8363-4efa-adae-2aca3c304300 = Постоянное вмешательство в то, что мы едим!
+	313b69b8-8363-4efa-adae-2aca3c304300 = Постійна амбівалентність того що їсть нашо нація!
 
 	////3000. ORIGINAL: It's certainly a theory...
-	84d572bd-97ac-4e8e-a5fe-ae435669b520 = Но это всего лишь теория...
+	84d572bd-97ac-4e8e-a5fe-ae435669b520 = але це лише теорія...
 
 	////3001. ORIGINAL: You have a better one?
-	5d97d31d-23c2-4dcd-b5a9-00f46276d376 = Вы можете предложить что-то лучше?
+	5d97d31d-23c2-4dcd-b5a9-00f46276d376 = Ви можете запропонувати щось краще?
 
 	////3002. ORIGINAL: I've heard there are people who can survive it.
-	cf7c572e-cb89-4411-8b20-6d2824a50772 = Я слышал что некоторые смогли это пережить?
+	cf7c572e-cb89-4411-8b20-6d2824a50772 = Я чув що є люди які змогли це пережити?
 
 	////3003. ORIGINAL: They're vegan. I'd put every dollar in my wallet on that.
-	bf2ac8b5-c91e-4644-920d-2916d48732ba = Они вегетарианцы. Бьюсь об заклад.
+	bf2ac8b5-c91e-4644-920d-2916d48732ba = Можу побитися об заклад, що вони вегетеріанці.
 
 	////3004. ORIGINAL: Professor Endsleigh thank you for...
-	5092f1f3-29fb-4529-8b28-a22ddbbdce75 = Спасибо Вам профессор Энслей за...
+	5092f1f3-29fb-4529-8b28-a22ddbbdce75 = Дякую професоре Ендслі за...
 
 	////3005. ORIGINAL: Have we mentioned my book?
-	72a3fbe6-19ea-4bea-83bc-02709360c329 = А мы упомянули мою книгу?
+	72a3fbe6-19ea-4bea-83bc-02709360c329 = А можете згадати мою книгу?
 
 	////3006. ORIGINAL: Is that necessary? Okay...
-	a0a231e8-5eae-42f3-8dc3-9b788b6e2d6b = А это обязательно? Ну ладно...
+	a0a231e8-5eae-42f3-8dc3-9b788b6e2d6b = Це обов'язково? Ну гаразд...
 
 	////3007. ORIGINAL: Professor Endsleigh, author of Apocalypse Cow...
-	2e521afa-0c06-47c8-830d-e97c5c721863 = Профессор Энслей, автор книги 'Апокалиптические Коровы'...
+	2e521afa-0c06-47c8-830d-e97c5c721863 = Профессор Ендслі, автор книги 'Апокаліптичні Корови'...
 
 	////3008. ORIGINAL: ... Thank you for talking through the night.
-	4209c20d-92af-49f8-a7a9-72cd9279ddc2 = ...Спасибо, что Вы были с нами.
+	4209c20d-92af-49f8-a7a9-72cd9279ddc2 = ...Дякую, що були з нами.
 
 	////3009. ORIGINAL: If you're still with us after those messages...
-	3e09cf35-792e-48be-86bc-9af9dd2b48ea = Если Вы все еще с нами...
+	3e09cf35-792e-48be-86bc-9af9dd2b48ea = Якщо ви все ще з нами...
 
 	////3010. ORIGINAL: ... we just lost contact with our correspondent Richard Gershwin on the Event boundary.
-	e26dde8f-d812-4a00-b2ee-a6bcf05b2b22 = ... мы потеряли связь с нашим корреспондентом, Ричардом Гершвином, на Границе Происшествия.
+	e26dde8f-d812-4a00-b2ee-a6bcf05b2b22 = ... Ми втратили зв'язок з нашим кореспондентом Річардом Геншвіном на межі Події.
 
 	////3011. ORIGINAL: *static*
 	a3952e90-9ed4-413d-9bb3-dde8582caaa7 = *перешкоди*
 
 	////3012. ORIGINAL: Diane can you hear me? Are you seeing this?
-	e41f30fa-3fe4-4c77-ba13-efcc6086c9d8 = Диана, Вы меня слышите? Вы это видите?
+	e41f30fa-3fe4-4c77-ba13-efcc6086c9d8 = Діано, Ви мене чуєте? Ви це бачите?
 
 	////3013. ORIGINAL: We're getting pictures now Richard.
-	fa8af977-2f86-4a0d-8f51-3dc718b4de4d = Ричард, мы Вас видим.
+	fa8af977-2f86-4a0d-8f51-3dc718b4de4d = Річард, ми вас бачимо.
 
 	////3014. ORIGINAL: What's happening?
-	9fc167c0-7eb4-4c8a-bfb2-9e36eeedafde = Что происходит?
+	9fc167c0-7eb4-4c8a-bfb2-9e36eeedafde = Що відбувається?
 
 	////3015. ORIGINAL: Some images might be shocking Diane. People are dead here.
-	b883c8d3-d6a4-4b86-9c91-afd7341fa58d = Диана, некоторые кадры просто ужасающие. Здесь мертвые люди.
+	b883c8d3-d6a4-4b86-9c91-afd7341fa58d = Діано, деякі каджи просто шокують. Люди тут мертві.
 
 	////3016. ORIGINAL: There was a disturbance. A soldier opened fire.
-	3687a4b3-8a98-4a9e-a1c2-f261f64f9993 = Начались беспорядки. Солдат открыл огонь.
+	3687a4b3-8a98-4a9e-a1c2-f261f64f9993 = Почались занепокоєння, солдати відкрили вогонь.
 
 	////3017. ORIGINAL: There are multiple casualties and...
-	efff2ced-5006-4217-9c37-79a10c2be53a = Есть пострадавшие и...
+	efff2ced-5006-4217-9c37-79a10c2be53a = є втрати і...
 
 	////3018. ORIGINAL: ... tear gas! Agh!
-	fb060a34-59f2-45c7-82a8-a5a58c201bd2 = ...слезоточивый газ! Кхе!
+	fb060a34-59f2-45c7-82a8-a5a58c201bd2 = ... сьозогінний газ! Кхе!
 
 	////3019. ORIGINAL: Are you seeing this? Are you seeing this?
-	df6953c1-2ced-41e0-b8d3-1f0670e189b5 = Вы это видите? Вы это видите?
+	df6953c1-2ced-41e0-b8d3-1f0670e189b5 = Ви це бачите? Бачите?
 
 	////3020. ORIGINAL: I WANT THAT CAMERA SHUT OFF! NOW!
-	87ee3fbe-86ee-4beb-af29-a05c5b042ccd = НЕГАЙНО ВІМКНІТЬ КАМЕРУ! ШВІДКО!
+	87ee3fbe-86ee-4beb-af29-a05c5b042ccd = НЕГАЙНО ВИМКНІТЬ КАМЕРУ! ВЖЕ!
 
 	////3021. ORIGINAL: Run! Don't...
 	21b60679-3f98-4747-a2ca-8620c2da734b = Біжи! Ні...
 
 	////3022. ORIGINAL: Richard? Richard!
-	3ca02b06-aef2-4e3b-98bf-0b8fc5c4cd6e = Ричард? Ричард!
+	3ca02b06-aef2-4e3b-98bf-0b8fc5c4cd6e = Річард? Річард!
 
 	////3023. ORIGINAL: Shocking events on the Event boundary.
-	1fe823e9-8f5d-499c-8ca6-f98142376850 = Ужасающие события на границе Зоны Отчуждения.
+	1fe823e9-8f5d-499c-8ca6-f98142376850 = Жахливі події на межі Події Нокс.
 
 	////3024. ORIGINAL: We'll keep you updated throughout the day...
-	8830443e-6a1f-45c5-9358-bd440115c91d = Мы будем Вам сообщать, если появится новая информация...
+	8830443e-6a1f-45c5-9358-bd440115c91d = Ми вам повідомимо, якщо буде нова інформація...
 
 	////3025. ORIGINAL: ... and on the repercussions that will be felt throughout the nation.
-	eae11369-3301-48f7-99ff-8ae7102d6b0a = ...и о последствиях, которые, несомненно, затронут всю нашу нацию.
+	eae11369-3301-48f7-99ff-8ae7102d6b0a = ... і про наслідки які відчує вся наша нація.
 
 	////3026. ORIGINAL: We've lost touch with our News Team on the ground...
-	97a1c7c9-c694-494b-91ef-fa3e30be4c3f = Мы потеряли связь с корреспондентами на местах...
+	97a1c7c9-c694-494b-91ef-fa3e30be4c3f = Ми втратили зв'язок з командою на місці...
 
 	////3027. ORIGINAL: ... in the chaos of the Exclusion Zone boundary.
-	45a2546f-878a-4ab4-94f5-5d604c2282a6 = ...в хаосе на границе Зоны Отчуждения.
+	45a2546f-878a-4ab4-94f5-5d604c2282a6 = ...в хаосі межі Зони Відчуження.
 
 	////3028. ORIGINAL: There are reported deaths at the hands of the military there.
-	397075d1-05f9-4d20-989e-4a92ed8179f9 = У нас есть сообщения о смерти гражданских лиц от рук военных.
+	397075d1-05f9-4d20-989e-4a92ed8179f9 = Як повідомлювалось військові несуть відповідпльність за смерті.
 
 	////3029. ORIGINAL: Though that is yet to be substantiated.
-	97a87216-9856-4391-9143-13341cb36a0b = Но это еще требует подтверждения.
+	97a87216-9856-4391-9143-13341cb36a0b = Але це ще треба довести.
 
 	////3030. ORIGINAL: What we can confirm are: tear gas and gunshots.
-	c15d48c1-1bb7-4145-a69f-c216d45a2b05 = Мы точно можем подтвердить, что был использован слезоточивый газ и что были слышны выстрелы.
+	c15d48c1-1bb7-4145-a69f-c216d45a2b05 = Ми можемо підтвердити сльозогінний газ та постріли
 
 	////3031. ORIGINAL: We have this statement from the President...
-	f033cf6e-5ed5-4ab1-9227-62550f828596 = Мы получили заявление от Президента...
+	f033cf6e-5ed5-4ab1-9227-62550f828596 = Ми отримали заяву Президента...
 
 	////3032. ORIGINAL: ... recorded BEFORE this latest incident.
-	03739659-bf46-41cc-8933-e7f1a6da8ade = ...оно было прислано ДО последних событий.
+	03739659-bf46-41cc-8933-e7f1a6da8ade = ...записана ДО останнього інциденту.
 
 	////3033. ORIGINAL: This statement was delivered mere minutes before...
-	efa2fad8-9057-46c6-be5a-d3255890cdb9 = Это заявление нам прислали буквально за пару минут...
+	efa2fad8-9057-46c6-be5a-d3255890cdb9 = Цю заяву прислали за декілька хвилин...
 
 	////3034. ORIGINAL: ... the following scene unfolded on the Event Line.
-	ee626b9d-ce70-4197-8727-3cf65d0324ca = ... до событий, произошедших на границе Происшествия Нокс.
+	ee626b9d-ce70-4197-8727-3cf65d0324ca = ... до наступної сцени яка буна на межі Події.
 
 	////3035. ORIGINAL: THE KNOX EVENT IS CONTAINED.
-	4fe3843e-0e49-4567-b97f-c0f062418c60 = ПРОИСШЕСТВИЕ НОКС ИЗОЛИРОВАННО.
+	4fe3843e-0e49-4567-b97f-c0f062418c60 = ПОДІЯ НОКС ЛОКАЛІЗОВАНО.
 
 	////3036. ORIGINAL: IT HAS ALWAYS BEEN CONTAINED.
-	56802b0b-fb9f-4178-a303-10d277face62 = ВСЕГДА БЫЛО ИЗОЛИРОВАННО.
+	56802b0b-fb9f-4178-a303-10d277face62 = ВОНА ЗАВЖДИ БУЛА ЛОКАЛІЗОВАНА
 
 	////3037. ORIGINAL: Speaking as myself, not as WBLN, I have drawn my own conclusions.
-	4664f5dc-3424-4f1b-87e3-ef434e98125b = Сейчас я выскажу свое личное мнение, не как корреспондента канала WBLN.
+	4664f5dc-3424-4f1b-87e3-ef434e98125b = Моя власна думка, не як WBLN. Я зробив висновки.
 
 	////3038. ORIGINAL: We don't have pictures but...
-	2cce27a9-25be-4742-be79-37c194fd8714 = Хотя мы не получаем кадров..
+	2cce27a9-25be-4742-be79-37c194fd8714 = Хоча в нас немає зв'язку...
 
 	////3039. ORIGINAL: Oh we do?
-	8d9f0c4f-f8b1-494a-a40d-dddeb09c961a = Что? Мы с ними на связи?
+	8d9f0c4f-f8b1-494a-a40d-dddeb09c961a = А ні, таки маємо!
 
 	////3040. ORIGINAL: Folks we're going straight over to Richard Gerswin.
-	68864e7b-853e-47ad-adc5-c672c9482df5 = Друзья, мы, вновь, передаем слово Ричарду Гершвину.
+	68864e7b-853e-47ad-adc5-c672c9482df5 = Люди, передаємо слово прямо до Річарда Гершвіна
 
 	////3041. ORIGINAL: I've... I've been attacked. Bitten.
-	69ca6ea7-98a9-4c1f-a728-82a54eba199b = На меня... На меня напали. Меня укусили.
+	69ca6ea7-98a9-4c1f-a728-82a54eba199b = На ме... На мене напали. Вкусили.
 
 	////3042. ORIGINAL: This huge wave of...
-	c0ddc352-c0f8-4c76-8306-25613171f690 = Эта огромная волна...
+	c0ddc352-c0f8-4c76-8306-25613171f690 = Ця здоровенна хвиля...
 
 	////3043. ORIGINAL: They're dead, Diane.
-	e096acb2-272c-431a-8c8d-6dffd5e4aa6e = Диана, они все мёртвые.
+	e096acb2-272c-431a-8c8d-6dffd5e4aa6e = Діано, вони всі мерті.
 
 	////3044. ORIGINAL: There's no other way to say it.
-	cda15668-b9e3-4dce-a3a5-41a7ed446a9f = По-другому это не сказать.
+	cda15668-b9e3-4dce-a3a5-41a7ed446a9f = Інших слів не підібрати.
 
 	////3045. ORIGINAL: We were being held by the army for filming the...
-	b789f579-2d73-4adf-b849-047fd2b7a78e = Военные нас задержали за съёмку...
+	b789f579-2d73-4adf-b849-047fd2b7a78e = Нас затримали військові за зйомку...
 
 	////3046. ORIGINAL: ... the guns. They were killing people.
-	db954327-4eb6-45df-aea6-0e4100f6d43a = ...огнестрельного оружия. Они убивали людей.
+	db954327-4eb6-45df-aea6-0e4100f6d43a = ... зброї. Вони вбивали людей
 
 	////3047. ORIGINAL: Richard, slow down.
-	b8291f68-243a-42b0-8539-45131a2c60ae = Ричард, успокойтесь.
+	b8291f68-243a-42b0-8539-45131a2c60ae = Річард, тримате себе в руках.
 
 	////3048. ORIGINAL: The people. The dead people from the inside.
-	8f7b32ee-0a71-4729-a206-2524458d30e6 = Люди. Мертвые люди из Зоны Отчуждения.
+	8f7b32ee-0a71-4729-a206-2524458d30e6 = Люди. Мертві люди з середини Зони.
 
 	////3049. ORIGINAL: They heard the fighting.
-	d073cf54-4b04-4e7d-bc53-f20a928ce35b = Они услышали стрельбу.
+	d073cf54-4b04-4e7d-bc53-f20a928ce35b = Вони почули постріли.
 
 	////3050. ORIGINAL: There were thousands of them.
-	e6782a22-d4d1-40b1-94c2-e985c9d3dd04 = Они пришли тысячами.
+	e6782a22-d4d1-40b1-94c2-e985c9d3dd04 = І їх прийшло тисячі.
 
 	////3051. ORIGINAL: They're stone cold. One of them...
-	6decb8d7-92a4-4833-af87-5c2e39457172 = Они ни на что не обращали внимания. Один из них...
+	6decb8d7-92a4-4833-af87-5c2e39457172 = Вони всі холодні як камінь. Один з них...
 
 	////3052. ORIGINAL: They're dead. They're actually dead.
-	4bd6b05e-fa81-4e82-b854-5659433b01d0 = Они мертвые. В прямом смысле слова.
+	4bd6b05e-fa81-4e82-b854-5659433b01d0 = Вони мертві. Буквально мертві.
 
 	////3053. ORIGINAL: Are there people, uninfected people, who have died?
-	ae561cb5-01cb-43b5-bf03-9d6a9cdc13bd = Люди, не зараженные, кто-нибудь из них погиб?
+	ae561cb5-01cb-43b5-bf03-9d6a9cdc13bd = А люди, не інфіковані люди, хтось помер?
 
 	////3054. ORIGINAL: It's a war zone.
-	dbd4fc4b-2bfe-4f3e-abf6-6ac4aadbe2da = Это зона боевых действий.
+	dbd4fc4b-2bfe-4f3e-abf6-6ac4aadbe2da = Це зона баєвих дій.
 
 	////3055. ORIGINAL: There's...
 	f4ffaa34-a386-4250-9b29-ca04affc74da = Там...
 
 	////3056. ORIGINAL: <gunfire>
-	d7639c03-ae6d-4f93-a0ed-7ca59776c925 = <стрельба>
+	d7639c03-ae6d-4f93-a0ed-7ca59776c925 = <постріли>
 
 	////3057. ORIGINAL: Oh God! There's more!
-	2b6bf68c-5c3c-4b94-9544-3ef34029a800 = О боже! Сюда идут ещё!
+	2b6bf68c-5c3c-4b94-9544-3ef34029a800 = О Боже! Їх суне ще більше!
 
 	////3058. ORIGINAL: The Knox Event has been compromised Diane!
-	6ddcaf24-beb8-40b0-83c7-41b6436b0d15 = Диана, Происшествие Нокс вышло из-под контроля!
+	6ddcaf24-beb8-40b0-83c7-41b6436b0d15 = Діано, Подія Нокс не контролюється!
 
 	////3059. ORIGINAL: Compromised!
-	dfd70b1f-5d90-4a1f-a8db-c5a0c6aa87c5 = Оно вышло из под контроля!
+	dfd70b1f-5d90-4a1f-a8db-c5a0c6aa87c5 = Не Контролюється!
 
 	////3060. ORIGINAL: GO BACK TO HELL YOU SON OF A BITCH!
-	9178065c-d964-4a03-98d1-e434c0697fa6 = ОТПРАВЛЯЙСЯ ОБРАТНО В АД, СУКИН ТЫ СЫН!
+	9178065c-d964-4a03-98d1-e434c0697fa6 = ПОВЕРТАЙСЯ В ПЕКЛО, СИН СОБАКИ!
 
 	////3061. ORIGINAL: Welcome to Talk the Night. I'm Dawn Stevenson.
-	4f9b7020-0eb0-4f15-bcda-1253285a4d4c = Ласкаво просимо на Нічну Бесіду.. Я Дон Стівенсон.
+	4f9b7020-0eb0-4f15-bcda-1253285a4d4c = Ласкаво просимо на Нічну Бесіду. Я Дон Стівенсон.
 
 	////3062. ORIGINAL: It's been a tragic and worrying day today.
-	b3675a1e-1643-4224-8226-ef8fe8474b9e = Это был ужасающий день.
+	b3675a1e-1643-4224-8226-ef8fe8474b9e = Це був грагічний і хвилюючий день.
 
 	////3063. ORIGINAL: Man fighting man. A huge incursion of the infected.
-	59b682fc-17c3-490e-b1be-6dde26c3fcf6 = Люди дерутся друг с другом. Прорыв блокады заражёнными.
+	59b682fc-17c3-490e-b1be-6dde26c3fcf6 = Люди б'ються. Величезна навала заражених.
 
 	////3064. ORIGINAL: Many losses.
-	b20d93db-1bda-4fa0-909d-a39fda1fdc88 = Огромные людские потери.
+	b20d93db-1bda-4fa0-909d-a39fda1fdc88 = Багато втрат.
 
 	////3065. ORIGINAL: We felt the need to reflect, amidst the chaos
-	e4e331ae-382f-4c25-8d1c-bdfff0c0d160 = Мы решили, что среди всего этого хаоса, нам следует остановиться и обдумать происходящее.
+	e4e331ae-382f-4c25-8d1c-bdfff0c0d160 = Ми вирішили зо потрібно обдумати це, не зважаючи на хаос.
 
 	////3066. ORIGINAL: Pastor Samuels, thank you for coming in at such short notice.
-	3747da69-da6a-4a4e-a167-18a48eae491b = Пастор Самюэльс, спасибо, что Вы пришли по первому зову.
+	3747da69-da6a-4a4e-a167-18a48eae491b = Пастор Самюель. Дякую, що прийшли так швидко.
 
 	////3067. ORIGINAL: It's all my pleasure.
-	e0f23cb1-ce2d-479c-8522-f64a8372b1b9 = Всегда пожалуйста.
+	e0f23cb1-ce2d-479c-8522-f64a8372b1b9 = Завжди радий.
 
 	////3068. ORIGINAL: What are we seeing today?
-	b52360e9-d81f-4bc5-909f-bb843a4c5ab3 = По вашему мнению, что происходит?
+	b52360e9-d81f-4bc5-909f-bb843a4c5ab3 = на вашу думку, що відбувається?
 
 	////3069. ORIGINAL: Quite simply. The end is at hand.
-	f7d3ec6b-11cf-47c5-9112-04631ab014e8 = Очень просто. Настал конец времён.
+	f7d3ec6b-11cf-47c5-9112-04631ab014e8 = Це просто. Прийшов кінець світу.
 
 	////3070. ORIGINAL: America has sinned.
-	9eaa0dfa-10b7-41c4-9957-f82184d7f5c2 = Америка грешна.
+	9eaa0dfa-10b7-41c4-9957-f82184d7f5c2 = Америка згрішила.
 
 	////3071. ORIGINAL: Every day I look to our streets and I see...
-	5b79ead5-d07d-4ef7-9eff-170a98edd6e1 = Каждый раз, проходя по улице, я вижу...
+	5b79ead5-d07d-4ef7-9eff-170a98edd6e1 = Кожен раз як дивлюсь на наші вулиці, я бачу...
 
 	////3072. ORIGINAL: ... depravity and wickedness.
-	dc4cf703-28a9-48c5-bfd3-6857cd34b761 = ...нечестивость и греховность.
+	dc4cf703-28a9-48c5-bfd3-6857cd34b761 = ... розбещеність і гріховність.
 
 	////3073. ORIGINAL: A nation tainted by perverts and sinners.
-	5b731d32-e5e4-4015-a375-4e9c2c7b44d0 = Наша нация запятнана извращенцами и грешниками.
+	5b731d32-e5e4-4015-a375-4e9c2c7b44d0 = Ціла нація заляпана збоченцями і грішниками.
 
 	////3074. ORIGINAL: So you think this an act of God?
-	af53deab-0b99-4af0-acd0-cee9e93aabb9 = Так Вы считаете, что это все деяние Бога?
+	af53deab-0b99-4af0-acd0-cee9e93aabb9 = То ви думаєте - це все воля Божа?
 
 	////3075. ORIGINAL: This is the VOICE of God.
-	9109c68c-326d-4b8d-b11c-8d6edcecbf4b = Это ГЛАС Божий.
+	9109c68c-326d-4b8d-b11c-8d6edcecbf4b = Це ГОЛОС Божий.
 
 	////3076. ORIGINAL: Okay... what hope can you give our viewers?
-	7c58d066-7b14-4dec-a001-878e193cd5c7 = Хорошо... Какую Вы можете дать надежду нашим зрителям?
+	7c58d066-7b14-4dec-a001-878e193cd5c7 = Гаразд... Чи можете ви дати надію нашим глядачам?
 
 	////3077. ORIGINAL: Our viewers of faith?
-	d706a2c7-2088-4fd8-903c-db96b4fdffe1 = А наши зрители правоверны?
+	d706a2c7-2088-4fd8-903c-db96b4fdffe1 = Нашим глядачам з вірою?
 
 	////3078. ORIGINAL: None.
-	9e38da84-713b-41e6-a976-2dd67fd5a1dd = Нет никакой надежды.
+	9e38da84-713b-41e6-a976-2dd67fd5a1dd = Ні.
 
 	////3079. ORIGINAL: There is only Hell.
-	d12c11fa-605a-4bb6-98ac-2cec5a8560f2 = Впереди только АД.
+	d12c11fa-605a-4bb6-98ac-2cec5a8560f2 = Далі тільки пекло.
 
 	////3080. ORIGINAL: There is Hell here.
-	7c928342-7302-4e3e-9ada-b5a339f5b857 = Ад уже здесь.
+	7c928342-7302-4e3e-9ada-b5a339f5b857 = Пекло вже тут
 
 	////3081. ORIGINAL: There is Hell below.
-	abeb06cd-a960-417d-8533-3e669b2646d4 = Ад под нами.
+	abeb06cd-a960-417d-8533-3e669b2646d4 = Пекло під нами
 
 	////3082. ORIGINAL: I'm sorry, but I can't let you... there must be some hope.
-	3ba260a5-c791-4751-8693-a8048fc618c5 = Я не могу Вам позволить... Должна быть какая-то надежда.
+	3ba260a5-c791-4751-8693-a8048fc618c5 = Я не можу дозволити вам... Надія завжди мусить бути.
 
 	////3083. ORIGINAL: We got you on to...
-	2967be3b-10b3-4949-976e-94c7d7b9f1cd = Мы Вас позвали чтоб--...
+	2967be3b-10b3-4949-976e-94c7d7b9f1cd = Ми вас покликали щоб--...
 
 	////3084. ORIGINAL: Your media elite. You are at fault too.
-	dd790c43-a55d-463d-871f-88335147b055 = Ваша элита СМИ, Вы тоже виноваты.
+	dd790c43-a55d-463d-871f-88335147b055 = Ваша медіа еліта. Це і ваша провина.
 
 	////3085. ORIGINAL: I'm sorry?
-	84b95184-dc64-49d2-bbad-90160eeea9ae = Что?
+	84b95184-dc64-49d2-bbad-90160eeea9ae = Перепрошую?
 
 	////3086. ORIGINAL: You are the people who led us to the Devil's door are you not?
-	74f3f169-c15a-4d36-8e76-5ed98a1063e2 = Ведь это Вы привели нас на порог к Дьяволу! Разве нет?
+	74f3f169-c15a-4d36-8e76-5ed98a1063e2 = Це ви привели нас під двері Диявола!
 
 	////3087. ORIGINAL: I'm ending this interview right now.
-	cfd4faf6-aa6a-40e8-b0a3-be395f6df793 = Я немедленно прекращаю это интервью.
+	cfd4faf6-aa6a-40e8-b0a3-be395f6df793 = Я завершує це інтрев'ю негайно!
 
 	////3088. ORIGINAL: We have lost contact with our Event Boundary news team...
-	7379210c-9c0a-413b-916b-6dc4611ec36c = Мы потеряли связь с нашими сотрудниками на Границе Происшествия...
+	7379210c-9c0a-413b-916b-6dc4611ec36c = Ми втратили зв'язок з нашою командою з межі Події...
 
 	////3089. ORIGINAL: ... but we have another crew on the road.
-	85ebda08-07c2-4006-8e23-16799aea256f = ... но другая группа уже в пути.
+	85ebda08-07c2-4006-8e23-16799aea256f = ... але інша команд вже на шляху туди.
 
 	////3090. ORIGINAL: What are you guys hearing?
-	a88bd42c-5480-40cb-8925-3a04759fe296 = Что-нибудь слышно?
+	a88bd42c-5480-40cb-8925-3a04759fe296 = Чо там чутно?
 
 	////3091. ORIGINAL: We've been stopped at a checkpoint, but it's gridlock in any case.
-	dd3947f9-ec2d-4e64-8a36-505bdcebeff3 = Мы остановились у КПП, но тут пробка.
+	dd3947f9-ec2d-4e64-8a36-505bdcebeff3 = Ми зупинились на КПП, але тут корок.
 
 	////3092. ORIGINAL: Thousands of people, in cars or on foot.
-	b792ba72-7413-472a-a145-69af508b3f87 = Тысячи людей, в машинах, пешком.
+	b792ba72-7413-472a-a145-69af508b3f87 = ТИсячі людей машинамі і пішки.
 
 	////3093. ORIGINAL: All streaming past us.
-	29b1e6d0-6028-413c-9f4a-321471ea9d93 = Они вокруг нас.
+	29b1e6d0-6028-413c-9f4a-321471ea9d93 = Вони проходять повз нас.
 
 	////3094. ORIGINAL: All scared, hungry, crying or injured - some severely.
-	d3090eb4-e0fd-4e16-850a-7430ac5d09d6 = Они испуганы, голодны, плачут и есть раненые, некоторые серьёзно.
+	d3090eb4-e0fd-4e16-850a-7430ac5d09d6 = Вони налякані, голодні, плачуть та мають поранення, дехто сильні.
 
 	////3095. ORIGINAL: The Army are pulling back alongside them.
-	b0e041d4-dae8-42d8-a97b-5d1576d0a62a = Военные отступают вместе с ними.
+	b0e041d4-dae8-42d8-a97b-5d1576d0a62a = Військові відходять разом з ними.
 
 	////3096. ORIGINAL: A truce after the mayhem that attracted thousands of infected over...
-	a970d478-930a-4edc-b052-3032aec09089 = Перемирие после расправы, привлёкшей тысячи заражённых...
+	a970d478-930a-4edc-b052-3032aec09089 = перемир'я після бійні що прикликала тисяці заражених...
 
 	////3097. ORIGINAL: ... the Event boundary, and directly into harm's way.
-	cabe4245-d73e-445c-ba92-a3c6a206b2fb = ...к Границе Происшествия, выглядит ужасно.
+	cabe4245-d73e-445c-ba92-a3c6a206b2fb = ... до межі Події, та нашкодило напряму.
 
 	////3098. ORIGINAL: Is there any evidence of the infection spreading?
-	235d1cd8-6684-42f4-8b6a-37cf46ef8cc9 = Есть ли свидетельства дальнейшего распространения заражения?
+	235d1cd8-6684-42f4-8b6a-37cf46ef8cc9 = Чи є докази поширення інфекції?
 
 	////3099. ORIGINAL: No Diane, there is not.
-	a3d132be-5e4a-4f99-8057-af4624bc2e21 = Нет, Диана, никаких.
+	a3d132be-5e4a-4f99-8057-af4624bc2e21 = Ні, діано, немає.
 
 	////3100. ORIGINAL: I hate to say it, but many have been left behind.
-	6af9a428-1709-41f4-9722-5b9b84a0f8c8 = Как это ни прискорбно, но многих пришлось оставить там.
+	6af9a428-1709-41f4-9722-5b9b84a0f8c8 = На превеликий жаль, багато кого прийшлось залишити позаду.
 
 	////3101. ORIGINAL: I think we can expect developments in that area.
-	25a2dc92-a0f9-4151-83eb-af396d703870 = Но, распространение вполне возможно.
+	25a2dc92-a0f9-4151-83eb-af396d703870 = Я думаю ми можемо оцікувати на розвиток подій в тому регіоні.
 
 	////3102. ORIGINAL: Are you saying that people expect more to get infected?
-	aefabd11-abd6-4071-a3b7-35df0d7655ff = Вы хотите сказать, что люди ожидают дальнейшего распространения заражения?
+	aefabd11-abd6-4071-a3b7-35df0d7655ff = Ви хочеье сказати що очікується більше число зараження?
 
 	////3103. ORIGINAL: There were thousands of infected, and they they left their mark.
-	20a8ee60-553a-45ce-add3-dbe20fd5555f = Зараженных были тысячи, и они оставили свои отметки.
+	20a8ee60-553a-45ce-add3-dbe20fd5555f = Заражених було тисячі, і вони залишили свій слід.
 
 	////3104. ORIGINAL: Then why are the military pulling back?
-	1a16d07c-c619-48af-9d0f-4732e9a12fee = Тогда почему военные отступают?
+	1a16d07c-c619-48af-9d0f-4732e9a12fee = Тоді чому військові відступають?
 
 	////3105. ORIGINAL: We think to form a new perimeter.
-	3b9822c0-777b-4ab5-affb-2ca0b9f315f0 = Мы думаем, что они хотят сделать новый периметр.
+	3b9822c0-777b-4ab5-affb-2ca0b9f315f0 = Ми підозрюємо що для того щоб утворити новий периметри.
 
 	////3106. ORIGINAL: And people are letting them? After what transpired yesterday?
-	e3c5719a-313c-49d9-b0b9-09f09842a08c = И люди им это позволяют? Несмотря на то, что произошло вчера?
+	e3c5719a-313c-49d9-b0b9-09f09842a08c = І люди їх це дозволяють після того що відбулось вчора?
 
 	////3107. ORIGINAL: Being close to men with guns seems a good idea.
-	6df95981-5b7b-417f-a83c-d21d46d30932 = Находиться рядом с вооруженными людьми не такая уж и плохая идея.
+	6df95981-5b7b-417f-a83c-d21d46d30932 = Бути поруч озброєних людей здається хорошою ідеєю.
 
 	////3108. ORIGINAL: The road feels safer.
-	fd5d7ef6-d0d0-446a-8f3f-6f9038bcf8c7 = Путь кажется более безопасным.
+	fd5d7ef6-d0d0-446a-8f3f-6f9038bcf8c7 = Шлях відчувається більш безпечним.
 
 	////3109. ORIGINAL: Keep on trying to push up to the boundary Mike.
-	58b0536f-f3a6-47ff-8915-59073571de53 = Майк, продолжайте продвигаться к границе.
+	58b0536f-f3a6-47ff-8915-59073571de53 = Майк, продовжуйте просуватись до межі.
 
 	////3110. ORIGINAL: Yes ma'am.
-	51417ce3-000b-4093-a47a-539e77d4d830 = Да, мэм.
+	51417ce3-000b-4093-a47a-539e77d4d830 = Так, мем.
 
 	////3111. ORIGINAL: We're going straight to our news team...
-	7ec3ee42-e96e-453c-80dc-060f61ca3f35 = И так, мы на связи с корреспондентами...
+	7ec3ee42-e96e-453c-80dc-060f61ca3f35 = Ми одразу ж переходимо до репортерів...
 
 	////3112. ORIGINAL: ... who are on the road south of Louisville.
-	e0b21fba-bf43-4020-be05-4268c63d577b = ... которые в пути, к югу от Луисвилля.
+	e0b21fba-bf43-4020-be05-4268c63d577b = ... які вже на південній дорозі Луїсвілю.
 
 	////3113. ORIGINAL: What you're seeing is an exodus.
-	179981f4-4c48-4b15-a98f-4ce2c1be1115 = То, что Вы видите, это исход.
+	179981f4-4c48-4b15-a98f-4ce2c1be1115 = Те що ви бачите - це Вихід.
 
 	////3114. ORIGINAL: But within this exodus there is a plague.
-	6415bff5-d361-4779-a5a4-81334351ef47 = Но этот исход несёт с собой чуму.
+	6415bff5-d361-4779-a5a4-81334351ef47 = Але цей Вихід несе з собою чуму.
 
 	////3115. ORIGINAL: Scared people, injured people... all heading North.
-	7a410e8b-a081-4937-9d2b-9ef947d7fe19 = Испуганные, раненые люди... все идут на север.
+	7a410e8b-a081-4937-9d2b-9ef947d7fe19 = Налякані люди, поранені люди... всі йдуть на північ.
 
 	////3116. ORIGINAL: The scenes are the same on each side of the collapsed Event boundary.
-	d705e671-9069-4d09-80d2-15df8141ef75 = Подобное творится по всей ныне разрушенной границе Происшествия.
+	d705e671-9069-4d09-80d2-15df8141ef75 = Плдібне відбувається на всіх сторонах розваленої межі.
 
 	////3117. ORIGINAL: People who sustained infected attacks in yesterday's chaotic scenes
-	01b6a0ec-b4ac-4c3b-8cfe-37da947412b6 = Люди пережили вчерашнее нападение зараженных.
+	01b6a0ec-b4ac-4c3b-8cfe-37da947412b6 = Люди які вижили після вчорашнього нападу заражених.
 
 	////3118. ORIGINAL: This was a scene earlier today in which a mob... descended...
-	254d63ba-b57d-4d85-80c5-bda3ff25e037 = Сегодня утром была ужасная сцена, когда группа людей... они напали...
+	254d63ba-b57d-4d85-80c5-bda3ff25e037 = Зранку була подія - група людей... накинулась...
 
 	////3119. ORIGINAL: ... on a young man who showed symptoms of the Knox Infection.
-	9baa0f9e-da41-4127-86cc-b96aec57e9af = ...на молодого парня, у которого начали появляться симптомы Инфекции Нокс.
+	9baa0f9e-da41-4127-86cc-b96aec57e9af = ... на молодого хлопця в якого появлялись симптоми Інфекції Нокс
 
 	////3120. ORIGINAL: Everyone just wants to get North of the Ohio River...
-	71e815aa-bd94-4415-be5e-1fe611069462 = Все хотят перебраться на север, через реку Огайо...
+	71e815aa-bd94-4415-be5e-1fe611069462 = Всі хочуть перетнути річку Огайо на півночі...
 
 	////3121. ORIGINAL: ... but rumors swirl that the military intend to shut off the bridge.
-	e7022246-2cdd-40e4-9b09-f71fe22699bf = ...но ходят слухи, что военные собираются перекрыть мост.
+	e7022246-2cdd-40e4-9b09-f71fe22699bf = ... але ширяться чутки що військові планують закрити міст.
 
 	////3122. ORIGINAL: Have you heard about that in the studio, Diane?
-	329d991e-ff57-46c7-8ac3-a14be0910067 = Диана, Вы что-нибудь слышали об этом в вашей студии?
+	329d991e-ff57-46c7-8ac3-a14be0910067 = Діано, Ви щось чули про це?
 
 	////3123. ORIGINAL: Diane?
-	acc77296-dd80-4c2a-93db-82ffc9442c3e = Диана?
+	acc77296-dd80-4c2a-93db-82ffc9442c3e = Діано?
 
 	////3124. ORIGINAL: I'm sorry Mike but... Triple-N are reporting that...
-	13cb8f3e-bff8-45be-a9fe-ec678b1991cb = Извините Майк, но... Подождите, у нас информация от 'Triple-N'...
+	13cb8f3e-bff8-45be-a9fe-ec678b1991cb = Вибачте Майк, але... В 'Triple-N' кажуть що...
 
 	////3125. ORIGINAL: That the Knox Infection is now spreading without bites.
-	c177c6de-bdb1-40c2-9394-32e0addf0aa4 = ...инфекция Нокс теперь распространяется без укусов.
+	c177c6de-bdb1-40c2-9394-32e0addf0aa4 = ... інфекція Нокс тепер передаєтья буз укусів.
 
 	////3126. ORIGINAL: It's what?
-	e414d31e-e8db-4093-b7f8-b9d13473b746 = Инфекция что?
+	e414d31e-e8db-4093-b7f8-b9d13473b746 = Вона ЩО?
 
 	////3127. ORIGINAL: Folks, you've never seen this before but...
-	9d398bd5-bef5-44cb-8733-ac885d4aa7f3 = Народ, Вы еще такого не видели...
+	9d398bd5-bef5-44cb-8733-ac885d4aa7f3 = Народ, ви ще такого не бачили...
 
 	////3128. ORIGINAL: ... I'm telling you to tune into Triple-N right now.
-	275524de-7fa0-4dcb-a7ee-89fdbdc679a3 = ...я советую всем переключиться и послушать 'Triple-N'.
+	275524de-7fa0-4dcb-a7ee-89fdbdc679a3 = ...я ражду вам переключитись і послухати 'Triple-N'.
 
 	////3129. ORIGINAL: That can't be true
-	de1a7a5c-e799-4a92-b942-d7683f46449a = Этого не может быть.
+	de1a7a5c-e799-4a92-b942-d7683f46449a = Це не може бути правдою.
 
 	////3130. ORIGINAL: I think it is Mike.
-	7374eed6-cf5f-4058-8da5-11a75133796e = Мне кажется это Майк.
+	7374eed6-cf5f-4058-8da5-11a75133796e = Мені здається це Майк.
 
 	////3131. ORIGINAL: It's not confirmed, but we're seeing pictures that...
-	42ad4b2a-c772-4557-b3dc-0a1ac98bb655 = Еще нет никаких подтверждений, но это...
+	42ad4b2a-c772-4557-b3dc-0a1ac98bb655 = Це ще не підтверджено, але дивлячись на це...
 
 	////3132. ORIGINAL: Breaking News.
-	cdd0fc06-1f2d-4776-82b1-cd1391ee8a08 = Срочные Новости.
+	cdd0fc06-1f2d-4776-82b1-cd1391ee8a08 = Важливі новини.
 
 	////3133. ORIGINAL: The Knox Event infection is sweeping through Louisville.
-	0b808f8b-5914-4c41-8341-4658e2f81d4d = Инфекция Нокс распространяется огромной скоростью по всему Луисвиллу.
+	0b808f8b-5914-4c41-8341-4658e2f81d4d = Інфекція Події Нокс пройшлась по Луїсвілю
 
 	////3134. ORIGINAL: WBLN has obtained the following pictures.
-	914abbc9-5e38-4f50-93db-612265cdd73f = Мы на 'WBLN' принимаем следующую картинку.
+	914abbc9-5e38-4f50-93db-612265cdd73f = 'WBLN' отримує наступну картинку.
 
 	////3135. ORIGINAL: The illness has struck potentially thousands of people down.
-	a76c2928-9356-4576-b996-a79a69922013 = Инфекцией, потенциально, были заражены тысячи.
+	a76c2928-9356-4576-b996-a79a69922013 = Інфекція потенційно заразила тисячі людей.
 
 	////3136. ORIGINAL: The infection is thought to be the same as that within the Event zone.
-	33a55547-3d6e-41af-9f8c-9b7166713a19 = Предполагается, что инфекция идентична той, что была в зоне Происшествия.
+	33a55547-3d6e-41af-9f8c-9b7166713a19 = Припускається що інфекція така сама що в Події Нокс.
 
 	////3137. ORIGINAL: Instances of... reanimation are not yet active within the city limits.
-	13459339-03eb-4bcb-a9bc-e20a5fe0cd29 = Случаи... воскрешения в городе еще не зафиксированы.
+	13459339-03eb-4bcb-a9bc-e20a5fe0cd29 = Випадки... реанімації все ще не спостерігаються в місті.
 
 	////3138. ORIGINAL: However scenes on the road from the Event Zone suggest it inevitable.
-	3b1e71f6-b13a-4bb4-91cd-dde7be006de2 = Но судя по увиденному по дороге от Зоны Происшествия, это неизбежно.
+	3b1e71f6-b13a-4bb4-91cd-dde7be006de2 = Проте, сцени на дорозі з Зони Подій підказують що це невідворотно.
 
 	////3139. ORIGINAL: There is no word from the President or the Military beyond existing...
-	8554065b-153d-480f-8b31-aa3731a85521 = Мы не слышали ничего от Президента и от военных кроме...
+	8554065b-153d-480f-8b31-aa3731a85521 = Немає жодної звістки від Президента чи Військових, крім наявних...
 
 	////3140. ORIGINAL: ... advice to stay inside, to avoid travel and obey curfew measures.
-	f164d6df-7891-43af-8be4-cbe57b9daa4c = ...совета не выходить из домов, не путешествовать и соблюдать комендантский час.
+	f164d6df-7891-43af-8be4-cbe57b9daa4c = ... порад залишатись всередині, відмовитись від подорожей, і дотримуватись КГ.
 
 	////3141. ORIGINAL: We here at WBLN will stay on the air for as long as we can to keep you informed.
-	6b3d5c34-2763-42dd-87bd-52befc7c7bc7 = Мы будем оставаться в эфире до последнего, здесь на WBLN.
+	6b3d5c34-2763-42dd-87bd-52befc7c7bc7 = Ми, 'WBLN', будемо з вами на зв'язку так довго як зможемо.
 
 	////3142. ORIGINAL: We ask for patience, however, during these difficult times.
-	819edc14-1f16-4786-a8e9-d24d8e6da6e2 = Мы лишь просим Вас соблюдать спокойствие в эти тяжкие времена.
+	819edc14-1f16-4786-a8e9-d24d8e6da6e2 = Ми всього лиш просибо зберігати споків, в ці важкі часи.
 
 	////3143. ORIGINAL: Some of us are leaving to be with our families.
-	b6664ecf-adfd-492a-a8d2-3e0337d09dee = Некоторые из нас отправляются домой, к родным.
+	b6664ecf-adfd-492a-a8d2-3e0337d09dee = Дехто з нас йде додому, до рідних.
 
 	////3144. ORIGINAL: A skeleton crew have agreed to stay at the station until...
-	dae6f23f-b23b-47d2-aef7-163720741e24 = На станции остается лишь считанные единицы людей...
+	dae6f23f-b23b-47d2-aef7-163720741e24 = На станції залишуться лише декілька людей, до поки...
 
 	////3145. ORIGINAL: ... until whatever happens in the coming days happens.
-	3eccbff0-d158-4e36-b330-1af3b5a601be = ...пока не наступит то, что было предречено.
+	3eccbff0-d158-4e36-b330-1af3b5a601be = ... поки не почнеться те що було передбачено .
 
 	////3146. ORIGINAL: I'd like to apologise for last night's guest.
-	00d1a98e-9595-4122-b6c2-232af60a5f52 = Я хотел бы извиниться за нашего последнего гостя, прошлой ночью.
+	00d1a98e-9595-4122-b6c2-232af60a5f52 = Я хотів би вибачитись за крайнього гостя, минулої ночі.
 
 	////3147. ORIGINAL: Tonight we hope to avoid distress.
-	7f8d0ba6-0c24-45d8-b038-339d88606c8d = Надеюсь сегодня подобного не повторится.
+	7f8d0ba6-0c24-45d8-b038-339d88606c8d = Надіюсь сьогодні цього не повториться.
 
 	////3148. ORIGINAL: Sitting with me is the Right Reverend Peter Watts.
-	946d1d89-5275-4bc3-ba3e-d7da925c7df5 = Сегодня у нас в гостях его преосвященство Питер Уоттс.
+	946d1d89-5275-4bc3-ba3e-d7da925c7df5 = Поруч зі мною Преосвященніший Пітер Ватс.
 
 	////3149. ORIGINAL: The Bishop of Louisville.
-	b47f9b70-1ece-4486-a1ca-ef823c663def = Епископ Луисвилла.
+	b47f9b70-1ece-4486-a1ca-ef823c663def = Єпискоб Луїсвілю.
 
 	////3150. ORIGINAL: How do you react to the Knox Event as a man of faith?
-	856c37aa-f6df-4e10-ad56-56f4b078f367 = Как человек веры, что Вы думаете о Происшествии Нокс?
+	856c37aa-f6df-4e10-ad56-56f4b078f367 = Як віруючий, як ви реагуєте на Подію Нокс?
 
 	////3151. ORIGINAL: I find it testing.
-	d7c69f59-aa8e-4b5b-bed7-9c9c6237d8f0 = Я думаю, это испытание.
+	d7c69f59-aa8e-4b5b-bed7-9c9c6237d8f0 = Я думаю це перевірка.
 
 	////3152. ORIGINAL: I find it hard to believe that a just God, my God, could allow...
-	8f71aae6-22a8-4461-a2e4-20709e8f0491 = Я не могу поверить, что наш праведный Бог...
+	8f71aae6-22a8-4461-a2e4-20709e8f0491 = Мені важко повірити, що Бог, мій Бог, міг...
 
 	////3153. ORIGINAL: ... such a thing.
-	6f804ae1-c24b-4971-81f0-5d9ea3fa8589 = ...мог позволить подобное.
+	6f804ae1-c24b-4971-81f0-5d9ea3fa8589 = ...дозволити таку річ.
 
 	////3154. ORIGINAL: But I also see God in those helping each other.
-	239d361c-80c5-4176-a750-93350a4aa5d6 = Но я также вижу Бога и в тех, кто не забывает помогать ближнему.
+	239d361c-80c5-4176-a750-93350a4aa5d6 = Проте я також бачу Бога в тих хто допомагає один одному.
 
 	////3155. ORIGINAL: I see God in those helping us.
-	1bef902c-59f2-44a8-a21a-fbf413c5766f = Я вижу Бога в тех, кто предлагает нам свою помощь.
+	1bef902c-59f2-44a8-a21a-fbf413c5766f = Я бачу Бога в тих хто просить допомагає нам.
 
 	////3156. ORIGINAL: How can he let this happen?
-	5b8127db-e2cf-4af4-8f0c-d5dfa61b16db = Но как он позволил подобному случиться?
+	5b8127db-e2cf-4af4-8f0c-d5dfa61b16db = Але як він міг дозволити такому статися?
 
 	////3157. ORIGINAL: It is central to my belief that there is another place.
-	47c01a90-d68e-483a-9271-24b7e7e60178 = $15.99, включая почтовые расходы и упаковку!
+	47c01a90-d68e-483a-9271-24b7e7e60178 = В центрі моєї віри є їнше місце.
 
 	////3158. ORIGINAL: A better place, in his presence.
-	742ce42d-a412-4baf-9e6f-e7762abfc52d = Мир, подле Него.
+	742ce42d-a412-4baf-9e6f-e7762abfc52d = Краще місце, з Його присутністю
 
 	////3159. ORIGINAL: I believe that those... changed.
-	4477c23b-1be2-416c-a1ff-efc9c2bae105 = Я верю, что эти.. измененные...
+	4477c23b-1be2-416c-a1ff-efc9c2bae105 = Я вірю в те що ці... зміни.
 
 	////3160. ORIGINAL: Are a step closer. Maybe already at his side.
-	b36eafc4-ce21-48e6-92e3-4a7a9e23d650 = ... уже на шаг ближе. Возможно, что они уже возле Него.
+	b36eafc4-ce21-48e6-92e3-4a7a9e23d650 = Вже на крок блище. Можливо вже біля Нього.
 
 	////3161. ORIGINAL: What else is there?
-	5e83be0b-90d4-4184-a934-1e650e352e24 = И, что еще там есть?
+	5e83be0b-90d4-4184-a934-1e650e352e24 = Що ще там є?
 
 	////3162. ORIGINAL: Have you doubted? Have you doubted at all?
-	338e6724-fff8-4a7c-ba0b-93cf3efdd625 = Вы сомневались в своих убеждениях? Хоть раз?
+	338e6724-fff8-4a7c-ba0b-93cf3efdd625 = Ви сумнівались? Ви хоч раз сумнівались?
 
 	////3163. ORIGINAL: I am human, and to doubt is human.
-	6e36fbcc-ca97-41be-9412-e9a625cf2d66 = Я человек, и сомнение у нас в крови.
+	6e36fbcc-ca97-41be-9412-e9a625cf2d66 = Я людина. Сумніви - це людяність.
 
 	////3164. ORIGINAL: Thomas doubted, but he was forgiven.
-	8899aea1-6410-40f7-8b41-02144519f1f9 = Томас сомневался и он был прощен за это.
+	8899aea1-6410-40f7-8b41-02144519f1f9 = Томас сумнівався, але він був прощений.
 
 	////3165. ORIGINAL: We will all be forgiven.
-	cc4e1c82-813b-47ad-8944-6051800e5253 = Мы все получим прощение..
+	cc4e1c82-813b-47ad-8944-6051800e5253 = Ми всі отримаємо своє прощення..
 
 	////3166. ORIGINAL: How you doing? Welcome back to the Cook show!
-	f17f9259-0ab3-4928-9390-09e068ffc18f = Як Ваші справи? Ласкаво просимо на наше кулінарне шоу 'СМАК'! 
+	f17f9259-0ab3-4928-9390-09e068ffc18f = Як Ваші справи? Ласкаво просимо на наше кулінарне шоу 'СМАК'!
 
 	////3167. ORIGINAL: Brought to you by Kitten Knives - Fine American Cookware.
 	28f9b202-f015-43e5-a6bb-84e9822bcd25 = Наш сьогоднішній спонсор - КуХоні Ножі від 'Fine American Cookware'.
@@ -9543,7 +9543,7 @@
 	5e29b81b-d45c-4fec-9a60-0e857843d364 = Кладемо в духовку і чекаємо поки приготується!
 
 	////3178. ORIGINAL: Can't beat that smell, huh?
-	85f20595-35a8-46be-a89b-83701bfa4db0 = А пахне як... вкусно.
+	85f20595-35a8-46be-a89b-83701bfa4db0 = А пахне як... смачно.
 
 	////3179. ORIGINAL: See you tomorrow!
 	da30d9a5-9fed-4116-af1d-67d22a60c36e = Побачимось завтра!
@@ -9573,13 +9573,13 @@
 	797d7ddd-c394-4c5f-b68a-c1c77b406d68 = Дивіться-но, здається, сьогодні ми розмовляємо з справжніми мужиками.
 
 	////3188. ORIGINAL: Focus-testing. You got to love it, huh?
-	e40ea507-7a4d-47b2-a5f8-82153f6cf70f = Маркетинговые исследования, обожаю их!
+	e40ea507-7a4d-47b2-a5f8-82153f6cf70f = Маркетингові дослідження, обожнюю.
 
 	////3189. ORIGINAL: Anyway, men like bars. They like a beer.
 	7e28da39-6029-40a6-bff0-f99591bad1d9 = Отже, чоловіки люблять ходити в бар! Люблять пиво!
 
 	////3190. ORIGINAL: *sigh*
-	f14f0a3c-e1ef-4b4e-aad3-361115ec3df0 = <зітхання>
+	f14f0a3c-e1ef-4b4e-aad3-361115ec3df0 = *зітхання*
 
 	////3191. ORIGINAL: Would you... dude...
 	b9ef2d99-0b7a-40bb-9b39-c9d37d5a25f9 = Чувак... чи не хочеш ти, випадком...
@@ -9699,7 +9699,7 @@
 	0fc5302f-8b25-48d5-8525-4fdcbada5d5d = Закиньте курку, тримайте на вогні поки не закипить... та...
 
 	////3230. ORIGINAL: Bell Pepper, Onion, Potato...
-	303298cd-2ea0-4568-ab6d-6852e93dc253 = Додайте лучку, картоплю та солодкий перець...
+	303298cd-2ea0-4568-ab6d-6852e93dc253 = Додайте цибулі, картоплю та солодкий перець...
 
 	////3231. ORIGINAL: Don't matter if anything's getting stale.
 	7045520e-d6a1-40e3-a166-cad0e00ed5de = Не звертайте увагу, якщо продукти не свіжі.
@@ -9723,29 +9723,29 @@
 	67f2417d-cba8-4e2d-8870-0f31b0124a17 = Побачимось завтра!
 
 	////3238. ORIGINAL: We're startin' with the basics.
-	255e366a-1954-44ce-bed3-c43b4501c1cf = Давайте начнем с основ.
+	255e366a-1954-44ce-bed3-c43b4501c1cf = Давайте почнемо з основи.
 
 	////3239. ORIGINAL: The kinda stuff they teach at kindergarten.
-	451e2b1b-1aab-4bd9-9f0f-3d01735c135a = С того, что знают даже малые дети
+	451e2b1b-1aab-4bd9-9f0f-3d01735c135a = Речі яких вчать дітей в садку.
 
 	////3240. ORIGINAL: You like floors? I like floors.
-	251f9986-ddf1-48d0-b68a-6e81b7ac38f6 = Вам нравятся полы? Мне нравятся полы.
+	251f9986-ddf1-48d0-b68a-6e81b7ac38f6 = Вам довподоби підлога? Мені - так.
 
 	////3241. ORIGINAL: Take a plank and a nail like this...
-	6a59acba-6882-4435-a24b-81b91436d05e = Берем доску и гвоздь...
+	6a59acba-6882-4435-a24b-81b91436d05e = Беремо дошку і цв'ях...
 
 	////3242. ORIGINAL: Take your hammer and...
-	e9399ff8-a997-4d2a-81de-ef4d7f84082e = Затем молоток...
+	e9399ff8-a997-4d2a-81de-ef4d7f84082e = Потім молоток...
 
 	////3243. ORIGINAL: Looks kinda nice like that huh?
-	75a03f86-d185-4049-b9e0-3221ecae6ed3 = Мило получилось, правда?
+	75a03f86-d185-4049-b9e0-3221ecae6ed3 = Гарно получилось, правда?
 
 	////3244. ORIGINAL: Know what else is good for practice?
-	595f10b5-8241-486f-99f4-7c89fd98df45 = А знаете, что еще хорошо для практики?
+	595f10b5-8241-486f-99f4-7c89fd98df45 = А знаєте що ще добре для практики?
 
 	////3245. ORIGINAL: A sign. Write whatever you like.
-	b5f4b0a1-dd7e-4cd6-8e26-3597a36c6776 = Табличка. Пишите все, что захотите.
-
+	b5f4b0a1-dd7e-4cd6-8e26-3597a36c6776 = Табличка. Пишіть що завгодно.
+	ТУДУ:
 	////3246. ORIGINAL: Hunk at work, maybe?
 	99923b85-f0f5-4f51-be33-6286b53492f2 = Часть работы, может быть?
 
@@ -9834,7 +9834,7 @@
 	b536fa5a-62f2-4045-a899-49e4385194ea = Кріль майже не має смаку, саме через це...
 
 	////3275. ORIGINAL: We're gonna back it up with bacon.
-	1f87e2b8-7a7e-4f76-8567-97673ce9acc8 = в суп ми дамо трохи бекону. 
+	1f87e2b8-7a7e-4f76-8567-97673ce9acc8 = в суп ми дамо трохи бекону.
 
 	////3276. ORIGINAL: Everyone likes bacon, huh?
 	0187b55e-5f3b-46bd-8bd0-6fef8184a22f = Всі ж полюбляють бекон?
@@ -10113,7 +10113,7 @@
 	3b595ea3-ed30-4eda-affc-5c3c91d6f24a = Ну, звичайно, Туксі!
 
 	////3368. ORIGINAL: For $49.99 who'd resist? Call now!
-	ade87393-e60f-4677-a43a-8ed67a311547 = Хто встоїть від нього, всього за ?49.99. Телефонуйте прямо зараз! 
+	ade87393-e60f-4677-a43a-8ed67a311547 = Хто встоїть від нього, всього за ?49.99. Телефонуйте прямо зараз!
 
 	////3369. ORIGINAL: You're back with the Cook Show!
 	d6b66326-3d9f-4b04-89f5-dcbaf6a1c733 = И Вы вновь на нашем 'Кулинарном Шоу'.
@@ -10593,7 +10593,7 @@
 	0fdb4770-75f6-4f75-ba50-f1020b3acf40 = Что это за чудо машина, Диана?
 
 	////3528. ORIGINAL: Why it's the Harakka all-purpose slow-broiler, from Scandinavia!
-	4e3d4f81-29aa-4e1e-9965-df044395234f = Так це ж 'Harakka', мультиварка повільного приготування з Скандинавії. 
+	4e3d4f81-29aa-4e1e-9965-df044395234f = Так це ж 'Harakka', мультиварка повільного приготування з Скандинавії.
 
 	////3529. ORIGINAL: It had NO idea that Scandinavia was such an AMAZING place!
 	55cb9d4b-c878-42b7-a601-e54d9f7b4d9b = Я навіть і не думав, що Скандинавія - таке гарне місце!
@@ -10788,7 +10788,7 @@
 	3a54ce0d-534f-489d-b41a-e5698f19b881 = ... о том, как развивается ситуация вокруг Кентукки.
 
 	////3593. ORIGINAL: So let's support the our boys, people.
-	daf1795b-5995-4bbe-bf76-bb1c37d16205 = 
+	daf1795b-5995-4bbe-bf76-bb1c37d16205 =
 
 	////3594. ORIGINAL: I'm Stephanie O'Donoghue. This is Hollywood Insider!
 	1b736730-f98b-4e8c-bb73-fed756cd48e9 = Мене звати Степан О'Донахью в 'Оглядач Голівуду'.
@@ -10967,7 +10967,7 @@
 	6fa52e84-bb4c-4e78-9db8-7266b3366bc8 = Прости. Мне нужно идти.
 
 	////3653. ORIGINAL: <sigh>
-	956c0a5e-2241-45a9-936d-a49ddbc71ee9 = 
+	956c0a5e-2241-45a9-936d-a49ddbc71ee9 =
 
 	////3654. ORIGINAL: Come with haste sir.
 	9b99f2f4-c6a8-42f2-91dc-2433621f60e5 = Сэр, давайте поспешим.
@@ -11807,7 +11807,7 @@
 	cf7eb6b1-7bc4-450a-8dd0-13e0c7f115bd = Друзі, ласкаво просимо в крижаний палац. Звідси ми завдамо удару у відповідь.
 
 	////3933. ORIGINAL: How can we fight a force imbued with our own power?
-	83b5a758-ab73-4534-ba33-7a3405b9d713 = Як ми можемо змагатись з силою, створеною з наших сил? 
+	83b5a758-ab73-4534-ba33-7a3405b9d713 = Як ми можемо змагатись з силою, створеною з наших сил?
 
 	////3934. ORIGINAL: I see the fool that who hurled ArchDuke OldWorld into the Chaos Abyss is among us?
 	c7604bc4-c689-4bd6-8fd2-8797fc1de922 = Я бачу, що дурень, який відправив Герцога Старого Світу в Хаос, серед нас?
@@ -11900,7 +11900,7 @@
 	8a84e7bd-c57b-4cda-ba6a-519acfd00a53 = [img=music] Розважаємось, та вчимося через гру! [img=music]
 
 	////3964. ORIGINAL: [img=music] Hug bunnies! [img=music]
-	895aafc8-953c-4e09-a4c5-6a0c06075ff5 = 
+	895aafc8-953c-4e09-a4c5-6a0c06075ff5 =
 
 	////3965. ORIGINAL: [img=music] In the sunshine every day! [img=music]
 	fea9193c-6853-4b25-9c92-c49bcb6cbec7 = [img=music] Радіємо щодня! [img=music]
@@ -12446,7 +12446,7 @@
 	e08c96f8-ccf4-4913-8f20-603f10995e29 = Це чудово! Потрібно гарно мислити та рухати фігурки.
 
 	////4146. ORIGINAL: Testing your cleverness and remembering rules!
-	962179d2-8853-4b39-b5b3-ecd4cc15f794 = Випробовувати свої можливості та пам'ятати правила! 
+	962179d2-8853-4b39-b5b3-ecd4cc15f794 = Випробовувати свої можливості та пам'ятати правила!
 
 	////4147. ORIGINAL: Don't dance on the chessboard Pancake!
 	6119c7d2-f626-4fe0-8f77-6d3af56bc8e8 = Млинчик, не танцюй на шаховій дошці!
@@ -12668,7 +12668,7 @@
 	dde00e4c-d670-4d1c-b31b-17621d8bf924 = Растения нуждаются в воде!
 
 	////4220. ORIGINAL: Hi there Spiffo! Who's your little friend?”
-	6af20bcf-ea6d-4afc-b4dc-c1144c0576f2 = 
+	6af20bcf-ea6d-4afc-b4dc-c1144c0576f2 =
 
 	////4221. ORIGINAL: Cooking?
 	e583fe8b-09b3-4a7c-b23a-0bd32a371d89 = Кулинария?
