@@ -9745,78 +9745,78 @@
 
 	////3245. ORIGINAL: A sign. Write whatever you like.
 	b5f4b0a1-dd7e-4cd6-8e26-3597a36c6776 = Табличка. Пишіть що завгодно.
-	ТУДУ:
+
 	////3246. ORIGINAL: Hunk at work, maybe?
-	99923b85-f0f5-4f51-be33-6286b53492f2 = Часть работы, может быть?
+	99923b85-f0f5-4f51-be33-6286b53492f2 = Ловець працює, можливо?
 
 	////3247. ORIGINAL: Like that ladies? Leadin' y'all straight to me!
-	9e26c82c-df8b-488f-985f-038acf75f50d = Вам это нравится, Леди? Тянитесь прямо ко мне!
+	9e26c82c-df8b-488f-985f-038acf75f50d = Леді, вам це подобається? Веде вас прямо до мене!
 
 	////3248. ORIGINAL: Tomorrow we're takin' off the training wheels.
-	ca76da05-81b3-4f8b-af61-17be8dc204db = Завтра мы заканчиваем играть и начинаем настоящую работу.
+	ca76da05-81b3-4f8b-af61-17be8dc204db = Завтра ми залишаємо іграшки.
 
 	////3249. ORIGINAL: Door frames here we come!
-	396b76b9-9cc4-45b2-b44e-477d7368ba22 = Дверные проемы, я иду к вам!
+	396b76b9-9cc4-45b2-b44e-477d7368ba22 = Одвірки зустрічайте мене!
 
 	////3250. ORIGINAL: Welcome to Exposure Survival guys.
-	d3fc88d4-5e1e-4d80-9665-59ac5e4fbf86 = Добро пожаловать на программу 'Выживание на Открытой Местности'.
+	d3fc88d4-5e1e-4d80-9665-59ac5e4fbf86 = Вітаємо вас в програмі Розкрити Виживання.
 
 	////3251. ORIGINAL: This is a show that'll teach you the basics of outdoor life.
-	1ea4d154-be9d-4ccf-ac8c-804ce251de42 = В этой программе вы научитесь выживать вне дома.
+	1ea4d154-be9d-4ccf-ac8c-804ce251de42 = Тут ви навчитесь базовим навичкам для життя на дворі.
 
 	////3252. ORIGINAL: But before we get to survival - lets nail the basics.
-	47678484-cd61-4e31-b818-fad7262e80cb = Но прежде, чем начинать выживать, надо начать с основ.
+	47678484-cd61-4e31-b818-fad7262e80cb = Але перед виживанням, давайте вивчемо основи.
 
 	////3253. ORIGINAL: Let's fish.
-	1ced94ac-bf3d-4595-807f-2f5f4170493f = Давайте отправимся на рыбалку.
+	1ced94ac-bf3d-4595-807f-2f5f4170493f = Давайте підемо на риболовлю.
 
 	////3254. ORIGINAL: Now I'm sure you've got your rod...
-	33b32f34-f359-482c-8f10-47ec8f84566e = Я уверен, что у Вас уже есть удочка...
+	33b32f34-f359-482c-8f10-47ec8f84566e = Я впевнений що з вами ваша вудка...
 
 	////3255. ORIGINAL: But then: bait.
-	13b70353-12dd-4185-9bee-21626b593d56 = Но, что насчет наживки?
+	13b70353-12dd-4185-9bee-21626b593d56 = А що на рахунок наживки?
 
 	////3256. ORIGINAL: What bait should you get?
-	e6d3084e-b437-4e29-9614-7112f23933be = Какую наживку использовать?
+	e6d3084e-b437-4e29-9614-7112f23933be = Яку наживку використовувати?
 
 	////3257. ORIGINAL: Well worms are common, right?
-	dcfe96b8-c582-474c-9384-a80f8b505342 = Ну, самая простая - это черви.
+	dcfe96b8-c582-474c-9384-a80f8b505342 = Хробаки є всюди.
 
 	////3258. ORIGINAL: So dig, and get a bunch.
-	977cb9da-ab0c-492b-babf-adcc23f4d59c = Так что, копайте и набирайте, сколько унесете.
+	977cb9da-ab0c-492b-babf-adcc23f4d59c = Тому давай викопаємо жменю
 
 	////3259. ORIGINAL: Or there's lures, or maybe smaller fish - ey?
-	8161a6b6-2819-42f6-a942-035f9e2aea74 = Также, Вы можете использовать в качестве наживки мелкую рыбёшку или мелких насекомых.
+	8161a6b6-2819-42f6-a942-035f9e2aea74 = Або ще є приманки, або рибка поменше.
 
 	////3260. ORIGINAL: Find your river, cast the line - wait a while.
-	4f5b5625-32cb-4162-9b54-c342cd37baeb = Находим реку, забрасываем удочку и ждем.
+	4f5b5625-32cb-4162-9b54-c342cd37baeb = Шукаємо річку, закидаєм вудку і чекаємо.
 
 	////3261. ORIGINAL: Job done.
-	96b96624-9826-41b3-b41a-3167cd9af168 = И всё, дело сделано.
+	96b96624-9826-41b3-b41a-3167cd9af168 = Ост і все, рибка спіймана.
 
 	////3262. ORIGINAL: Do we have an amazing product today for you!
 	8a4818a5-c75d-478f-ab01-f383f0c89a59 = Для Вас є гарна пропозиція!
 
 	////3263. ORIGINAL: This looks like any normal Kitchen Knife, am I right?
-	0ac71379-2faa-4f59-9a8e-4cf39cd55657 = Виглядає, як звичайний ніж для кУхні, так?
+	0ac71379-2faa-4f59-9a8e-4cf39cd55657 = Виглядає, як звичайний ніж для кухні, так?
 
 	////3264. ORIGINAL: Well - if you thought I was right, I was wrong.
-	67442fcf-a525-4ccd-bb34-6dd678de2bdc = Насправді він краще. Якщо у вас є діти то вони фізично не зможуть поранитись.
+	67442fcf-a525-4ccd-bb34-6dd678de2bdc = Насправді ні. Цей ніж кращий!
 
 	////3265. ORIGINAL: This is a Kitchen Knife by Kitten.
-	b698aecf-c505-4dcb-a178-600335d7b24d = Насправді це ніж для кУхні від фірми 'КІТЧЕН-KNIFE'!
+	b698aecf-c505-4dcb-a178-600335d7b24d = Це кухонний ніж від фірми 'Kitten'!
 
 	////3266. ORIGINAL: Kitten Knives are strong, sturdy and sharp.
-	a87ba511-d5d3-44ec-9028-83d959beb72e = Ці ножі більш безпечні та міцні.
+	a87ba511-d5d3-44ec-9028-83d959beb72e = Ці ножі міцніші надійніші та гостріші.
 
 	////3267. ORIGINAL: Look at this handle, I mean just look at the handle.
-	dcd30d29-2d1b-4cb7-a9e1-e7b3c385aae2 = Якщо ви щось готуєте, а поруч пробігає тарган, то яким ножем ви його заріжете?
+	dcd30d29-2d1b-4cb7-a9e1-e7b3c385aae2 = Тліьки гляньте на цю ручку! Вона прекрасна!
 
 	////3268. ORIGINAL: Chopping. Slicing. Dicing.
-	929fe83e-cbfe-48a0-bd02-e07b8ea3fdcf = Ви візьмете ніж від 'КІТЧЕН-KNIFE' бо він найкращій.
+	929fe83e-cbfe-48a0-bd02-e07b8ea3fdcf = Рубання, нарізання та подріблення.
 
 	////3269. ORIGINAL: All a joy.
-	20a5303d-1e14-4266-a5d1-51d2d19ba303 = І коштує всього нічого.
+	20a5303d-1e14-4266-a5d1-51d2d19ba303 = Все в задоволення!.
 
 	////3270. ORIGINAL: Hey! You're with the Cook Show!
 	a33fe7e9-d933-4e6b-9d6f-58479b671e8d = Привіт! Ви дивитесь кулінарне шоу 'СМАК'!
@@ -9843,10 +9843,10 @@
 	8dce6f6f-0281-4137-bcdd-c68d923dfc24 = Спочатку приготуйте м'ясо кроля, потім закиньте його в баняк з водою...
 
 	////3278. ORIGINAL: Throw in your bacon, your tomato, your onion...
-	666e502f-eef9-4df1-bd77-c34a74cd64f5 = Додайте бекон, помідорчику, лук...
+	666e502f-eef9-4df1-bd77-c34a74cd64f5 = Додайте бекон, помідорчику, цибулю...
 
 	////3279. ORIGINAL: ... your carrots, if you want.
-	bb32bf43-5e39-4fe1-8f83-a41f1e3293a0 = ...та свою моркву, якщо захочети.
+	bb32bf43-5e39-4fe1-8f83-a41f1e3293a0 = ... та моркву, якщо захочети.
 
 	////3280. ORIGINAL: Then, if you're like me, just a bit of salt for flavor.
 	1be68998-2d9c-4a1f-8d3c-5ffc9a381ee9 = Якщо Наші смаки схожі, то додайте трохи солі.
@@ -9855,89 +9855,89 @@
 	8f7ef66d-ce51-4e58-9b2c-90fd6868a0c0 = 70 хвилин на максимальній температурі вистачить.
 
 	////3282. ORIGINAL: Bam! Looks good, huh?
-	978b7301-fe57-4561-bbfc-eaee8130f154 = Розливаємо на 4 миски, але якщо сильно голодні то на 2.
+	978b7301-fe57-4561-bbfc-eaee8130f154 = Класно. А пахне як... смакота.
 
 	////3283. ORIGINAL: Split into four bowls, or two if you're hungry.
-	e31cd106-bdfd-4528-8f90-32b6483db250 = Класно. А пахне як... вкусно.
+	e31cd106-bdfd-4528-8f90-32b6483db250 = Розливаємо на 4 миски, але якщо сильно голодні то на 2.
 
 	////3284. ORIGINAL: See y'all tomorrow.
 	80365889-9ba0-4056-8cb4-fa76f41d3b92 = Все, до нових зустрічей.
 
 	////3285. ORIGINAL: Intermediate carpentry! Yeehah!
-	7d4527c5-3fa0-4bb9-8551-3af3c01a190a = Строительство для продвинутых! Ура!
+	7d4527c5-3fa0-4bb9-8551-3af3c01a190a = Будівнитство для просунутих! Ура!
 
 	////3286. ORIGINAL: Sick of seein' your fella's face ladies?
-	f39b90b5-3046-47bd-a98e-2f77f08d6e06 = Вам надоело постоянно видеть кислые лица соседей?
+	f39b90b5-3046-47bd-a98e-2f77f08d6e06 = Втомились бачити лиця сусідів?
 
 	////3287. ORIGINAL: You need a wall in there: a big one.
-	c6179b8f-0c9e-43fc-9fe5-ece0cc6442ec = Ну так постройте стену. Большую.
+	c6179b8f-0c9e-43fc-9fe5-ece0cc6442ec = Тоді вам потрібна велика стіна.
 
 	////3288. ORIGINAL: Three nails, three planks... take that hammer and...
-	7e755ce2-145c-411c-8d8c-4c3022454141 = Три гвоздя, три доски... взяли молоток в руки и...
+	7e755ce2-145c-411c-8d8c-4c3022454141 = Три цвяхи, три планки... молоток в руки і...
 
 	////3289. ORIGINAL: That there's a piece of wall.
-	69360d15-e3aa-4b61-8fe0-ff7c79bd271e = Вот и стена.
+	69360d15-e3aa-4b61-8fe0-ff7c79bd271e = Стіна готова.
 
 	////3290. ORIGINAL: Neat huh?
-	1b3090b7-2c5f-488a-bcb8-4ee536f59520 = Прикольно, да?
+	1b3090b7-2c5f-488a-bcb8-4ee536f59520 = Класно, правда?
 
 	////3291. ORIGINAL: Now doors and windows? That's the end game!
-	8c37a3d8-bcdc-4194-843c-2d7421ce765d = Теперь переходим к дверям и окнам. Ведь без них никуда.
+	8c37a3d8-bcdc-4194-843c-2d7421ce765d = Тепер перейдемо до дверей і вікон..
 
 	////3292. ORIGINAL: There's one thing you can do for them right now mind...
-	335f9116-b23e-4c3b-862d-88ebb14a667b = Самое главное что нам понадобится...
+	335f9116-b23e-4c3b-862d-88ebb14a667b = Головне що нам потрібно зараз...
 
 	////3293. ORIGINAL: And that's find 'em a place to hang.
-	c6acc4d4-3b99-47b9-890c-93fa920aa0f8 = Это найти для них место.
+	c6acc4d4-3b99-47b9-890c-93fa920aa0f8 = це знайти для них місце.
 
 	////3294. ORIGINAL: Window frames, door frames... all the same to me.
-	89f9ee40-99fb-466e-8cb0-81169bf0f161 = Оконные проемы, дверные... без разницы...
+	89f9ee40-99fb-466e-8cb0-81169bf0f161 = Віконні рами, одвірки... Немає різниці..
 
 	////3295. ORIGINAL: Four planks and nails! Let's go!
-	552b3b91-dbb7-4ec9-ad6d-9b87ef272a82 = Четыре доски и гвоздя. Поехали!
+	552b3b91-dbb7-4ec9-ad6d-9b87ef272a82 = Чотири дошки і цвяхи! До роботи!
 
 	////3296. ORIGINAL: There you go ladies!
-	93c8a004-5612-443c-ac66-be1be4a309fa = Ну вот, девочки, у Вас получилось!
+	93c8a004-5612-443c-ac66-be1be4a309fa = Ну ось, в нас получилось!
 
 	////3297. ORIGINAL: Most fun I had recently with ma shirt on!
-	7d09882f-c3c7-4c91-8679-26b8ff456db8 = Эх, давно так не веселился с майкой поверх тела!
+	7d09882f-c3c7-4c91-8679-26b8ff456db8 = Найбільше радості за довгий час, І рохдягатись не треба було!
 
 	////3298. ORIGINAL: Next time - intermediary part 2!
-	fd350e46-62ba-4e34-9f83-4a9e7292b509 = В следующей программе продолжим продвинутое строительство.
+	fd350e46-62ba-4e34-9f83-4a9e7292b509 = В наступні програмі - будівництво для просунутих 2!
 
 	////3299. ORIGINAL: We find somewhere you can rest that sweet be-hind!
-	8eb056c0-e42d-4df2-a28c-3a0432b258ec = Устраивайтесь поудобнее!
+	8eb056c0-e42d-4df2-a28c-3a0432b258ec = Ми знайшли дещо що допоможе відпочити!
 
 	////3300. ORIGINAL: Chairs! Don't miss it!
-	54467c55-8b17-4861-9560-6fa3b6802f7d = Не проходите мимо, усаживайтесь на самодельные стулья!
+	54467c55-8b17-4861-9560-6fa3b6802f7d = Крісла! Не пропустіть!
 
 	////3301. ORIGINAL: I'm Dean and we're goin' back to nature.
-	aca869a0-bb3e-4895-be1e-c075720a85d0 = Меня зовут Дин, и я вновь отправляюсь на природу.
+	aca869a0-bb3e-4895-be1e-c075720a85d0 = Я Дін і ми повертаємось до природи.
 
 	////3302. ORIGINAL: So you're a million miles from civilization, right?
-	e7a81556-30c1-4212-8d2e-8507d693ead1 = Итак, мы оказались у чёрта на куличиках.
+	e7a81556-30c1-4212-8d2e-8507d693ead1 = Отож, ви за мільйони кілометрів від цивілізації.
 
 	////3303. ORIGINAL: You've got a camp.
-	56d27802-e9ac-4fa1-861a-55d091dc08c3 = У нас есть лагерь.
+	56d27802-e9ac-4fa1-861a-55d091dc08c3 = У вас є табір.
 
 	////3304. ORIGINAL: You've got a water supply.
-	0b5ac31b-32d9-4be3-9c69-29e900107f4d = Запасы воды.
+	0b5ac31b-32d9-4be3-9c69-29e900107f4d = Запас води.
 
 	////3305. ORIGINAL: But you're in for the long haul.
-	8ebdc86d-7ae5-4036-81b6-1b48ea023ae5 = Но Вы ведь собираетесь выживать как можно дольше?
+	8ebdc86d-7ae5-4036-81b6-1b48ea023ae5 = Але ви тут на довго.
 
 	////3306. ORIGINAL: Let's Robinson Crusoe! Right?
-	47f643b5-3423-4bde-b50e-762ab4b96069 = Давайте представим, что Вы - Робинзон Крузо.
+	47f643b5-3423-4bde-b50e-762ab4b96069 = Давайте прикинемось Робінзоном Крузо!
 
 	////3307. ORIGINAL: Time to farm.
-	3e67beca-7ec8-43d8-817f-7e6246305821 = Пора заняться сельским хозяйством.
+	3e67beca-7ec8-43d8-817f-7e6246305821 = Чай зайнятись фермою.
 
 	////3308. ORIGINAL: You won't get anywhere without seeds - so find 'em.
-	030ea125-3258-4226-9766-1d36dac0ecd2 = Но без семян ничего не получится, так что найдите их.
+	030ea125-3258-4226-9766-1d36dac0ecd2 = Але без насіння нічого не получиться, тому знайдіть його.
 
 	////3309. ORIGINAL: Take a trowel.
-	d5a7a459-120c-46d2-915a-84ba1453d013 = Возьмите садовый совок. Или лопату... боже, управитесь даже голыми руками.
-
+	d5a7a459-120c-46d2-915a-84ba1453d013 = Візьміть кельму.
+	ТУДУ:
 	////3310. ORIGINAL: Dig some earth.
 	04b62f42-6c22-4dfb-88e2-e7051614cb69 = Вскопайте землю.
 
