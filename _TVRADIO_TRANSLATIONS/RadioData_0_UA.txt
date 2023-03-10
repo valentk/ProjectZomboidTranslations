@@ -9759,7 +9759,7 @@
 	396b76b9-9cc4-45b2-b44e-477d7368ba22 = Одвірки зустрічайте мене!
 
 	////3250. ORIGINAL: Welcome to Exposure Survival guys.
-	d3fc88d4-5e1e-4d80-9665-59ac5e4fbf86 = Вітаємо вас в програмі Розкрити Виживання.
+	d3fc88d4-5e1e-4d80-9665-59ac5e4fbf86 = Вітаємо вас в програмі 'Мистецтво виживання'.
 
 	////3251. ORIGINAL: This is a show that'll teach you the basics of outdoor life.
 	1ea4d154-be9d-4ccf-ac8c-804ce251de42 = Тут ви навчитесь базовим навичкам для життя на дворі.
@@ -9903,7 +9903,7 @@
 	7d09882f-c3c7-4c91-8679-26b8ff456db8 = Найбільше радості за довгий час, І рохдягатись не треба було!
 
 	////3298. ORIGINAL: Next time - intermediary part 2!
-	fd350e46-62ba-4e34-9f83-4a9e7292b509 = В наступні програмі - будівництво для просунутих 2!
+	fd350e46-62ba-4e34-9f83-4a9e7292b509 = В наступні програмі - будівництво рівень посередній!
 
 	////3299. ORIGINAL: We find somewhere you can rest that sweet be-hind!
 	8eb056c0-e42d-4df2-a28c-3a0432b258ec = Ми знайшли дещо що допоможе відпочити!
@@ -9939,157 +9939,157 @@
 	d5a7a459-120c-46d2-915a-84ba1453d013 = Візьміть кельму.
 	ТУДУ:
 	////3310. ORIGINAL: Dig some earth.
-	04b62f42-6c22-4dfb-88e2-e7051614cb69 = Вскопайте землю.
+	04b62f42-6c22-4dfb-88e2-e7051614cb69 = Викопайте ямку.
 
 	////3311. ORIGINAL: Then sow seeds, and then... water 'em.
-	fb843536-c351-4c16-9636-cd7c7182d9fd = Посадите семяна... и полейте их.
+	fb843536-c351-4c16-9636-cd7c7182d9fd = Посадіть насіння... підлийте їх
 
 	////3312. ORIGINAL: Keep 'em watered, don't trample 'em...
-	c7e0a365-1610-477d-865d-1268d0588a22 = Постоянно поливайте, старайтесь не затоптать свои новоявленные грядки...
+	c7e0a365-1610-477d-865d-1268d0588a22 = Дивіться що не засохло, не топчіться по глядках...
 
 	////3313. ORIGINAL: ...and watch the sky.
-	a71c6b8f-9db6-46c9-8411-c2f6a2098e13 = ...и наслаждайтесь небесами.
+	a71c6b8f-9db6-46c9-8411-c2f6a2098e13 = ... насолоджуйтесь небом.
 
 	////3314. ORIGINAL: You're at the mercy of the elements here.
-	40f82a39-1039-458d-b95c-690497e00f5e = Природа всё сделает за Вас, а может и нет.
+	40f82a39-1039-458d-b95c-690497e00f5e = Природа зробить все інше сама.
 
 	////3315. ORIGINAL: Who doesn't like a carrot, ey?
-	6ccff037-d9e8-4267-a36c-4b2c4470ed3d = Кто не любит морковку, а??
+	6ccff037-d9e8-4267-a36c-4b2c4470ed3d = А хто не любить моркву?
 
 	////3316. ORIGINAL: I'm Doctor Cox, and I'm here to talk to YOU about bladder control.
-	7dbf5632-2364-4d52-a068-699e196fd66f = Я Зірко Василь і я тут для того щоб, вирішити ваші проблеми з нетриманням сечового міхура.
+	7dbf5632-2364-4d52-a068-699e196fd66f = Я Лікар Кокс, і я поговорю з ВАМИ про контроль сечового міхура .
 
 	////3317. ORIGINAL: Now I've been helping families for forty long years, but I have NEVER...
-	80d55ec6-8a00-40d7-bb24-fcc4dfecfbc2 = Цей засіб допомагає людям вже десяток років.
+	80d55ec6-8a00-40d7-bb24-fcc4dfecfbc2 = Я допомагав сім'ям вже 40 з лишнім років. але НІКОЛИ...
 
 	////3318. ORIGINAL: ... come across a treatment like Incontileve.
-	e3e517dd-45b7-427a-927a-7177148489ec = Захотіли прикольнутись над сусідом? ... Просто закиньте одну пігулку в туалетний бачок.
+	e3e517dd-45b7-427a-927a-7177148489ec =  ... не стикався з лікуванням як в 'Incontileve'.
 
 	////3319. ORIGINAL: Everywhere I go, good friends say 'Thank you Doctor Cox'
-	effacd4e-16a1-4fd3-a0d4-c7bb7d26ea11 = Кому б ви не порадили всі будуть вдячні.
+	effacd4e-16a1-4fd3-a0d4-c7bb7d26ea11 = Кому б ви не порадили всі мені дякують.
 
 	////3320. ORIGINAL: Thanks for asking family doctors to recommend:
-	fa20ce59-7949-4d1a-8afa-e2e58e77d70a = Тому не буду тягнути. Якщо ви користуючись туалетом розумієте, що робите це занадто довго.
+	fa20ce59-7949-4d1a-8afa-e2e58e77d70a = Дякую що просите сімейного лікаря рекомендувати:
 
 	////3321. ORIGINAL: Incontileve.
-	f065b2ee-813d-4323-903f-59b4a7d42f97 = Тоді вам потрібен 'Secho-zagustin'. Сидите й думаєте треба брати?
+	f065b2ee-813d-4323-903f-59b4a7d42f97 = 'Incontileve'.
 
 	////3322. ORIGINAL: Product may cause swelling of the urinary tract....
-	5b8cef90-2cfe-4138-9a03-4d5f2e0cbf52 = Телефонуйте за номером на екрані.
+	5b8cef90-2cfe-4138-9a03-4d5f2e0cbf52 = Продук може призвезти до набряку сечового шляху...
 
 	////3323. ORIGINAL: ...headaches, nausea and sudden irritation.
-	a8665b42-1528-4e6a-b717-04d71f809655 = Заважають таргани? Просто по сипте всі щілинки порошком зробленим з пігулок і вони...
+	a8665b42-1528-4e6a-b717-04d71f809655 = ... головних болів, нудоти та раптового роздратування ...
 
 	////3324. ORIGINAL: Ask your doctor today.
-	281289a5-de51-4005-9cd6-c279c762cc34 = Зацікавились? Телефонуйте прямо зараз за номером на екрані. Кількість обмежена.
+	281289a5-de51-4005-9cd6-c279c762cc34 = Питайтесь у Лікаря, сьогодні.
 
 	////3325. ORIGINAL: Now, I stood on the scales the other day. .
-	fc89eb09-6ed8-4d34-a175-19b234f583fc = Так вот, я встала на днях на весы.
+	fc89eb09-6ed8-4d34-a175-19b234f583fc = Одного дня я встала на ваги.
 
 	////3326. ORIGINAL: I got a shock people!
-	99f46cc4-9931-4216-a556-876151731454 = Я испытала шок!
+	99f46cc4-9931-4216-a556-876151731454 = І я була шокована!
 
 	////3327. ORIGINAL: Got me to thinking about a show that celebrates the healthy life?
-	08435f67-733d-4971-a8c2-c7aaa88aa658 = Я поняла, что пора задуматься о празднике здорового образа жизни.
+	08435f67-733d-4971-a8c2-c7aaa88aa658 = Я думала про шоу що звеличує здорове життя.
 
 	////3328. ORIGINAL: So here it is - the Salad Special.
-	78945f53-354c-4ae2-a6a5-e67160bf6c79 = Так вот он - Салат Особенный.
+	78945f53-354c-4ae2-a6a5-e67160bf6c79 = Так ось. Салат Особливий.
 
 	////3329. ORIGINAL: Just cause there's leaves, don't mean you'll heave.
-	7e4fbfd1-b736-4971-865b-9950e0db132c = Просто попробуйте, не думать, что вас будет пучить...
+	7e4fbfd1-b736-4971-865b-9950e0db132c = Просто тому що там листя не означає шо вам буде зле.
 
 	////3330. ORIGINAL: Take a bowl - and as a base throw in some lettuce.
-	97f3d925-0d4c-48f0-b2f4-0e95f4909601 = Берем миску и в качестве основы используем салат-латук.
+	97f3d925-0d4c-48f0-b2f4-0e95f4909601 = За основу візьмемо листя салату, кидаємо в миску.
 
 	////3331. ORIGINAL: Then we add cheese, ham - and we're almost at Bam!
-	56536c44-e816-4d22-bbc7-8fe3a89475e0 = Далее добавляем сыр, ветчину.
+	56536c44-e816-4d22-bbc7-8fe3a89475e0 = Далі ми візьмимо твердий сир, шинку. Майже готово.
 
 	////3332. ORIGINAL: Let's add in some mayo...
-	4eccab23-cf25-44b6-8845-214ddd435a87 = Чуточку майонеза...
+	4eccab23-cf25-44b6-8845-214ddd435a87 = Трішечки майонезу...
 
 	////3333. ORIGINAL: Maybe a bit more mayo...
-	d55314ef-6475-497c-9f3c-fddf28c431df = Хотя майонеза много не бывает...
+	d55314ef-6475-497c-9f3c-fddf28c431df = Хоча майонезу багато не буває...
 
 	////3334. ORIGINAL: Bam!
-	13e9fac4-189c-494e-9d94-de6bdd692c0e = Да-так!
+	13e9fac4-189c-494e-9d94-de6bdd692c0e = Бам!
 
 	////3335. ORIGINAL: Light and delicious!
-	e1275fb7-1124-4c78-ab93-aa34bc70778e = Легкий и вкусный!
+	e1275fb7-1124-4c78-ab93-aa34bc70778e = Легко і смачно!
 
 	////3336. ORIGINAL: Just don't leave it too long huh?
-	86536db4-09dd-4971-b423-3c382f9c9909 = Приятного аппетита!
+	86536db4-09dd-4971-b423-3c382f9c9909 = Просто не давайте застоятись!
 
 	////3337. ORIGINAL: Can't wait to hand this out to the team here!
-	ed67dc7a-5b21-4d6f-aea9-5c211fe3db1a = А я пойду, накормлю съёмочную группу.
+	ed67dc7a-5b21-4d6f-aea9-5c211fe3db1a = Не можу дочекатись щоб команда спробувала.
 
 	////3338. ORIGINAL: We're at intermediary level still and...
-	2485b2e7-e0c6-4e47-9f5c-e1d542df2ce6 = Мы всё ещё на уровне любителей и поэтому...
+	2485b2e7-e0c6-4e47-9f5c-e1d542df2ce6 = Ми все ще на посередньому рівні...
 
 	////3339. ORIGINAL: ... sorry ladies but the shirt is STILL on.
-	092c918c-09ce-4b61-b8bb-50a5a3ca6bda = ... простите, девчонки, но моя майка ВСЁ ЕЩЁ остаётся на мне.
+	092c918c-09ce-4b61-b8bb-50a5a3ca6bda = ... Пробачте дівчатка, але моя сорочка все ще на мені
 
 	////3340. ORIGINAL: Hey, daytime TV y'all. Not my call.
-	eee34a0a-aae7-4d86-b291-be57da8d33d0 = Дневной эфир. Не моё решение.
+	eee34a0a-aae7-4d86-b291-be57da8d33d0 = Привіт денне телебачення. Проте це не моє.
 
 	////3341. ORIGINAL: Wore these pants nice and tight though. Huh?
-	aff6f93b-c6f0-46bf-9307-074baa74871c = Но я надел брюки специально узкими на сегодня. Хм?
+	aff6f93b-c6f0-46bf-9307-074baa74871c = Але я надів обтягаючі штани. як вам?
 
 	////3342. ORIGINAL: Hey! Pay attention! Today: it's chairs!
-	f5aa61a4-98a5-41f7-9534-888179e2443b = Эй! Мои глаза выше! Сегодня мы займёмся стульями!
+	f5aa61a4-98a5-41f7-9534-888179e2443b = Ей! Уважніше! Сьогодні - крісла!
 
 	////3343. ORIGINAL: What do we need?
-	c05dbebd-9cdd-45fa-accb-46fba79f8f24 = Что же нам понадобится?
+	c05dbebd-9cdd-45fa-accb-46fba79f8f24 = то що нам потрібно?
 
 	////3344. ORIGINAL: Five planks! Four nails! Yeehah!
-	04658bc8-0750-4ada-9fd5-bd8570f5aca0 = Пять досок! Четыре гвоздя! Йи-и-хаа!
+	04658bc8-0750-4ada-9fd5-bd8570f5aca0 = П'ять планок! Чотири цвяхи! Ї-ї-ха!
 
 	////3345. ORIGINAL: Ladies! Can you be-hi-lieve it?
-	0dc9767e-75eb-43aa-8b31-e1542f8281e3 = Девчата! Вы не поверите.
+	0dc9767e-75eb-43aa-8b31-e1542f8281e3 = Двчатка, можете в це повірити?
 
 	////3346. ORIGINAL: Now hows about some shelves?
-	1125fee2-3248-48d7-9ee6-78291961e7db = Теперь займёмся полками.
+	1125fee2-3248-48d7-9ee6-78291961e7db = Тепер поговоримо про полички.
 
 	////3347. ORIGINAL: Someplace for your jewelleries, your precious stuff?
-	9d5cd69e-419b-48fa-a3ae-4ef6532e5a04 = Где вы сможете хранить свои драгоценности и другие побрякушки.
+	9d5cd69e-419b-48fa-a3ae-4ef6532e5a04 = Це там де ви тримаєте коштовності і ішні важливі речі.
 
 	////3348. ORIGINAL: TWO PLANKS! FOUR NAILS! GO!
-	99a0d48a-9801-4767-a473-4ea84aa19281 = ДВЕ ДОСКИ! ЧЕТЫРЕ ГВОЗДЯ! БЫСТРО!
+	99a0d48a-9801-4767-a473-4ea84aa19281 = ДВІ ПЛАНКИ! ЧОТИРИ ЦВЯХИ! ШВИДКО!
 
 	////3349. ORIGINAL: Just gotta...
-	02b74df5-8d7a-4c55-92c0-4600764079f3 = ПОБЕЖАЛИ ЗАБИВАТЬ!
+	02b74df5-8d7a-4c55-92c0-4600764079f3 = Просто треба...
 
 	////3350. ORIGINAL: *bang*
-	2b551b1e-98f6-46f6-8f23-a048a4e62e25 = *тук-тук*
+	2b551b1e-98f6-46f6-8f23-a048a4e62e25 = *стук-стук*
 
 	////3351. ORIGINAL: That's it.
-	dc272301-3518-4431-86fe-5d203e627b26 = Ну вот и готово.
+	dc272301-3518-4431-86fe-5d203e627b26 = І це все.
 
 	////3352. ORIGINAL: Oh hey, sick of folk seeing you sunbathin'?
-	d52fc6d7-e763-4ec2-8e9e-fd45d1e9742b = Вам надоело, что соседи подглядывают за тем, как Вы загораете?
+	d52fc6d7-e763-4ec2-8e9e-fd45d1e9742b = Набридло що сусіди підглядають як ви загораєте?
 
 	////3353. ORIGINAL: I was. Get it all the time.
-	e3303d6e-fb75-45a2-a9ab-58cba3908982 = Лично мне да.
+	e3303d6e-fb75-45a2-a9ab-58cba3908982 = Мені, особисто, так.
 
 	////3354. ORIGINAL: So I built me a fence.
-	ec1e5e78-08a5-4e94-b90f-05ae71217fd4 = И я тогда построил забор.
+	ec1e5e78-08a5-4e94-b90f-05ae71217fd4 = Тому я побудував паркан.
 
 	////3355. ORIGINAL: I was all: two planks, three nails, bang, bang.
-	889b6171-8199-4cfe-b01e-65e82d78e429 = Я взял три гвоздя, две доски и начал стучать.
+	889b6171-8199-4cfe-b01e-65e82d78e429 = Я взяв дві планки, три цвяхи, стук-стук.
 
 	////3356. ORIGINAL: And here she is!
-	5199193d-34cd-4d8d-aa82-9ca0bafab450 = И вот он готов.
+	5199193d-34cd-4d8d-aa82-9ca0bafab450 = І ось овно готове.
 
 	////3357. ORIGINAL: So if you'll excuse me, I'll just...
-	1e08f4fb-668d-4718-85e4-3641ddcace7b = А теперь извините...
+	1e08f4fb-668d-4718-85e4-3641ddcace7b = А зараз прошу вибачення, я просто...
 
 	////3358. ORIGINAL: Get comfy with my shirt off...
-	2bae7e91-3251-4028-accd-f17eeda48982 = Устроюсь ка я поудобнее, майку в сторону...
+	2bae7e91-3251-4028-accd-f17eeda48982 = вмощуся без сорочки...
 
 	////3359. ORIGINAL: Next time on Woodcraft? Doors!
-	2537f8f1-4442-4bc7-9e0f-ffca93347f4f = Что будет в следующей программе 'Краснодеревщик'? Двери!
+	2537f8f1-4442-4bc7-9e0f-ffca93347f4f = Наступного разу в програмі Будівництво: Двері!
 
 	////3360. ORIGINAL: Can I hear a yee-hah?
-	fbc35c77-7a87-4917-befe-3141bfec8a0a = Давайте крикнем: 'Йи-и-ха'!
+	fbc35c77-7a87-4917-befe-3141bfec8a0a = Давайте почнемо: 'Ї-ї-ха'!
 
 	////3361. ORIGINAL: Now I'd like you to meet my good friend Tooks Bear.
 	5b256688-3ca3-4cb6-aa83-142fe98b55cc = А зараз я познайомлю Вас з моїм другом, ведмедиком Туксі.
@@ -10101,10 +10101,10 @@
 	4009cbdb-f9db-4741-9258-de17df18b90e = Знаєте чому він вам сподобається?
 
 	////3364. ORIGINAL: He's only $49.99 plus postage and packing.
-	361268c6-0b75-4d1c-be51-020f7808e2b4 = Бо його ціна всього ?49.99 з доставкою.
+	361268c6-0b75-4d1c-be51-020f7808e2b4 = Бо його ціна всього $49.99 з доставкою.
 
 	////3365. ORIGINAL: All I have to do is press this little button on his paw and...
-	fb798ae7-afae-43f2-9e14-a85f50c465c0 = Я натискаю йому на лапку й...
+	fb798ae7-afae-43f2-9e14-a85f50c465c0 = Я натискаю йому на лапку і...
 
 	////3366. ORIGINAL: I'm Tooks Bear! Let's go on an adventure!
 	c1e3f233-80a0-4254-83b3-cde19a4e0cfe = Я ведмедик Туксі! Гайда шукати пригоди!
@@ -10113,142 +10113,142 @@
 	3b595ea3-ed30-4eda-affc-5c3c91d6f24a = Ну, звичайно, Туксі!
 
 	////3368. ORIGINAL: For $49.99 who'd resist? Call now!
-	ade87393-e60f-4677-a43a-8ed67a311547 = Хто встоїть від нього, всього за ?49.99. Телефонуйте прямо зараз!
+	ade87393-e60f-4677-a43a-8ed67a311547 = Хто встоїть від нього, всього за $49.99. Телефонуйте прямо зараз!
 
 	////3369. ORIGINAL: You're back with the Cook Show!
-	d6b66326-3d9f-4b04-89f5-dcbaf6a1c733 = И Вы вновь на нашем 'Кулинарном Шоу'.
+	d6b66326-3d9f-4b04-89f5-dcbaf6a1c733 = І знову з вами кулінарне шоу 'СМАК'.
 
 	////3370. ORIGINAL: Today, we're gettin' a taste of Asia - with a frying pan.
-	6b9bdb5c-7a64-4010-88f9-28ac8f39a8cc = Сегодня мы испробуем Азиатскую кухню. Приготовьте свою сковороду.
+	6b9bdb5c-7a64-4010-88f9-28ac8f39a8cc = Сьогодні ми відчуємо смак Азії - з допомогою сковорідки.
 
 	////3371. ORIGINAL: Now, minding you don't cut yourself with this...
-	2eafacda-b10d-4b76-98cb-df605ee56082 = Теперь будьте осторожны, не порежьтесь...
+	2eafacda-b10d-4b76-98cb-df605ee56082 = Будьте обережні, не поріжтесь з цим...
 
 	////3372. ORIGINAL: Super sharp Kitten Knife.
-	1c659b39-eae9-4ad8-8d6f-8751d7b6fb57 = ...этим супер-острым, Элитным КухОнным Ножом..
+	1c659b39-eae9-4ad8-8d6f-8751d7b6fb57 = Супер гострим Ножем від 'Kitten`.
 
 	////3373. ORIGINAL: Cut your pork to pieces and throw it into fry.
-	f39c4529-1e48-4153-86d7-acada2c63689 = Порежьте ветчину на ломтики и начните жарить.
+	f39c4529-1e48-4153-86d7-acada2c63689 = Наріжте свинину кусочками і киньте на сковорідку.
 
 	////3374. ORIGINAL: Then add in some fresh vegetables.
-	16c25fd1-7728-4f1e-a2cf-041e01ae97ad = Затем добавьте свежих овощей.
+	16c25fd1-7728-4f1e-a2cf-041e01ae97ad = Потід додайте свіжих овочів.
 
 	////3375. ORIGINAL: I'm using onion to start, then Bell Pepper and Eggplant.
-	6d1fea56-0cf5-4394-8543-12a5e23c5d17 = Обычно я начинаю с Лука, затем Сладкий Перец и Баклажан.
+	6d1fea56-0cf5-4394-8543-12a5e23c5d17 = Я використовую цибулю, солодкий перець і баклажан.
 
 	////3376. ORIGINAL: If you're hungry then try it out with some noodles.
-	0098df83-551b-4c76-a1e5-845646fcfdcb = Если Вы уже проголодались, добавьте Лапшу.
+	0098df83-551b-4c76-a1e5-845646fcfdcb = Якщо ви дуже голодні, то додайте лапшу.
 
 	////3377. ORIGINAL: See? Cooking can be fun and easy.
-	b8dd565e-5918-4d83-b087-f0f54df9ac99 = Видите, готовка весьма увлекательна.
+	b8dd565e-5918-4d83-b087-f0f54df9ac99 = Бачите? Кулінарія може бути веселою і простою.
 
 	////3378. ORIGINAL: And it's always healthy.
-	844cc720-8fd6-4e1c-9b57-5969a3e14b02 = И еда получается более питательной.
+	844cc720-8fd6-4e1c-9b57-5969a3e14b02 = І це завжди здорово.
 
 	////3379. ORIGINAL: Puts a smile on your face and...
-	0c708785-44c8-4d78-b573-d899a134c412 = У Вас поднимается настроение и...
+	0c708785-44c8-4d78-b573-d899a134c412 = Підніме ваш настрій...
 
 	////3380. ORIGINAL: A spring in your step too!
-	5513ee36-c70b-4ce8-b61c-d2d9c5b6bddb = ...и Вы становитесь счастливее!
+	5513ee36-c70b-4ce8-b61c-d2d9c5b6bddb = ...і додасть радості.
 
 	////3381. ORIGINAL: Now you have a great day!
-	c43d17b7-a0d1-4d43-bf58-0a5498612f42 = У Вас определенно будет замечательный день, после такой еды!
+	c43d17b7-a0d1-4d43-bf58-0a5498612f42 = Гарного вам дня!
 
 	////3382. ORIGINAL: Well hey! Y'all just caught me working out!
-	a79671d6-18b7-43cf-8336-bcb536ef8b14 = Эй! Вы меня застали за тренировкой!
+	a79671d6-18b7-43cf-8336-bcb536ef8b14 = Ей! Не підглядайте за моїми тренуваннями!
 
 	////3383. ORIGINAL: Got a real sweat going on here!
-	81d34fa9-da8a-4f76-9504-6e37a7031f3a = Я тут весь вспотел.
+	81d34fa9-da8a-4f76-9504-6e37a7031f3a = Я тут аж зіпрів!
 
 	////3384. ORIGINAL: Next time I'll shut the door...
-	77198ade-b8ba-4402-8c08-d7470ec02c83 = В следующий раз я прикрою дверь...
+	77198ade-b8ba-4402-8c08-d7470ec02c83 = Наступного разу прикрию двері...
 
 	////3385. ORIGINAL: But hey! There's no door!
-	b11ab71f-fae1-4431-9bec-aca3a845e6de = Эй, так у меня же нет двери!
+	b11ab71f-fae1-4431-9bec-aca3a845e6de = Але ж тут немає дверей!
 
 	////3386. ORIGINAL: Guess this happened to just the right guy!
-	63a8324f-70ab-441b-bec5-5c6bcd77f953 = И, кажется, это удачное стечение обстоятельств.
+	63a8324f-70ab-441b-bec5-5c6bcd77f953 = І здається це чудова нагода.
 
 	////3387. ORIGINAL: You know the drill!
-	3a5ce5d4-5c27-4284-ad1c-b1735bde470a = Вы знаете процедуру!
+	3a5ce5d4-5c27-4284-ad1c-b1735bde470a = Ви знаєте що робити!
 
 	////3388. ORIGINAL: Four planks! Four nails! One knob! One hinge!
-	dbaceec5-1ead-424d-809b-61a681de22c8 = Четыре гвоздя! Четыре доски! Одна ручка! Две петли!
+	dbaceec5-1ead-424d-809b-61a681de22c8 = Чотири плвнки! Чотири цвяхи! Одна ручка! дві петлі!
 
 	////3389. ORIGINAL: BANG! BANG!
-	65223764-0362-47b7-a14f-e6ed7b9e7cf4 = ТУК! ТУК!
+	65223764-0362-47b7-a14f-e6ed7b9e7cf4 = СТУК! СТУК!
 
 	////3390. ORIGINAL: Now I don't read books, but some folk do.
-	e52b4b27-a591-459b-9eb9-10b154f77e0c = Я не любитель читать книги, но некоторые любят.
+	e52b4b27-a591-459b-9eb9-10b154f77e0c = Я не люблю читати книжки, але дехто - любить.
 
 	////3391. ORIGINAL: Books need cases, so next up: a bookcase.
-	d1ed5fe1-bdfe-4da1-90de-5029931e1c60 = Для книг нужны полки, тогда давайте и сделаем книжную полку.
+	d1ed5fe1-bdfe-4da1-90de-5029931e1c60 = А для книг потрібна книжкова шафа.
 
 	////3392. ORIGINAL: Something that'd look mighty fine next to the bed of a lady.
-	d3cbcede-e847-453b-ae04-beeaadf6c833 = Что-ниубдь такое эстетичное, что будет неплохо смотреться даже возле кровати девушки.
+	d3cbcede-e847-453b-ae04-beeaadf6c833 = Щось що буде гарно виглядати навіть біля ліжка дівчинки.
 
 	////3393. ORIGINAL: A clever readin' lady, with three planks and four nails.
-	b603ccd1-dc28-4789-8a98-541feb8f9716 = Очень умной девушки, которая сделает её из трёх досок и четырёх гвоздей.
+	b603ccd1-dc28-4789-8a98-541feb8f9716 = Розумної, читаючої, дівчники. Тому три планки, чотири цвяхи
 
 	////3394. ORIGINAL: Now that's my best yet!
-	604aefc7-1277-4521-a86f-f7c44a434ca2 = Пока что это самое лучшее, что у меня получалось.
+	604aefc7-1277-4521-a86f-f7c44a434ca2 = Це поки найкраще що в мене получилось.
 
 	////3395. ORIGINAL: I'll put it here next to my four plank, four nail table.
-	8f9b54e2-0c16-4c5c-92c1-4180f4df63e8 = Я поставлю её возле столика, который я сделал из четырёх досок и четырёх гвоздей.
+	8f9b54e2-0c16-4c5c-92c1-4180f4df63e8 = Я її поставлю біля столика з чотирьох планок і чотирьох цвяхів.
 
 	////3396. ORIGINAL: Next time? Beds!
-	5efb8e88-e84c-4939-a464-62d522519757 = А что у нас на следующий раз? Кровать!
+	5efb8e88-e84c-4939-a464-62d522519757 = А що дальше? Ліжко!
 
 	////3397. ORIGINAL: Bang bang ladies, and yee-hah!
-	1006b8b3-c428-4b98-bdb5-bb575549b919 = Девчата, бум-бум и йи-и-ха!
+	1006b8b3-c428-4b98-bdb5-bb575549b919 = Дівчата, бум-бум і Ї-ї-ха!
 
 	////3398. ORIGINAL: Welcome back to Exposure Survival.
-	046f3a29-112e-48d5-a4ce-8182bfcabf0a = Й знову ласкаво прошу в програму 'Мистецтво виживання'.
+	046f3a29-112e-48d5-a4ce-8182bfcabf0a = І знову вітаю вас в передачі 'Мистецтво виживання'.
 
 	////3399. ORIGINAL: I'm Dean guys, and I'm back with nature.
-	54ce5b00-9903-4661-92b2-02230c24ad76 = Меня, как всегда, зовут Дин, и мы вновь отправляемся на прогулку.
+	54ce5b00-9903-4661-92b2-02230c24ad76 = З вами як завжди Дін, І я повернувня на природу.
 
 	////3400. ORIGINAL: Alright so you're closing in on Everest Base Camp.
-	d27641c5-0573-442b-9f9c-537dd9b5cc6f = Итак, мы приближаемся к основному лагерю у Эвереста.
+	d27641c5-0573-442b-9f9c-537dd9b5cc6f = Отож, ми доходимо до базового табору Евересту.
 
 	////3401. ORIGINAL: But it's getting dark.
-	1838e0b1-f471-4cce-88f8-c72573f89f73 = Смеркалось.
+	1838e0b1-f471-4cce-88f8-c72573f89f73 = Але зараз темнішає.
 
 	////3402. ORIGINAL: It's cold as hell, and oxygen isn't there.
-	f6e390bc-6e80-475a-9e52-19d7743dfef9 = Чертовски холодно и не хватает кислорода.
+	f6e390bc-6e80-475a-9e52-19d7743dfef9 = Тут до біса холодно і не вистачає кисню.
 
 	////3403. ORIGINAL: What do you do? You build a fire!
-	7fde1e06-bc4e-47a6-a7ad-f931cbf0d22c = Что же делать? Разжечь костёр!
+	7fde1e06-bc4e-47a6-a7ad-f931cbf0d22c = То що ж робити? Розвезти вогонь!
 
 	////3404. ORIGINAL: Take three pieces of wood - planks maybe
-	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = Возьмите три любые деревяшки, можете взять даже доски.
+	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = Візьміть три бульяких обрубка дерева, можлиов планки.
 
 	////3405. ORIGINAL: Then you need fuel. Anything that burns.
-	645eb206-000b-499f-a452-b0000ab14c53 = Нужна растопка. Что угодно, что быстро загорается.
+	645eb206-000b-499f-a452-b0000ab14c53 = Тоді потрібен хмиз. Все що горить.
 
 	////3406. ORIGINAL: Old newspaper, books, bandages.
-	15e22dfd-2295-484b-ab82-811828ceaeac = Старые газеты, книги, повязки.
+	15e22dfd-2295-484b-ab82-811828ceaeac = Старі газети, книги, бинти.
 
 	////3407. ORIGINAL: Add a bit of the old rocket fuel... get it, ey?
-	939dbae3-6db4-40a2-b4d9-18882f81fba2 = Добавьте немного старого ROCKETного топлива... Если вы поняли, о чём я.
+	939dbae3-6db4-40a2-b4d9-18882f81fba2 = Трішки ракетного палива... розумієте про що я?
 
 	////3408. ORIGINAL: And flick your lighter like... this...
-	31783dfe-2c0c-4acf-a0dd-12f4a10cf8c3 = И щёлкните своей зажигалкой... вот так...
+	31783dfe-2c0c-4acf-a0dd-12f4a10cf8c3 = І дайте іскру від запальнички... якось так...
 
 	////3409. ORIGINAL: There's a fire, right there.
-	8b07ad31-1eba-4e57-81cb-295f6ab4f71b = А вот и костёр.
+	8b07ad31-1eba-4e57-81cb-295f6ab4f71b = І от вогонь горить
 
 	////3410. ORIGINAL: You'll be warm, and the sherpas will love it!
-	9f872cad-40d4-474e-88c1-2b15ff386069 = И вам будет тепло, и шерпы оценят!
+	9f872cad-40d4-474e-88c1-2b15ff386069 = Вам буде тепло і шерпи оцінять!
 
 	////3411. ORIGINAL: Big shout out to the 42nd!
-	8498f3bc-0e70-422a-8c4d-1dca706f14cc = Передаю пламенный привет 42-му взводу!
+	8498f3bc-0e70-422a-8c4d-1dca706f14cc = Мої подяки 42-й!
 
 	////3412. ORIGINAL: Until next time guys!
 	ec3ecb39-e84d-42fd-bb38-6257446cc92a = До нових зустрічей!
 
 	////3413. ORIGINAL: I don't know about you, but when I golf with my buddies...
-	0f8761f8-ef67-4c7d-9e75-b82a51364a1b = Я вас не знаю, але коли я граю в гольф з друзями...
+	0f8761f8-ef67-4c7d-9e75-b82a51364a1b = Я не знаюяк ви, але коли я граю в гольф з друзями...
 
 	////3414. ORIGINAL: There's always this special moment.
 	1350a861-3fd3-4edb-802c-7c89edace34a = Настає особлива мить.
@@ -10278,319 +10278,319 @@
 	fb3befc0-b918-4990-82e4-787586b594be = ...не промахнетесь!
 
 	////3423. ORIGINAL: Hey there. Welcome back to the Cook Show!
-	c1e5ae2c-31d8-4f9f-a89c-b19249c8a4b1 = Привет, добро пожаловать на 'Кулинарное Шоу'.
+	c1e5ae2c-31d8-4f9f-a89c-b19249c8a4b1 = Привіт. Вітаю в кулінарному шоу 'СМАК'.
 
 	////3424. ORIGINAL: Now I hear it all the time - why so simple?
-	eb63a55a-d500-41cf-90ad-851e9041c215 = Я постоянно слышу вопрос: почему твои рецепты такие простые?
+	eb63a55a-d500-41cf-90ad-851e9041c215 = Я завжди чую питання: Чому кулінарні рецепти такі прості?
 
 	////3425. ORIGINAL: I tell you why so simple...
-	7f8cc3e2-8a99-4618-87d0-da2f326340ce = Я скажу, почему...
+	7f8cc3e2-8a99-4618-87d0-da2f326340ce = І я вам розкажу...
 
 	////3426. ORIGINAL: I want to make healthy cooking as easy as...
-	f107d679-25d3-43ed-92d7-6f61c54d1ca8 = Я хочу, чтоб приготовление здоровой пищи была также проста...
+	f107d679-25d3-43ed-92d7-6f61c54d1ca8 = Я шочу щоб здорове харчування було простим як...
 
 	////3427. ORIGINAL: ...standing in line at Spiffos' or sittin' in Pizza Whirled.
-	9b784828-ffa8-4735-bfb5-7c220501b804 = ...как 'отдых' в очереди в 'Spiffo' или ожидание заказа в 'Pizza Whirled'.
+	9b784828-ffa8-4735-bfb5-7c220501b804 = ... стояки в черзі 'Spiffo' чи очікувати доставку з 'Pizza Whirled'.
 
 	////3428. ORIGINAL: Now I love a BLT.
-	7ec30333-076d-490e-a761-fed0cdfe33d9 = А если честно - я просто обожаю БЛП.
+	7ec30333-076d-490e-a761-fed0cdfe33d9 = Я люблю БСП сендвічі.
 
 	////3429. ORIGINAL: That's a Bacon, Lettuce and Tomato sandwich.
-	1c250bfa-5e0a-4b64-af85-5b1f39c04747 = Это означает Бекон, Латук, Помидор.
+	1c250bfa-5e0a-4b64-af85-5b1f39c04747 = Це означає Бекон, Салат, Помідор.
 
 	////3430. ORIGINAL: It's God's Gift to bread.
-	d0f96fca-8dac-4b8c-9fbd-ee5f2ec51449 = Это просто дар божий для хлеба.
+	d0f96fca-8dac-4b8c-9fbd-ee5f2ec51449 = Це просто подарунок для хлібу.
 
 	////3431. ORIGINAL: So let's make one together!
-	47c60ee5-afa9-4819-897d-eaccb2ed8959 = Ну так давайте сделаем один!
+	47c60ee5-afa9-4819-897d-eaccb2ed8959 = тому давайте зробимо їх разом!
 
 	////3432. ORIGINAL: First - you cook up that bacon.
-	09683445-71e0-4c98-9cdc-3d7ea76aa54d = Для начала - пожарьте бекон.
+	09683445-71e0-4c98-9cdc-3d7ea76aa54d = В першу чергу піджарте бекон.
 
 	////3433. ORIGINAL: I like mine crispy as all heck, but do it to your liking.
-	1479d319-a621-44e6-abe0-ab561e0445fc = Мне нравится прожаренная корочка, ну а Вы можете сделайть по своему вкусу.
+	1479d319-a621-44e6-abe0-ab561e0445fc = Я люблю коли мій бекон хрустить, а ви робіть як подобається.
 
 	////3434. ORIGINAL: Then take your bread, and add in that bacon.
-	43030225-2881-431f-a553-7ba7cf4d8173 = Теперь возьмите хлеб и положите бекон сверху.
+	43030225-2881-431f-a553-7ba7cf4d8173 = Візьміть хліб, і поставте бекон зверху.
 
 	////3435. ORIGINAL: Then tomato and your lettuce.
-	320d9059-11e3-4770-b42a-71d76ec10bd4 = Затем латук и помидор.
+	320d9059-11e3-4770-b42a-71d76ec10bd4 = Далі помідори і листя салату.
 
 	////3436. ORIGINAL: Not too much lettuce.
-	90ba018c-d084-4646-b163-5b6793f69e43 = Латука не особо много.
+	90ba018c-d084-4646-b163-5b6793f69e43 = Листя салату не давайте багато.
 
 	////3437. ORIGINAL: And bam! Easy as that!
-	69a2eeef-e405-431d-a3eb-15127c386fc2 = И-и оп! Всё гениальное просто!
+	69a2eeef-e405-431d-a3eb-15127c386fc2 = І Бам! Просто!
 
 	////3438. ORIGINAL: Just like Mom used to make!
-	b3d9ee68-773b-4a22-ab5f-14e4a82e6314 = Как когда-то мама готовила мне.
+	b3d9ee68-773b-4a22-ab5f-14e4a82e6314 = Саме так як моя мама готувала.
 
 	////3439. ORIGINAL: And if you want to be a bit more decadent? One word:
-	e83866e4-3ec9-4295-8be1-7401989760a1 = Хотите, чтобы это было более сытным? Всего два слова:
+	e83866e4-3ec9-4295-8be1-7401989760a1 = Хочите щоб це було нездорово? Одне слово:
 
 	////3440. ORIGINAL: Meat patty!
-	832e055a-65f1-431e-9ef5-a421a1b249af = Мясной пирожок!
+	832e055a-65f1-431e-9ef5-a421a1b249af = Бургер!
 
 	////3441. ORIGINAL: I make mine with an egg to hold it all together!
-	7b661604-8164-4946-a886-f42371a86cf2 = Я обычно готовлю с яйцом, чтобы он получился менее рассыпчатым.
+	7b661604-8164-4946-a886-f42371a86cf2 = Я зазвичай готую з яйцем, щоб все трималось купи.
 
 	////3442. ORIGINAL: Who can resist a juicy burger?
-	bc59ce51-6383-44d2-a749-691fb14dfdd4 = Кто же откажется от сочного гамбургера?
+	bc59ce51-6383-44d2-a749-691fb14dfdd4 = Хто може відмовити соковитому бургеру?
 
 	////3443. ORIGINAL: See you tomorrow everyone!
-	5abcfcda-7c0b-4532-811e-59aafe63a983 = Увидимся завтра.
+	5abcfcda-7c0b-4532-811e-59aafe63a983 = Побачимось завтра!.
 
 	////3444. ORIGINAL: We're there! Advanced Carpentry! Yee-hah!
-	f29576b6-134f-407b-b586-fde1aa1bc770 = Наконец то! Да здравствует продвинутое строительство!
+	f29576b6-134f-407b-b586-fde1aa1bc770 = Нарешті! Будівництво для просунутих! Ї-ї-ха
 
 	////3445. ORIGINAL: Now I broke my bed last week.
-	f154a2c3-cd16-439c-87e0-aa84548abc76 = На прошлой неделе я сломал свою кровать.
+	f154a2c3-cd16-439c-87e0-aa84548abc76 = Минулого тижня я зламав своє ліжко.
 
 	////3446. ORIGINAL: I'll spare you the details, as y'all would blush.
-	ced05294-7426-4a29-ad90-48572f61bbb2 = Не будем вдаваться в подробности, а то Вы покраснеете.
+	ced05294-7426-4a29-ad90-48572f61bbb2 = Не буду розказувати 'як', а то ще почервонієте.
 
 	////3447. ORIGINAL: I needed a new place to rest my head, and I needed it quick.
-	21934aeb-45d9-4cd4-8ce2-32a81e09329f = Мне нужно куда-то приложить свою голову, и по-быстрому.
+	21934aeb-45d9-4cd4-8ce2-32a81e09329f = Тому мені потрібне нове місце щоб відпочити, і то швидко.
 
 	////3448. ORIGINAL: So what did I do? I'll show you!
-	c785d9dc-d0e2-4f1c-a1a5-5f901dd1684a = И что же я сделаю? Смотрите!
+	c785d9dc-d0e2-4f1c-a1a5-5f901dd1684a = То що ж я зроблю? Дивіться!
 
 	////3449. ORIGINAL: Let's build a bed ladies! Let's do it now!
-	3d5543af-17fa-4e30-a3c9-e6432f6ada90 = Девчата, давайте сделаем кровать. И по-шустрому!
+	3d5543af-17fa-4e30-a3c9-e6432f6ada90 = Давайте зробимо ліжко, і це вже!
 
 	////3450. ORIGINAL: Six planks! Four nails! One mattress!
-	85fcaac6-eff7-407f-8c0c-3f615b7f42c5 = Шесть досок! Четыре гвоздя! Один Матрас!
+	85fcaac6-eff7-407f-8c0c-3f615b7f42c5 = Шість планок! Чотири цвяхиʼ! Один Матрац!
 
 	////3451. ORIGINAL: Bang! Bang! Yee-hah!
-	7c465766-f93d-4cf9-9345-93c087861712 = Бум-Бум! Йи-и-ха!
+	7c465766-f93d-4cf9-9345-93c087861712 = Бум-Бум! Ї-ї-ха!
 
 	////3452. ORIGINAL: Yee-hah!
-	fb743edb-7220-4b3e-811e-5c22499b9c50 = У-у-ха!
+	fb743edb-7220-4b3e-811e-5c22499b9c50 = Ї-ї-ха!
 
 	////3453. ORIGINAL: And there she is, but the test drive can wait.
-	89e23f3e-6738-491d-9afc-2810a9d6b0c2 = А вот и она! Как ей пользоваться, к сожалению, в детское время я показать не могу.
+	89e23f3e-6738-491d-9afc-2810a9d6b0c2 = І ось вже готово. Але тест драйв може почекати.
 
 	////3454. ORIGINAL: We done the exciting stuff...
-	0071b9ec-3368-4614-9721-b89c7eea9616 = Самое весёлое позади...
+	0071b9ec-3368-4614-9721-b89c7eea9616 = Ми зробили захоплюючі речі...
 
 	////3455. ORIGINAL: ...but I've also gotta show you how to make a Large Table.
-	a60ec996-4b18-4d0f-ae18-9f40e2bfb11b = ... но мне также нужно показать Вам как сделать Большой Стол.
+	a60ec996-4b18-4d0f-ae18-9f40e2bfb11b = ... але я ще маю показати вам як робити Великий Стіл.
 
 	////3456. ORIGINAL: It's no bed, and that's for sure.
-	2976889b-47fb-4075-af81-550319e886f4 = Это, конечно, не кровать, но всё же...
+	2976889b-47fb-4075-af81-550319e886f4 = Це не ліжко, точно.
 
 	////3457. ORIGINAL: Take six planks and four nails.
-	cd8b48e9-a663-40c3-9a89-28ee467fcb62 = Берём шесть досок и четыре гвоздя.
+	cd8b48e9-a663-40c3-9a89-28ee467fcb62 = Беремо шість планок, чотири цвяхи.
 
 	////3458. ORIGINAL: Neat, huh?
-	7637a703-c2f6-4481-9ddf-6e1c937e28ed = Неплохо, верно?
+	7637a703-c2f6-4481-9ddf-6e1c937e28ed = Непогано, правда?
 
 	////3459. ORIGINAL: Next time: I'm taking y'all upstairs.
-	72bfe800-8f23-4f45-9556-0396734fb084 = В следующей программе я научу Вас подыматься наверх...
+	72bfe800-8f23-4f45-9556-0396734fb084 = Наступного разу підніму вас вище.
 
 	////3460. ORIGINAL: On stairs!
-	9167df6f-9e2c-45cf-a7f8-65614776d17e = ...по лестнице!
+	9167df6f-9e2c-45cf-a7f8-65614776d17e = По сходах!
 
 	////3461. ORIGINAL: Till next time!
 	b92962a6-4166-4a4c-b2da-1cf77fad2103 = До наступних зустрічей
 
 	////3462. ORIGINAL: Hey, I'm back with nature and I'm Dean.
-	c2d0fac9-c1c4-4e23-b23b-ff9e51104a48 = Привет, и с Вами снова Дин!
+	c2d0fac9-c1c4-4e23-b23b-ff9e51104a48 = Вітаю, з вами знову Дін і природа.
 
 	////3463. ORIGINAL: One time I was out in the woods on South Island and...
-	8a1113ad-11c4-4eb5-8fcc-6ce75553b0c3 = Однажды я гулял по лесу на одном Южном Острове, и...
+	8a1113ad-11c4-4eb5-8fcc-6ce75553b0c3 = Одного разу я гуляв по лісі Південного Острову...
 
 	////3464. ORIGINAL: All of a sudden, I realized I'd lost my tent.
-	61ba27f8-ec9d-41c4-95c4-c4cf576d2bc2 = ...внезапно понял, что потерял свою палатку.
+	61ba27f8-ec9d-41c4-95c4-c4cf576d2bc2 = ... і зрозумів що в мене немає намету.
 
 	////3465. ORIGINAL: Nightmare, ey?
-	4c619e77-239e-4d88-8b8d-84dbe1d23722 = Кошмар, не правда ли?
+	4c619e77-239e-4d88-8b8d-84dbe1d23722 = Який, жах.
 
 	////3466. ORIGINAL: What I did have was four tent pegs - and four sheets.
-	aeb93f9a-899b-4ee3-8cc9-143153b89993 = Но то, что я имел при себе, это 4 палаточных кола и 4 простыни.
+	aeb93f9a-899b-4ee3-8cc9-143153b89993 = Але те що я мав з собою це чотири кілочки і чотири простирадла.
 
 	////3467. ORIGINAL: Using a stick I found foraging I built... this.
-	23297493-a224-4874-a624-f07a148705a8 = Пользуясь ничем другим, как этой палкой, которую я нашёл в лесу, я построил... это.
+	23297493-a224-4874-a624-f07a148705a8 = Користуючись палкою, що я знайшов я збудував... це.
 
 	////3468. ORIGINAL: Not much, but it's home - or one with fabric walls, ey?
-	ea128bdf-0efa-4242-bb2f-f41b59fad8c2 = Как ни крути - но дом есть дом, даже с крышей из ткани.
+	ea128bdf-0efa-4242-bb2f-f41b59fad8c2 = Не багато, але це вже дім, навіть з тканини.
 
 	////3469. ORIGINAL: Don't get me wrong, it gets cold alright.
-	0f243369-6582-41e6-9b5d-688ce8f49f7e = Не поймите меня неправильно, замёрзнуть всё ещё можно.
+	0f243369-6582-41e6-9b5d-688ce8f49f7e = Зрозумійте вірно. Тут все ще холодно.
 
 	////3470. ORIGINAL: But it keeps out the elements.
-	73781365-fe9e-492e-8a52-c05dc94595e0 = Но, по крайней мере, дожди до Вас не доберутся.
+	73781365-fe9e-492e-8a52-c05dc94595e0 = Але від вітру і дощу вас прихистить.
 
 	////3471. ORIGINAL: Sometimes that's enough.
-	67d9ef10-3ffc-4065-8bbf-4e1b36f259c1 = Этого иногда достаточно.
+	67d9ef10-3ffc-4065-8bbf-4e1b36f259c1 = Інколи цього достатньо.
 
 	////3472. ORIGINAL: We've got a caller! Hi Dean!
-	f2590d4b-839f-4b0b-ba56-d560094b6c5f = А у нас звонок в студию! Привет Дин!
+	f2590d4b-839f-4b0b-ba56-d560094b6c5f = У нас здвінок! Привіт Дін!
 
 	////3473. ORIGINAL: Thanks so much for taking the time out from your show on Life and Living!
-	eaa5808e-6955-4279-b296-fddc40f65734 = Спасибо тебе за твою программу на канале 'Life and Living'!
+	eaa5808e-6955-4279-b296-fddc40f65734 = Дякую за твою передачу на каналі 'Life and Living'!
 
 	////3474. ORIGINAL: No worries guys!
-	4f966909-6370-45a6-9b92-9b247388c212 = Без проблем, ребят!
+	4f966909-6370-45a6-9b92-9b247388c212 = Завжди радий!
 
 	////3475. ORIGINAL: I just wanted to say that the climbing gear you're selling today...
-	b255dfb0-3342-4799-9dbf-9a61dce32bc5 = Я лишь хотел сказать, что те скалолазные принадлежности, которые ты продаешь...
+	b255dfb0-3342-4799-9dbf-9a61dce32bc5 = Я всього лиш хочу сказати що альпіністське спорядження що ти продаєш...
 
 	////3476. ORIGINAL: It looks AMAZING. Real quality stuff.
-	48c11481-3baa-47c8-9fe6-50e2b9c3e089 = ...они просто ОФИГИТЕЛЬНЫ. Качество на высоте.
+	48c11481-3baa-47c8-9fe6-50e2b9c3e089 = ...просто ПРЕКРАСНЕ. Висока якість.
 
 	////3477. ORIGINAL: I love it when you get in touch Dean.
-	6b2af433-dc55-4bbd-a982-de04fbc5f185 = Для меня счастье, что Вам понравилось, Дин.
+	6b2af433-dc55-4bbd-a982-de04fbc5f185 = Я щасливий що вам сподобалосб, Дін.
 
 	////3478. ORIGINAL: It just looks like the BARGAIN of a LIFETIME.
-	11c97767-5da9-4fea-82d6-d9f56a03efae = Ну, это же СДЕЛКА ВЕКА!
+	11c97767-5da9-4fea-82d6-d9f56a03efae = Це просто АКЦІЯ НА ВСЕ ЖИТТЯ!
 
 	////3479. ORIGINAL: Well, today only, I'm throwing in a set of crampons.
-	573fa5a3-cef6-4244-a1a5-a9ee901bca56 = Только лишь сегодня, я купил целый набор 'кошек'.
+	573fa5a3-cef6-4244-a1a5-a9ee901bca56 = Тільки сьогодні, я додам набір кліщів.
 
 	////3480. ORIGINAL: I'm sold. Put me through to sales line!
-	bbeacea6-4a8f-44c0-960c-3086f586718e = Соедините меня с отделом по продажам!
+	bbeacea6-4a8f-44c0-960c-3086f586718e = Вже я вже купую, звяжіть з відділом продаж!
 
 	////3481. ORIGINAL: Stocks are getting low folks! Call now!
-	60358177-6e51-42e4-9cfc-3de7745dc31c = Ребята, на складе почти ничего не осталось, спешите купить прямо сейчас!
+	60358177-6e51-42e4-9cfc-3de7745dc31c = На складі зовсім нічого не залишилось, Телефонуйте вже!
 
 	////3482. ORIGINAL: How are you doing? This is the Cook Show!
-	fb40646a-160c-4709-9030-c5d0c33823de = Как Вы поживаете? Вы смотрите Кулинарное Шоу!
+	fb40646a-160c-4709-9030-c5d0c33823de = Як ви? З вами кулінарне шоу 'СМАК'!
 
 	////3483. ORIGINAL: Now today's recipe is a family favorite: pie!
-	1cfcfacb-bc5a-4a72-a353-a0b696e1dc35 = Сегодня мы приготовим то, что понравится всей семье - пирог!
+	1cfcfacb-bc5a-4a72-a353-a0b696e1dc35 = Сьогодні у меню те що сподобається всім - пиріг!
 
 	////3484. ORIGINAL: And not the sweet cherry pie kind...
-	d5a4b433-df99-4c56-b37c-9c42756fd528 = Не приевшийся уже всем сладкий вишневый пирог,...
+	d5a4b433-df99-4c56-b37c-9c42756fd528 = І не простий солодкий пиріг з вишень...
 
 	////3485. ORIGINAL: A delicious, hearty and wholesome savory pie...
-	f3d37cf1-c6e4-480d-a6b5-e01aee96be78 = ...а восхитительный, питательный, пикантный...
+	f3d37cf1-c6e4-480d-a6b5-e01aee96be78 = ...А найсмачніший та найкращий пиріг з м'ясом ...
 
 	////3486. ORIGINAL: Mutton, leek and carrot!
-	d0e634e6-5eec-4c20-8462-21010810f2e2 = ... Пирог с Мясом, Луком-пореем и Морковкой!
+	d0e634e6-5eec-4c20-8462-21010810f2e2 = Баранина, цибуля-порей та морква...
 
 	////3487. ORIGINAL: First you need your pie base.
-	9c64c5ec-7e36-43d0-8e64-91859b927eba = Сначала сделаем основу для пирога.
+	9c64c5ec-7e36-43d0-8e64-91859b927eba = Спочатку зробимо основу для пирога.
 
 	////3488. ORIGINAL: Mix in some flour, yeast, sugar and butter.
-	68fc612e-bf5d-40dd-a345-7f0314894861 = Смешайте муку, дрожжи, сахар и масло.
+	68fc612e-bf5d-40dd-a345-7f0314894861 = Змішайте борошно, дріжджі, цукор і масло .
 
 	////3489. ORIGINAL: Use all that with your rolling pin...
-	158d96f8-9f48-4f28-809c-cd97a5409876 = Раскатайте полученное тесто скалкой..
+	158d96f8-9f48-4f28-809c-cd97a5409876 = тепер сористуйтесь качалкою...
 
 	////3490. ORIGINAL: That right there is a Pie Preparation!
-	d606fe94-c699-43a3-8260-cfdec2ecbe50 = Вот и получилась Заготовка для Пирога.
+	d606fe94-c699-43a3-8260-cfdec2ecbe50 = І заготовка до пирога готова.
 
 	////3491. ORIGINAL: Wrap in your lamb or mutton, your leeks and your carrots.
-	49b860f4-5611-4b14-962e-2e6ffb16c155 = Заверните нарезанные лук и морковь в мясо ягненка.
+	49b860f4-5611-4b14-962e-2e6ffb16c155 = Розмістіть в середині баранину, цибулю-порей і морку.
 
 	////3492. ORIGINAL: And season to taste!
-	30ac0d85-270f-47c4-afa2-bf5aca404f84 = Приправьте по вкусу!
+	30ac0d85-270f-47c4-afa2-bf5aca404f84 = додайте приправ!
 
 	////3493. ORIGINAL: And bake!
-	326b2a43-9e96-4001-865c-62c18cf87358 = И запекайте!
+	326b2a43-9e96-4001-865c-62c18cf87358 = І запікайте!
 
 	////3494. ORIGINAL: This show is real special: it's for the ladies.
-	9668d72c-1d0c-4d0f-8dae-70f0eb10e98d = Сегодняшнее шоу особенное, оно для девушек!
+	9668d72c-1d0c-4d0f-8dae-70f0eb10e98d = Шоу сьогодні спеціально для дівчат!
 
 	////3495. ORIGINAL: In my experience ladies LOVE stairs!
-	349efa40-ae15-46c6-96bb-3f4114d61309 = По моему личному опыту, девушки ОБОЖАЮТ лестницы.
+	349efa40-ae15-46c6-96bb-3f4114d61309 = На скільки я знаю дівчата ЛЮБЛЯТЬ сходи!
 
 	////3496. ORIGINAL: They're smilin' when they go up them...
-	2b54a98e-1358-49e9-8033-3661b2e7d0f2 = Они улыбаются, когда поднимаются по ним...
+	2b54a98e-1358-49e9-8033-3661b2e7d0f2 = Вони посміхаються коли по них підіймаються...
 
 	////3497. ORIGINAL: ...and they're smilin' more when they come back down.
-	3735f9c6-7588-4492-a061-8a3383c2c0bf = ...и улыбаются ещё шире, когда спускаются.
+	3735f9c6-7588-4492-a061-8a3383c2c0bf = ... і посміхаються коли спускаються.
 
 	////3498. ORIGINAL: Yeehah! So what do we need?
-	30d58dce-0ab8-442a-a3f5-b74b6d100c1d = Йи-и-ха! Так что же нам понадобится?
+	30d58dce-0ab8-442a-a3f5-b74b6d100c1d = Ї-ї-ха! То що ж нам потрібно
 
 	////3499. ORIGINAL: Eight planks! Eight nails and an A-D-Vanced knowledge of Car-pen-try!
-	781b56bf-9b2e-455e-9b03-6540c5542ae8 = Восемь досок! Восемь гвоздей! И ПРО-двинутое стро-и-тель-ство!
+	781b56bf-9b2e-455e-9b03-6540c5542ae8 = Вісім планок! Вісім цвяхів! і ПРО-сунуте знання Буді-вни-цтва!
 
 	////3500. ORIGINAL: Gonna need some more over...Here...
-	4b1e5f36-dbc8-4ac9-afdf-987190dbba41 = Еще буквально чуточку здесь, и...
+	4b1e5f36-dbc8-4ac9-afdf-987190dbba41 = Ще чучуть і... Ось...
 
 	////3501. ORIGINAL: What goes good at the top of a flight of stairs?
-	b050eeb9-5e91-4c89-a023-e97a0677354e = А что смотрелось бы хорошо наверху у лестницы?
+	b050eeb9-5e91-4c89-a023-e97a0677354e = А що б гарно виглядато зверху на сходах?
 
 	////3502. ORIGINAL: A table with a drawer in it, right? That make you yee-hah?
-	71137512-25bd-4173-886f-2479778cc093 = Стол, с выдвижным ящиком!
+	71137512-25bd-4173-886f-2479778cc093 = Столик з висувним ящиком! Аж хочеться гукнути Ї-ї-ха!
 
 	////3503. ORIGINAL: Makes me yee-hah anyways.
-	b5edf317-8dc9-42da-b5d4-23c2284bfa69 = Не знаю, как Вы, но меня это так заводит.
+	b5edf317-8dc9-42da-b5d4-23c2284bfa69 = А я й гукну! Ї-ї-ха.
 
 	////3504. ORIGINAL: A lady could keep her valuables in it.
-	5132bbcf-64d0-422d-a26e-3c6ca11bc4eb = Девочки могут оставить там свои ценности.
+	5132bbcf-64d0-422d-a26e-3c6ca11bc4eb = Дівчата там можуть залишити свої прикраси.
 
 	////3505. ORIGINAL: Maybe a bible, maybe a gun.
-	1bad3260-46d1-4047-8574-6ce13254a8eb = Кто Библию, а кто пистолет.
+	1bad3260-46d1-4047-8574-6ce13254a8eb = Можливо Біблію. А можливо і пістолет.
 
 	////3506. ORIGINAL: Five planks! Four nails! Go!
-	224cfa55-b945-4883-b436-8bdda1b74b67 = Пять досок! Пять гвоздей! Поехали!
+	224cfa55-b945-4883-b436-8bdda1b74b67 = П'ять планок! П'ять цвяхів! Вперед!
 
 	////3507. ORIGINAL: That's enough for this week, huh?
-	9a3212d2-64ea-4338-a2e1-554c3dad3782 = Для одной недели этого, думаю, достаточно.
+	9a3212d2-64ea-4338-a2e1-554c3dad3782 = На чей тиждень для вас достатньо.
 
 	////3508. ORIGINAL: If you're wantin' more - I'll be upstairs.
-	68fcd60c-72c0-402e-bfa8-4fcb2c09af36 = Если Вам и этого мало - я буду наверху, Вам надо лишь подняться по лестнице.
+	68fcd60c-72c0-402e-bfa8-4fcb2c09af36 = Якщо вам і цього замало, то я на верху.
 
 	////3509. ORIGINAL: Hey, it's me. Dean - back with some nature.
-	2f29b7e4-f698-4339-aeb0-653303d4a031 = Привет, это Дин, и это снова вести из дикой природы.
+	2f29b7e4-f698-4339-aeb0-653303d4a031 = Вітаю, це я - Дін. знову з природою.
 
 	////3510. ORIGINAL: Now I hate killing little creature guys.
-	660bdbdf-eb14-494d-ad94-a7a3d5492a78 = Я не люблю убивать мелких животных.
+	660bdbdf-eb14-494d-ad94-a7a3d5492a78 = Я не люблю вбивати маленьких тваринок.
 
 	////3511. ORIGINAL: But sometimes you've just got to survive, right?
-	7291af6e-8dea-4011-ab2b-54b48ec9c9e8 = Но выживать ведь как-то надо, верно?
+	7291af6e-8dea-4011-ab2b-54b48ec9c9e8 = Але виживати якось треба, правда?
 
 	////3512. ORIGINAL: Today we're building what I call a 'Wooden Cage Trap'.
-	1886312f-e076-4361-b745-f4e6bc8c9c10 = Сегодня Вы научитесь делать 'Деревянную Ловушку'.
+	1886312f-e076-4361-b745-f4e6bc8c9c10 = Сьогодні я вас навчу робити 'дерев'яну пастку'.
 
 	////3513. ORIGINAL: It's this cage you build out of wood.
-	3e3dc4ba-124a-4db2-95bd-e64a66f7704c = Это ловушка, которую Вы делаете из дерева.
+	3e3dc4ba-124a-4db2-95bd-e64a66f7704c = Це пастка яку ви робите з дерева
 
 	////3514. ORIGINAL: Inside it you trap stuff.
-	21699af6-00ab-43a2-849f-4ec246019801 = В неё ловят дичь..
+	21699af6-00ab-43a2-849f-4ec246019801 = нею лювлять всяку дрібноту.
 
 	////3515. ORIGINAL: So right now I'm taking this saw to three planks.
-	e5a10065-d958-4e40-998c-27f9278911ae = Берем пилу и три доски.
+	e5a10065-d958-4e40-998c-27f9278911ae = Беремо пилку, три планки.
 
 	////3516. ORIGINAL: Then, five nails should do you right.
-	4dba4aa0-770f-48c3-9eaa-88623d5bd144 = Затем пять гвоздей, этого должно быть достаточно.
+	4dba4aa0-770f-48c3-9eaa-88623d5bd144 = Потім п'ять цвяхів.
 
 	////3517. ORIGINAL: Just hammer it all into place...
-	f40ec98e-99cc-4e24-807d-d8e62d6f9e91 = Берём молоток и забиваем...
+	f40ec98e-99cc-4e24-807d-d8e62d6f9e91 = І забиваємо молотком...
 
 	////3518. ORIGINAL: ...like this.
-	85687551-21a6-471b-89b0-45e5693fa47c = ...вот так вот.
+	85687551-21a6-471b-89b0-45e5693fa47c = ...якось отак.
 
 	////3519. ORIGINAL: Now let's go somewhere quiet.
-	f9c62c4c-c7b9-430c-8361-1725f3bb0443 = Теперь отправляемся к месту потише.
+	f9c62c4c-c7b9-430c-8361-1725f3bb0443 = Тепер відійдемо в тиху місцевість.
 
 	////3520. ORIGINAL: Here I am in the woods, and I'm setting down the trap.
-	19040afe-7570-45e2-8101-d338702f8496 = И вот, я уже в лесу, устанавливаю ловушку.
+	19040afe-7570-45e2-8101-d338702f8496 = І ось я вже в лісі ставлю пастку.
 
 	////3521. ORIGINAL: Just... chuck in some bait like this and get outta there.
-	678c9acd-0d48-4b64-ade3-00e5e1d82854 = Не забудьте положить наживку и проверять, время от времени.
+	678c9acd-0d48-4b64-ade3-00e5e1d82854 = Не забудьте поставити приманку, і можете йти.
 
 	////3522. ORIGINAL: When you come back?
-	07800c34-064f-47ab-975e-1160593e38b8 = Что же мы найдем, когда вернемся?
+	07800c34-064f-47ab-975e-1160593e38b8 = Коли ми повернемось.
 
 	////3523. ORIGINAL: Maybe there'll be a little animal guy there.
-	6e49f4b3-8706-413e-a92d-5f03f201eea6 = Мелкого 'приятеля'.
+	6e49f4b3-8706-413e-a92d-5f03f201eea6 = Можливо знайдемо маленьку тваринку.
 
 	////3524. ORIGINAL: Ready for the pot.
-	45e706f7-6b9b-4d1c-a9b4-2f5b1ee11518 = Готового к употреблению.
+	45e706f7-6b9b-4d1c-a9b4-2f5b1ee11518 = Яку залишиться кинути в кастрюлю.
 
 	////3525. ORIGINAL: Once you've killed and gutted him anyway.
-	9df26228-fd2d-45b6-94ac-18729eda5d8c = Как только Вы его убьете и выпотрошите, по крайней мере.
+	9df26228-fd2d-45b6-94ac-18729eda5d8c = Звичайно після того як вб'єте і випатраєте.
 
 	////3526. ORIGINAL: It Steams! It Broils! It can even fricassee!
 	2fcd2a97-8657-4d30-af3b-4c8ae7d15ef8 = Воно парить! Воно жарить! Воно навіть робить фрикасе!
 
 	////3527. ORIGINAL: What is this amazing machine Diane?
-	0fdb4770-75f6-4f75-ba50-f1020b3acf40 = Что это за чудо машина, Диана?
+	0fdb4770-75f6-4f75-ba50-f1020b3acf40 = ЧЩо це за чудо маниша, Діано?
 
 	////3528. ORIGINAL: Why it's the Harakka all-purpose slow-broiler, from Scandinavia!
 	4e3d4f81-29aa-4e1e-9965-df044395234f = Так це ж 'Harakka', мультиварка повільного приготування з Скандинавії.
@@ -10611,7 +10611,7 @@
 	9324de03-8d2b-42ed-ac5e-6d2a0e1efb18 = А що ще в ній можна приготувати?
 
 	////3534. ORIGINAL: Vegetables, meat, your favourite snack....
-	0b6e75c7-55f6-43cb-9767-3fb4068b5ec3 = Овочі, м'ясо та взагалі любу твою улюблену їжу.
+	0b6e75c7-55f6-43cb-9767-3fb4068b5ec3 = Овочі, м'ясо та взагалі будь-яку твою улюблену їжу.
 
 	////3535. ORIGINAL: This is the FIRST machine of its kind. And you know what?
 	7453d0f1-4255-4926-8f72-edecd6b57be9 = Вона краща за інші. Знаєш що ще?
@@ -10623,86 +10623,86 @@
 	abe8fe36-5e35-48a9-9a61-c1f091e37bb9 = Її мити - одне задоволення! Ти тільки подивись!
 
 	////3538. ORIGINAL: That is amazing. How do I get one?
-	5668ae1e-7da2-4543-a501-a6d2a75d9f8c = Надзвичайно! Де й мені купити туку штуку собі?
+	5668ae1e-7da2-4543-a501-a6d2a75d9f8c = Надзвичайно! Де мені купити таку штуку собі?
 
 	////3539. ORIGINAL: Just call the number on-screen!
-	a1fa1783-f2af-47b3-9a3c-2fe29537b7ec = Просто телефонуйте по номеру на екрані!
+	a1fa1783-f2af-47b3-9a3c-2fe29537b7ec = Просто телефонуйте за номером на екрані!
 
 	////3540. ORIGINAL: You know how this works by now!
-	3a43c293-cf5d-4795-a121-3276dec64176 = Ти вже знаєш, як це має працювати!
+	3a43c293-cf5d-4795-a121-3276dec64176 = Ти вже знаєш, як це працює!
 
 	////3541. ORIGINAL: Focus-testing. You gotta love it, huh?
-	e9d27efc-d1ec-4462-b09e-2416564d6d9a = Маркетинговые исследования, обожаю их!
+	e9d27efc-d1ec-4462-b09e-2416564d6d9a = Маркетингові дослідження, обожнюю.
 
 	////3542. ORIGINAL: It's Dean - back with Exposure Survival!
-	4ec7eb7a-8b00-4fa2-95de-6286ba8cb83e = С вами снова я, Дин, и Вы смотрите программу 'Выживание на Открытой Местности'.
+	4ec7eb7a-8b00-4fa2-95de-6286ba8cb83e = Я Дін і це - 'Мистецтво виживання'.
 
 	////3543. ORIGINAL: Hey guys! Welcome back to Nature!
-	d3279147-c24a-4441-991f-729d6804a4c8 = Здорово ребята! И мы вновь на природе!
+	d3279147-c24a-4441-991f-729d6804a4c8 = Привіт! Вітаю вас на прирроді!
 
 	////3544. ORIGINAL: All the time people ask: "Dean - where do you find all this stuff?"
-	ea4dcbf6-f658-4be6-969f-411b88da5ff8 = Люди меня постоянно спрашивают: 'Дин, откуда у тебя весь этот хлам?'
+	ea4dcbf6-f658-4be6-969f-411b88da5ff8 = Люди завжди питаються: 'Дін, звідки в тебе ці всі речі?'
 
 	////3545. ORIGINAL: "You're in the middle of nowhere but you've got cool gear."
-	65516990-5571-425b-9073-2c16b613f033 = 'Ты - у чёрта на куличиках, но клёвых принадлежностей у тебя больше, чем у нас дома'.
+	65516990-5571-425b-9073-2c16b613f033 = 'Ти в чорта на рогах і маєш купу крутого спорядження'.
 
 	////3546. ORIGINAL: Well there's two answers to that question-asker.
-	329b4fd1-cc3f-4a11-8afc-ceccd9fcb5a8 = Ну, для таких людей у меня всегда есть ответы.
+	329b4fd1-cc3f-4a11-8afc-ceccd9fcb5a8 = Для таких питань є дві відповіді.
 
 	////3547. ORIGINAL: One is the paperclip: which stays on me at ALL times.
-	ef497181-a22d-4e8b-8870-2187d81f285b = Во-первых, скрепки у меня ВСЕГДА с собой.
+	ef497181-a22d-4e8b-8870-2187d81f285b = По-перше скріпка, котра завжди зі мною.
 
 	////3548. ORIGINAL: The second is foraging.
-	dd875aa3-b6ff-4418-a377-35bdee71f20e = Во-вторых - собирательство!
+	dd875aa3-b6ff-4418-a377-35bdee71f20e = По-друге - збиральництво!
 
 	////3549. ORIGINAL: It's amazing the sort of stuff that nature can provide.
-	3f50871d-a047-4314-af45-bbdf5d0f4782 = Вы не поверите, когда узнаете сколько всего полезного может нам дать природа..
+	3f50871d-a047-4314-af45-bbdf5d0f4782 = Ви не уявляєте скільки всього може дати природа.
 
 	////3550. ORIGINAL: So next time you're in the woods: open your eyes.
-	b34a4abf-d023-4eb9-b15b-9f58c2b37b02 = И в следующий раз, когда Вы пойдёте в лес - просто раскройте глаза!
+	b34a4abf-d023-4eb9-b15b-9f58c2b37b02 = Тому наступного разу як будете в лісі - просто відкрийте очі
 
 	////3551. ORIGINAL: Look around.
-	1cc3b153-1e07-4d52-a685-99322df5a52b = Оглянитесь.
+	1cc3b153-1e07-4d52-a685-99322df5a52b = Озирніться.
 
 	////3552. ORIGINAL: And when you've picked up what you can find?
-	d8981302-0c98-46d1-adea-d0510c30a87d = И что вы станете делать после того как соберёте всё необходимое (грибы, ягоды)?.
+	d8981302-0c98-46d1-adea-d0510c30a87d = І коли ви зберете все що бачите?.
 
 	////3553. ORIGINAL: Well that's just amazing, ey?
-	fa6ad372-4889-498b-ae6d-1a3bae3c9992 = Спорим, вы удивитесь?
+	fa6ad372-4889-498b-ae6d-1a3bae3c9992 = Це ж просо чудово, правда?
 
 	////3554. ORIGINAL: Then check out the woods next door.
-	8c9a85c8-04c3-4a71-a6c3-3426f2083892 = Пройдите всего лишь несколько шагов - и снова оглянитесь вокруг.
+	8c9a85c8-04c3-4a71-a6c3-3426f2083892 = Тоді перевірте ліс поряд.
 
 	////3555. ORIGINAL: Woods are just awesome.
-	7e0e663c-e6bb-4fbd-b89d-82658cf2c8ed = Леса прекрасны!
+	7e0e663c-e6bb-4fbd-b89d-82658cf2c8ed = Ліси просто чудові.
 
 	////3556. ORIGINAL: This house used feel dark and lonely, but...
-	989baf87-0f8b-4d53-9724-1c0bb92728e2 = Этот дом когда-то был мрачен, пока ...
+	989baf87-0f8b-4d53-9724-1c0bb92728e2 = Цей будинок був сумним та темним, але...
 
 	////3557. ORIGINAL: ...with Connall and Coble overhead lights - life is illuminated.
-	6786ac9b-85ba-4299-b029-132131447ad4 = ... я не установил освещение от 'Connall and Coble', и жизнь стала светлее.
+	6786ac9b-85ba-4299-b029-132131447ad4 = ... з світильниками 'Connall and Coble' - життя ясравішає.
 
 	////3558. ORIGINAL: I'll see you later honey!
-	3350eb97-b888-45f4-972e-14e9b179d146 = До встречи, дорогуша!
+	3350eb97-b888-45f4-972e-14e9b179d146 = ДДо зустрічі мила!
 
 	////3559. ORIGINAL: Bye sweetie. Back at seven for pot roast!
-	94480020-c1de-47c8-931a-914c95174563 = До встречи, милая. Увидимся в семь, когда мы снова будем жарить.
+	94480020-c1de-47c8-931a-914c95174563 = До зустрічі милий! Після роботи буде печеня.
 
 	////3560. ORIGINAL: Sure thing! Hey isn't it bright in here?
-	fb7a7fbb-f202-4c63-bab8-95b6e8e37126 = Конечно. Тебе не кажется, что здесь приятное освещение?
+	fb7a7fbb-f202-4c63-bab8-95b6e8e37126 = Звичайно. Тобі не здається що тут дуже світло?
 
 	////3561. ORIGINAL: It sure is.
-	191551c3-4be4-43ca-9d75-296a138aa1ec = Ну конечно!
+	191551c3-4be4-43ca-9d75-296a138aa1ec = Звичайно!
 
 	////3562. ORIGINAL: Connall and Coble overhead lighting can do magic.
-	079742d1-2bb2-4854-b1d2-3a65da20401a = Освещение от 'Connall and Coble' создаёт волшебство!
+	079742d1-2bb2-4854-b1d2-3a65da20401a = Світильники від 'Connall and Coble' роблять магію!
 
 	////3563. ORIGINAL: Enjoy your day!
-	4666e4b7-d2d7-416d-b4dc-afd6b0d5f117 = Сделайте свой день светлее!
+	4666e4b7-d2d7-416d-b4dc-afd6b0d5f117 = Зроби свій день світлішим!
 
 	////3564. ORIGINAL: Now he's gone - I'll let you into a secret.
-	9b4ce616-8e66-4b0f-823f-ff23c01cdeb4 = И пока он ушел, я открою Вам один секрет.
-
+	9b4ce616-8e66-4b0f-823f-ff23c01cdeb4 = І доки його немає - я поділюсь секретом.
+	ТУДУ
 	////3565. ORIGINAL: Order today and you can bring life back into your home...
 	8e4b219c-1ad4-4179-b730-53902d9f97a0 = Закажите сейчас и Вы сделаете себя счастливее...
 
