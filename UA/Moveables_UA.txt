@@ -682,12 +682,11 @@ Moveables_UA = {
 	Type_A_Grey_Cubicle = "Шафка сіра, тип A",
 	Type_B_Blue_Cubicle = "Шафка синя, тип B",
 	Type_B_Grey_Cubicle = "Шафка сіра, тип B",
-	
-	
+
 	-- ISMoveableSpriteProps names
 	Moveable_object = "Пересувний об'єкт",
 	Scrapable_object = "Розбираємий об'єкт",
-	
+
 	-- Thumpables without CustomName sprite properties, taken from IsoObject:getName()
 	Lamp_on_Pillar = "Ліхтар на стовпі",
 	Metal_Crate = "Ящик: металевий",
@@ -696,7 +695,7 @@ Moveables_UA = {
 	Wooden_Stairs = "Дерев'яна драбина",
 	Wooden_Cross = "Дерев'яний хрест",
 	Wooden_Sign = "Дерев'яна табличка",
-	
+
 	-- Leo, CLH
 	50s_Diner_Table = "Столик: закусочної 50-тих",
 	Broken_Glass = "Осколки скла",
