@@ -9937,7 +9937,7 @@
 
 	////3309. ORIGINAL: Take a trowel.
 	d5a7a459-120c-46d2-915a-84ba1453d013 = Візьміть кельму.
-	ТУДУ:
+
 	////3310. ORIGINAL: Dig some earth.
 	04b62f42-6c22-4dfb-88e2-e7051614cb69 = Викопайте ямку.
 
@@ -12267,7 +12267,7 @@
 	932a3c38-1e38-4425-a68c-f67bd8323354 = Я... вмираю!
 
 	////4086. ORIGINAL: Moley the mole? Doesn't his nose twitch adorably?
-	3ad6254b-f189-4606-9d4e-ba54fd7ca70f = Молі, це кріт? Чи не в нього ніс так гарно смикається?
+	3ad6254b-f189-4606-9d4e-ba54fd7ca70f = Кріт Молі? Хіба його носик не рухається чарівно?
 
 	////4087. ORIGINAL: Soccer?
 	d1b29ffd-09ee-4898-a0ab-33943dbd1c5e = Футбол?
