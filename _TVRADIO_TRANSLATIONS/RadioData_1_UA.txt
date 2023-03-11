@@ -148,7 +148,7 @@
 	1218ffa3-34d9-400e-85cf-95e1462ea1b3 = Якщо гарячка вас не зачепила...
 
 	////46. ORIGINAL [#FFFFC000]: Welcome to Talk the Night. With you until Dawn! I'm Dawn Stevenson.
-	7e5c3cdc-52a6-415b-a54b-4ad1c781f893 = Вітаємо вас в програмі 'Говоримо в Ніч'. З вами до Світанку! Я - Світанок Стівенсон
+	7e5c3cdc-52a6-415b-a54b-4ad1c781f893 = Вітаємо вас в програмі 'Нічна Бесіда'. З вами до Світанку! Я - Дон Стівенсон
 
 	////47. ORIGINAL [#FF00B050]: I realise that lessons were learned from the entire Raleigh episode.
 	109f693d-3ebc-451d-97f0-4fd6d093f26e = Я усвідомлюю що ми засвоїли урок зі всього епізоду в Ролі.
