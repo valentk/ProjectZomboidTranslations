@@ -5296,13 +5296,13 @@
 	902c867e-a33a-4692-9c2d-1a68be0e112d = [img=music] Ти також мене любиш. [img=music]
 
 	////1762. ORIGINAL: [img=music]  You do. [img=music]
-	dc77fb74-6981-449a-8b05-0bc1f0535784 = [img=music] Роби. [img=music]
+	dc77fb74-6981-449a-8b05-0bc1f0535784 = [img=music] Любиш. [img=music]
 
 	////1763. ORIGINAL: [img=music]  Sweetheart darling, you... [img=music]
-	34c71dca-2224-4f3b-9535-5ae616dd0ddd = [img=music] Мою любов. [img=music]
+	34c71dca-2224-4f3b-9535-5ae616dd0ddd = [img=music] Солоденька, ти... [img=music]
 
 	////1764. ORIGINAL: [img=music]  Do... [img=music]
-	22d5cc8d-b723-4b91-ab17-37657384a3cb = [img=music] Роби... [img=music]
+	22d5cc8d-b723-4b91-ab17-37657384a3cb = [img=music] Любиш... [img=music]
 
 	////1765. ORIGINAL: You just know, right where I'll be.
 	d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 = [img=music] Ти просто [img=music]
@@ -11064,13 +11064,13 @@
 	a7457af3-6894-402d-84ad-d187a6f886ad = Заперечення!
 
 	////3685. ORIGINAL: My Lord, the Queens Counsel is only seventeen!
-	4ecaae6a-42c3-493a-88a1-41e1901ac8bd = Мілорде, Раднику королеви всього лиш сімнадцять!
+	4ecaae6a-42c3-493a-88a1-41e1901ac8bd = Мілорде, Раднику Королеви всього лиш сімнадцять!
 
 	////3686. ORIGINAL: Overruled!
 	53c9f3ad-f471-425e-a1b0-a02d6471ce79 = Відхилено!
 
 	////3687. ORIGINAL: Mr Wellen, do you have any evidence for this outlandish claim?
-	f0e5e901-003b-4c4a-ad1b-13066ec5628a = Містере Веллен, в вас є докази цієї дивовижнох заяви?
+	f0e5e901-003b-4c4a-ad1b-13066ec5628a = Містере Веллен, в вас є докази цієї дивовижної заяви?
 
 	////3688. ORIGINAL: I have two pieces of evidence!
 	c61668cd-a031-46eb-b7d1-df4532df5b92 = Навіть два!
@@ -13758,123 +13758,123 @@
 	193d40c2-60e2-4b6c-8905-50c9d5632ea7 = 'Slurp Burp' - номер один серед охолоджуючих напоїв.
 
 	////4583. ORIGINAL: What's more - you turn up at a Zippee Market and say 'it's too darn hot'...
-	2d03c03b-8463-46f3-ab49-4c2338901490 = Или, к примеру, пришли вы в 'Zippee Market' и жалуетесь, что вам жарко...
+	2d03c03b-8463-46f3-ab49-4c2338901490 = А краще - аи приїжаєте в 'Zippee Market' і говорите 'бляха, як тут жарко'...
 
 	////4584. ORIGINAL: That's 10% off your Slurp Burp purchase!
-	b24b6004-76da-4633-8c82-ffbce69b4522 = Это предоставит вам скидку в 10% в магазинах 'Slurp Burp'!
+	b24b6004-76da-4633-8c82-ffbce69b4522 = І це знижка 10% на купівлю 'Slurp Burp'!
 
 	////4585. ORIGINAL: Lemon-lime. Cherry. Cola. You name it!
-	65b2f8fd-ba0e-4841-ac27-5f4d37d2b8fb = Лимон-лайм. Вишня. Кола. По вашему вкусу!
+	65b2f8fd-ba0e-4841-ac27-5f4d37d2b8fb = Лимон-лайм. Вишня. Кола. На ваш смак!
 
 	////4586. ORIGINAL: Zippee Market: Home of the Slurp Burp
-	7f89a3c3-018f-4482-bd35-b1380ee1ef33 = 'Zippee Market' - дом 'Slurp Burp'.
+	7f89a3c3-018f-4482-bd35-b1380ee1ef33 = 'Zippee Market' - дім 'Slurp Burp'.
 
 	////4587. ORIGINAL: What's better than a Spiffo Burger?
-	8425537e-9196-4414-80a9-4df2a05cba7b = Что может быть лучше, чем Бургер Спиффо?
+	8425537e-9196-4414-80a9-4df2a05cba7b = Що краще за Бургери 'Spiffo'?
 
 	////4588. ORIGINAL: Still thinking? Well here's a clue...
-	79dfc4cb-b637-4a27-828a-49774751e8c1 = Вы ещё пытаетесь угадать? Вот вам подсказка...
+	79dfc4cb-b637-4a27-828a-49774751e8c1 = Все ще думаєте? Ось підказка...
 
 	////4589. ORIGINAL: Double XL Bacon!
-	62aeb60a-ae50-4f48-ba6d-c5c5712b4871 = Двойной XL-Бекон!
+	62aeb60a-ae50-4f48-ba6d-c5c5712b4871 = Подвійний XL-Бекон!
 
 	////4590. ORIGINAL: Next time you're in a participating Spiffo's store...
-	213f7f20-9a8b-47c3-ac9c-86df6e99d62d = В следующий раз как вы побываете в магазине, который входит в сеть 'Spiffo'...
+	213f7f20-9a8b-47c3-ac9c-86df6e99d62d = Наступного разу як зайтеде в 'Spiffo'...
 
 	////4591. ORIGINAL: Just use the magic words...
-	98889c66-39e6-4fbe-94ba-bc3f926aa286 = ...просто используйте волшебные слова...
+	98889c66-39e6-4fbe-94ba-bc3f926aa286 = ...просто використайте магічні слова...
 
 	////4592. ORIGINAL: Unleash the Bacon!
-	f8930cc1-ba72-4434-ae3d-aedde4165dfd = 'Явись, сила Бекона'!
+	f8930cc1-ba72-4434-ae3d-aedde4165dfd = 'Випустіть Бекон'!
 
 	////4593. ORIGINAL: And watch delicious happen!
-	3dd45d56-0f6a-4ef3-81ec-b3e5396c3dce = И просто наблюдайте за приготовлением божественной закуски!
+	3dd45d56-0f6a-4ef3-81ec-b3e5396c3dce = А спостерігайте за смакотою!
 
 	////4594. ORIGINAL: The Double XL Bacon upgrade - in stores now!
-	18fe69ab-685b-4dca-b74d-e269eadcd3bc = Двойной XL-Бекон улучшенный - уже сегодня в магазине!
+	18fe69ab-685b-4dca-b74d-e269eadcd3bc = Покращення Подвійний XL-Бекон - В магазинах вже сьогодні!
 
 	////4595. ORIGINAL: Ey, my name eez Pancho.
-	bd78a2b6-1aca-4271-b884-8c81c32f018f = Ээй, моё имя Эль Панчо.
+	bd78a2b6-1aca-4271-b884-8c81c32f018f = Ей, мене звуть Панчо.
 
 	////4596. ORIGINAL: I am a leetle puppy dog!
-	e20c46c3-f2a9-4298-b495-2bfd25560188 = Я ма-а-аленький щенок!
+	e20c46c3-f2a9-4298-b495-2bfd25560188 = А мавенький песик!
 
 	////4597. ORIGINAL: I am 'ere to tell you one thing.
-	bcd6bf7c-fb93-44f1-a49f-16d3fdfb397f = Я здесь для того, чтобы сказать вам одну вещь.
+	bcd6bf7c-fb93-44f1-a49f-16d3fdfb397f = Я туть шоб дешо вам сказати.
 
 	////4598. ORIGINAL: TACOS! BURRITOS! ENCHILLLLADAS!
-	df856737-76e0-48c3-9c06-43fa97bb4ad2 = ТАКО! БУР-РИТО! ЭНЧИЛАДО!
+	df856737-76e0-48c3-9c06-43fa97bb4ad2 = ТАКО! БУР-РІТО! ЕНХІЛАДО!
 
 	////4599. ORIGINAL: ALL OF THAT GOOOOD STUFF!
-	8c1e5c92-b42e-4222-ad8d-4c0f90bae572 = ЭТО ВСЁ О-О-ОЧЕНЬ ВКУСНО!
+	8c1e5c92-b42e-4222-ad8d-4c0f90bae572 = ЦЕ ДУЖЕ СМАЧНО!
 
 	////4600. ORIGINAL: COME TO THE TACO DEL PANCHO!
-	8af01ccb-40bd-4863-b668-b16fb1eeb746 = ПРИХОДИТЕ В ТАКО ДЕЛЬ ПАНЧО!
+	8af01ccb-40bd-4863-b668-b16fb1eeb746 = ПРИХОДІТЬ ДО ТАКО ДЕ ПАНЧО!
 
 	////4601. ORIGINAL: Take it from me! I'm wearing a hat!
-	5ec18628-1f94-4560-ae72-a3b26c54e1bc = Покупайте у меня! Я - в шляпе!
+	5ec18628-1f94-4560-ae72-a3b26c54e1bc = Купуйте в мене! Я в шапці!
 
 	////4602. ORIGINAL: Arriba!
-	2885a9cf-878c-4f67-a6ca-3a417c0666d7 = Арриба!
+	2885a9cf-878c-4f67-a6ca-3a417c0666d7 = Арріба!
 
 	////4603. ORIGINAL: My name's Valerie Pontin, and I work for Gas to Go!
-	c2548cbd-2d91-42b8-ac10-7ab406729cc1 = Моё имя Валери Понтин, и я работаю на 'Gas to Go'!
+	c2548cbd-2d91-42b8-ac10-7ab406729cc1 = Моє їм'я Валері Понтін, я працюю на 'Gas to Go'!
 
 	////4604. ORIGINAL: Sure, we're a big name - but we know family.
-	ad5f91f7-05f5-4766-bfa0-2293f82d307c = У нас громкое имя, но мы помним про семьи.
+	ad5f91f7-05f5-4766-bfa0-2293f82d307c = Звичайно ми велика компанія - але ми знаємо сім'ї.
 
 	////4605. ORIGINAL: I need to take Jimmy to ball practice.
-	ddb77846-e734-4334-8ba4-6cf5a1f0a63b = Я позову Джимми, чтобы потренироваться с ним игре в мяч.
+	ddb77846-e734-4334-8ba4-6cf5a1f0a63b = Мені треба завезти Джимі на бейсбол.
 
 	////4606. ORIGINAL: Sally-Anne needs to meet her friends at the mall by five.
-	992f9072-8c18-404d-8125-e1ce0a12e7b6 = Салли-Энн нужно встретиться с друзьями в торговом центре в пять часов.
+	992f9072-8c18-404d-8125-e1ce0a12e7b6 = Саллі-Анн має зустрітись з друзями в ТЦ о п'ятій.
 
 	////4607. ORIGINAL: That's why I can rest easy knowing I pump the cheapest gas in the county.
-	263c30c5-0783-492c-8966-73adb6ecffed = И я могу быть спокойна, зная, что качаю самый дешёвый бензин в округе.
+	263c30c5-0783-492c-8966-73adb6ecffed = Тому я можу бути спокійна знаючи що я заливаю найдешевший газ в окрузі.
 
 	////4608. ORIGINAL: Come on, join the Gas to Go family!
-	21d0bfad-29f5-4d2a-9d6f-6e482638c666 = Приходите в 'Gas to Go', станьте частью большой семьи!
+	21d0bfad-29f5-4d2a-9d6f-6e482638c666 = Приходіть до 'Gas to Go', свайте членом родини!
 
 	////4609. ORIGINAL: Gas to Go, a Fossoil company.
-	3209af3f-1c7f-402c-8137-fb94b69f48f5 = 'Gas to Go', компания 'Fossoil'.
+	3209af3f-1c7f-402c-8137-fb94b69f48f5 = 'Gas to Go', філія 'Fossoil'.
 
 	////4610. ORIGINAL: Making amends. Working together.
-	2bba8250-c647-4fcd-a722-de25939bf987 = Вносим изменения. Работаем вместе.
+	2bba8250-c647-4fcd-a722-de25939bf987 = Змінюємось. Працюємо разом.
 
 	////4611. ORIGINAL: Further then anyone has gone before.
-	608ea38e-e15b-42fe-b9d2-adf18954fb48 = Дальше, чем ступала чья либо нога.
+	608ea38e-e15b-42fe-b9d2-adf18954fb48 = Дальше за інших. Там де нікого ще не було.
 
 	////4612. ORIGINAL: I'm a cow!
 	1324709a-daa5-4171-a569-eed4641f3254 = Я корова!
 
 	////4613. ORIGINAL: Enjoy ices from our very own Daisy Dairy.
-	53dfb70c-a0a6-4153-8399-62b753a80311 = Заказывайте мороженое наших отменных молочных продуктов.
+	53dfb70c-a0a6-4153-8399-62b753a80311 = Насолоджуйтесь морозивом він наших власних корівок.
 
 	////4614. ORIGINAL: I'm Cal Fairweather, and I am the voice of progess.
-	8852f3ae-e3a1-449c-a4e9-b4a5857d726a = Я Кэл Фэйруэзер, и я голос прогресса.
+	8852f3ae-e3a1-449c-a4e9-b4a5857d726a = Я Кел Феїрвезе, і я голос прогресу.
 
 	////4615. ORIGINAL: I'm Howie Zitron, and I represent YOU.
-	ebedc0e9-9c19-4f4e-860c-9ceaf81f3529 = Я Хоуи Цитрон и я представляю ВАС.
+	ebedc0e9-9c19-4f4e-860c-9ceaf81f3529 = Я Хові Цитрон і я представляю ВАС.
 
 	////4616. ORIGINAL: I've served the good people of Muldraugh and West Point for twenty years!
-	2c1be35f-fd26-45ed-9d79-4e142b96605e = Я служил хорошим людям в Малдро и Вест-Пойнте в течение двадцати лет!
+	2c1be35f-fd26-45ed-9d79-4e142b96605e = Я служив хорошим людям в Малдро Та Вест Поінті двадцять років!
 
 	////4617. ORIGINAL: Employment? Family? Marriage?
-	73b1b184-8e7d-4cc7-bbd2-fab4fbcda3b1 = Работа? Семья? Брак?
+	73b1b184-8e7d-4cc7-bbd2-fab4fbcda3b1 = Робота? Сім'я? Шлюб?
 
 	////4618. ORIGINAL: I know what you want and what you need.
-	95d103d1-2c48-4f25-80b1-02dc52323f22 = Я знаю, что вы хотите и знаю что вам нужно.
+	95d103d1-2c48-4f25-80b1-02dc52323f22 = Я знаю що ви хочете і що вам потрібно.
 
 	////4619. ORIGINAL: And a consultation is free!
-	46e5e7e6-1c87-4a10-8dcb-bee40a8052c9 = И консультация бесплатна!
+	46e5e7e6-1c87-4a10-8dcb-bee40a8052c9 = І консультація безкоштовна!
 
 	////4620. ORIGINAL: Howie Zitron attorney-at-law!
-	c8bfe634-c825-4ba9-a891-996960a865b2 = Адвокат Хоуи Цитрон!
+	c8bfe634-c825-4ba9-a891-996960a865b2 = Адвокат Хові Цитрон!
 
 	////4621. ORIGINAL: Local and best!
-	4293fc93-7971-43db-af38-06e5f65860c0 = Местный и лучший!
+	4293fc93-7971-43db-af38-06e5f65860c0 = Місцевий і найкращий!
 
 	////4622. ORIGINAL: Even though I do say so myself!
-	48d201d8-0325-4952-9eef-d5944239dd73 = Я знаю, о чём говорю!
+	48d201d8-0325-4952-9eef-d5944239dd73 = навіть якщо я сам так говорю!
 
 [/Translations]
