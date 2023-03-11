@@ -13,16 +13,16 @@
 	e50ed454-bc93-42b1-ae0e-4c2f1ff557cf = Військові армії США, які 4 дні тому очікували відправки за межу...
 
 	////1. ORIGINAL [#FF00B050]: It's day three of the Knox evacuation.
-	7627222d-39a5-42bc-9d4d-f3a32a538f27 = Вже настав третій день евакуації Нокс. 
+	7627222d-39a5-42bc-9d4d-f3a32a538f27 = Вже настав третій день евакуації Нокс.
 
 	////2. ORIGINAL [#FF00B050]: When I asked whether the military sensitivity of the region...
-	645bdef2-eca1-45d5-b1a8-6c8928ddd30f = Коли я запитав, чи має військова присутність в регіоні... 
+	645bdef2-eca1-45d5-b1a8-6c8928ddd30f = Коли я запитав, чи має військова присутність в регіоні...
 
 	////3. ORIGINAL [#FF00B050]: LBMW ask the questions...
-	fb720674-250f-41ca-b269-e5e69da97c0c = 'LBMW' задає питання... 
+	fb720674-250f-41ca-b269-e5e69da97c0c = 'LBMW' задає питання...
 
 	////4. ORIGINAL [#FF00B050]: 'We don't feel safe.'
-	9fe638a4-fc1c-4796-9cec-9a248d8fe53e = 'Ми не відчуваємо себе в безпеці'. 
+	9fe638a4-fc1c-4796-9cec-9a248d8fe53e = 'Ми не відчуваємо себе в безпеці'.
 
 	////5. ORIGINAL [#FF00B0F0]: And for the rumor-mongering that has grown around the so-called 'Knox Event'.
 	fe80180c-2253-456a-bb7e-75bb249da8ba = І для спекуляцій які обросли довкола так званої 'Події Нокса'
@@ -52,19 +52,19 @@
 	f3439f8e-3452-48b5-9b6b-744d60c81e00 = Были просто предупреждающими выстрелами.
 
 	////14. ORIGINAL [#FF7030A0]: [img=music] If I could say... [img=music]
-	cde3e217-4636-4c90-b8eb-673baa2e7c4e = [img=music] Якби я міг сказати ... [img=music] 
+	cde3e217-4636-4c90-b8eb-673baa2e7c4e = [img=music] Якби я міг сказати ... [img=music]
 
 	////15. ORIGINAL [#FF7030A0]: [img=music] Anything that would make you stay. [img=music]
 	25e6e6e3-1463-42c0-bbbe-af351d3fc5cc = [img=music] Будь що щоб тебе залишити [img=music]
 
 	////16. ORIGINAL [#FF7030A0]: [img=music] You know I would. You know. [img=music]
-	7f0901bb-4fed-4288-8374-771a736e1fd5 = [img=music] Ти знаєш я б. Ти знаєш. [img=music] 
+	7f0901bb-4fed-4288-8374-771a736e1fd5 = [img=music] Ти знаєш я б. Ти знаєш. [img=music]
 
 	////17. ORIGINAL [#FF7030A0]: [img=music] I never wanted to step in your way... [img=music]
 	379dc781-6a7c-47d4-82c3-9709ed1743b3 = [img=music] Я ніколи не хотів стати на твій шлях ...
 
 	////18. ORIGINAL [#FF7030A0]: [img=music] And you... you know you love me too, ooh... [img=music]
-	91bb6cc4-50eb-4ab8-a872-692dfb9c1298 = [img=music] А ти ... ти знаєш, ти мене теж любиш, ох ... [img=music] 
+	91bb6cc4-50eb-4ab8-a872-692dfb9c1298 = [img=music] А ти ... ти знаєш, ти мене теж любиш, ох ... [img=music]
 
 	////19. ORIGINAL [#FF7030A0]: [img=music] You love me too. [img=music]
 	fc02e25d-971d-452f-b5c3-957eaa631e0f = [img=music] Ти теж мене любиш. [img=music]
@@ -79,22 +79,22 @@
 	8b91c597-72e3-46eb-b7c2-cdd1a38493cf = [img=music] Любиш... [img=music]
 
 	////23. ORIGINAL [#FF7030A0]: [img=music] You just know, right where I'll be. [img=music]
-	d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 = [img=music] Ти просто [img=music] 
+	d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 = [img=music] Ти просто [img=music]
 
 	////24. ORIGINAL [#FF7030A0]: [img=music] Just turn around. It's me you'll see. [img=music]
 	8dfc1882-c695-44df-91b2-7eddaddf1bb1 = [img=music] Ти просто знаєш де я буду. [img=music]
 
 	////25. ORIGINAL [#FF7030A0]: [img=music] I can't lie. [img=music]
-	64ce4ff8-0728-4884-b091-7e9823320834 = [img=music] Я не можу брехати. [img=music] 
+	64ce4ff8-0728-4884-b091-7e9823320834 = [img=music] Я не можу брехати. [img=music]
 
 	////26. ORIGINAL [#FF7030A0]: [img=music] You'll see me cry. [img=music]
-	8d1175f0-2431-4edd-9aaa-2fa4e1d12b2e = [img=music] Ти побачиш, як я плачу. [img=music] 
+	8d1175f0-2431-4edd-9aaa-2fa4e1d12b2e = [img=music] Ти побачиш, як я плачу. [img=music]
 
 	////27. ORIGINAL [#FF7030A0]: [img=music] You'll know that a true heart can bleed. [img=music]
-	62afca05-35b8-4243-b686-bf160368826f = [img=music] Ти дізнаєшся, як заливається серце кров'ю. [img=music] 
+	62afca05-35b8-4243-b686-bf160368826f = [img=music] Ти дізнаєшся, як заливається серце кров'ю. [img=music]
 
 	////28. ORIGINAL [#FF7030A0]: [img=music] And you... you know you love me too, ooh. [img=music]
-	8aa6b2be-38da-42c3-8a3a-98b83eb50ba9 = [img=music] А ти ... ти знаєш, ти мене теж любиш, ооо ... [img=music] 
+	8aa6b2be-38da-42c3-8a3a-98b83eb50ba9 = [img=music] А ти ... ти знаєш, ти мене теж любиш, ооо ... [img=music]
 
 	////29. ORIGINAL [#FF7030A0]: ... by The Question.
 	160c11a7-412b-4ee9-b5e5-a2d7f19435ce = … від групи 'The Question'.
@@ -199,7 +199,7 @@
 	fc89eb09-6ed8-4d34-a175-19b234f583fc = Так ось, я стала якось на ваги...
 
 	////63. ORIGINAL [#FF00B050]: Four planks! Four nails! One knob! Two hinges!
-	dbaceec5-1ead-424d-809b-61a681de22c8 = Чотири дошки! Чотири цвяха! Одна ручка! Дві петлі!
+	dbaceec5-1ead-424d-809b-61a681de22c8 = Чотири планки! Чотири цвяхи! Одна ручка! Дві петлі!
 
 	////64. ORIGINAL [#FFFFC000]: Take three pieces of wood - planks maybe.
 	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = Візьміть три дерев'яні обрубки - можливо планки.
@@ -220,13 +220,13 @@
 	4821dcbf-7084-4ad8-b681-f6eebbae29ad = [img=music] Оркестрова музика [img=music]
 
 	////70. ORIGINAL [#FF7030A0]: Dr.Oids is the latest blockbuster to hit the big screen...
-	4e76091e-9469-4004-9b8e-066d57cd91bc = 'Dr.Oids' - це останній блокбастер що добрався до великуих екранів...
+	4e76091e-9469-4004-9b8e-066d57cd91bc = 'Др.Оїди' - це останній блокбастер що добрався до великих екранів...
 
 	////71. ORIGINAL [#FF7030A0]: How did you prepare for your role as Dr.Oids?
-	c819e3b2-fe41-4f1c-ae8f-e5cc618e646d = Як ви готувались до вашої ролі в 'Dr.Oids'?
+	c819e3b2-fe41-4f1c-ae8f-e5cc618e646d = Як ви готувались до вашої ролі  Доктора Оїди?
 
 	////72. ORIGINAL [#FF00B050]: Dr.Oids is out in theaters now folks
-	8b5bfe23-ac2d-459c-93de-8450789a9bc1 = 'Dr.Oids' - Вже на екранах кінотеатрів!
+	8b5bfe23-ac2d-459c-93de-8450789a9bc1 = 'Др.Оїди' - Вже на екранах кінотеатрів!
 
 	////73. ORIGINAL [Black]: *bang!* *bang*
 	5ccc9fe3-77fc-4786-8e39-a25e36e4db19 = *бах!* *бах*
@@ -250,7 +250,7 @@
 	980e2e5d-fb55-417d-a38d-7d08838abdaf = Спонсоровано Спіффо?!
 
 	////80. ORIGINAL [Red]: And Zachary, would you like to play on the see-saw?
-	a706a64e-f46a-407f-b853-91c7e0b607bf = І Захаре, чи хочеш ти погратися на гойдалці?
+	a706a64e-f46a-407f-b853-91c7e0b607bf = Зайчику Захарчику, чи хочеш ти погратися на гойдалці?
 
 	////81. ORIGINAL [#FF00B050]: That elegant swiss fondue set? $33.99
 	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = Можливо вас зацікавить швейцарське фондю? $33.99
@@ -259,7 +259,7 @@
 	72ff543a-10c4-409f-a7c2-9603dc521c11 = Я... ВМРИ!
 
 	////83. ORIGINAL [#FF7030A0]: Moley the Mole? Doesn't his nose twitch adorably?
-	a44a5560-5f13-4575-9cd4-9a931123f3fd = Кріт Молі? Хіба його носик не рухається чарівно? 
+	a44a5560-5f13-4575-9cd4-9a931123f3fd = Кріт Молі? Хіба його носик не рухається чарівно?
 
 	////84. ORIGINAL [#FF00B050]: Let's help your little friend here...
 	845988d3-0acf-464a-952e-b0b05050ad46 = Давай допоможемо твому маленькому другу...
@@ -268,7 +268,7 @@
 	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = $15.99, плюс доставка і пакування!
 
 	////86. ORIGINAL [Red]: I ONLY ASK THAT WHEN THE NIGHT SKY DARKENS, YOU REMEMBER ME.
-	4f019495-c989-495d-8c31-ed833ef9c7e7 = Я ПРОШУ ТОЛЬКО ОБ ОДНОМ, ВСПОМИНАЙ ОБО МНЕ, КОГДА ТЕМНЕЕТ НЕБО.
+	4f019495-c989-495d-8c31-ed833ef9c7e7 = Я ЛИШЕ ПОПРОШУ ЩОБ ЗГАДУВАЛИ МЕНЕ, КОЛИ НІЧ ТЕМНІШАЄ..
 
 	////87. ORIGINAL [#FF7030A0]: Fluffyfoot the Fluffy Bunny? Have you ever seen a rabbit so fluffily scrumptious?
 	3707534c-49f2-4dc1-bbff-6ef689a945e7 = ФлафіФут пухнастий Кролик? Ви коли-небудь бачили такого пухнастого стильного кролика?
@@ -289,13 +289,13 @@
 	7c5dff7e-cf05-4071-a86f-229e0fee0764 = [img=music] Чи танцюють роботи [img=music]
 
 	////93. ORIGINAL [#FF00B0F0]: Dr. Oids, Rated Universal.
-	75fa01e1-5c17-493a-b539-1d009ade45f2 = 'Dr. Oids', Рейтинг Для всіх.
+	75fa01e1-5c17-493a-b539-1d009ade45f2 = 'Др.Оїди', Рейтинг Для Усіх.
 
 	////94. ORIGINAL [#FF00B050]: Thanks for asking family doctors to recommend: Incontileve.
 	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = Дякуємо що просите сімейного лікаря рекомендувати 'Incontileve'.
 
 	////95. ORIGINAL [#FF00B050]: I'm Joe McKenzie, and I run the Knox Country Pony Roam-O.
-	77383a36-ae45-466d-9c4c-78c036d2862f = Я Джо МакКеззі, і я заавідую 'Pony Roam-O' округу Нокс
+	77383a36-ae45-466d-9c4c-78c036d2862f = Я Джо МакКензі, і я завідую 'Pony Roam-O' округу Нокс
 
 	////96. ORIGINAL [#FF00B050]: Horses: the finest animals our nation has to offer.
 	c09412e4-f02c-4735-9397-5736fd0ac2e6 = Наші конячки найкраще що може запропонувати наша нація.
