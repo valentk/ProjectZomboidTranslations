@@ -10924,7 +10924,7 @@
 
 	////3638. ORIGINAL: Life's rather tricky when you're 17.
 	fe78c652-284c-4ed1-b16d-15a3fded56ab = Життя дивна річ, особливо коли тобі 17.
-	ТУДУ
+
 	////3639. ORIGINAL: Life's even trickier when you're a Queen's Counsel in the British Judicial System.
 	3eecc27d-b503-4623-a63e-c0e089d328ac = Життя ще більш дивне, коли ти радник королеви в британському суді.
 
